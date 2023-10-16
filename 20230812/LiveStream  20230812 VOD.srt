@@ -1,0 +1,3060 @@
+1
+00:00:00,000 --> 00:00:10,000
+What topic? I am going to try to take this out.
+
+2
+00:00:10,000 --> 00:00:12,000
+Do you have any topic in mind?
+
+3
+00:00:12,000 --> 00:00:22,000
+I have. Before that, let me start with a brief introduction and the reason why I am choosing to stream.
+
+4
+00:00:23,000 --> 00:00:31,000
+I don't have much of a viewer and this is not being streamed on Twitch. This is purely being streamed to YouTube for the vault purpose.
+
+5
+00:00:31,000 --> 00:00:42,000
+It's almost like a time capsule. That purpose. Probably not relevant for next 2 years, 3 years, 5 years.
+
+6
+00:00:42,000 --> 00:00:49,000
+But maybe 50 years down the line, somebody might find this and it might add some context, some meaning.
+
+7
+00:00:49,000 --> 00:00:52,000
+I don't know. Hopefully, that is the case.
+
+8
+00:00:59,000 --> 00:01:04,000
+I feel that we have been having this chat. We have been having the conversation for the last couple of weeks.
+
+9
+00:01:04,000 --> 00:01:12,000
+There has been a lot of interesting topics that we kind of touched. But the volatility of it, I kind of don't enjoy that part.
+
+10
+00:01:12,000 --> 00:01:25,000
+Even though I see the trying to be that Ozymandias and also see the irony of it, but I also can't, as a life form, I cannot just go into the dark night.
+
+11
+00:01:25,000 --> 00:01:32,000
+I have to fight back against it. So that's kind of the way to try to retain as much information as possible.
+
+12
+00:01:32,000 --> 00:01:40,000
+Hopefully, that is relevant or useful for us or to somebody else for that matter at any point in time.
+
+13
+00:01:40,000 --> 00:01:50,000
+With that said, for anybody watching this, I'm Deb. This is Kaustubh. We go a long way. We have had previous ventures.
+
+14
+00:01:50,000 --> 00:02:03,000
+So we have a tendency of imagining a future and then talking about it and then getting excited about it and then doing something and then realizing that the world hasn't caught up to it yet and it needs more time.
+
+15
+00:02:03,000 --> 00:02:09,000
+So by the time the world actually catches up with it, we kind of are done with it, exhausted about it and bored about it.
+
+16
+00:02:09,000 --> 00:02:18,000
+And we moved on to something different that had happened with the entire three pillars of the things that we are working with right now.
+
+17
+00:02:18,000 --> 00:02:32,000
+The world has caught up to the part about unified communication, self-autonomous software, and eventually going to be that he brain machine interface.
+
+18
+00:02:32,000 --> 00:02:41,000
+Those are the things that we are kind of in that zone right now, which is good. Applet died for that scene 10 years back.
+
+19
+00:02:41,000 --> 00:02:53,000
+Anyway, so hopefully the things that we're talking about now, it becomes relevant at some point. Topics that I have been trying to jot them down in notion.
+
+20
+00:02:53,000 --> 00:03:02,000
+I kind of have like it's not very sorted or organized, but I think I do better thinking when I'm trying to vocalize it and trying to find the pitfalls.
+
+21
+00:03:02,000 --> 00:03:11,000
+So that is kind of my outlet, like discussing with you and figuring out where I'm coming wrong or where are the parts that are darker still that I need to shed more light on.
+
+22
+00:03:11,000 --> 00:03:22,000
+And I think you also have some some things to discuss. So tossing the mic back on to you. Go ahead. Where do you want to go?
+
+23
+00:03:22,000 --> 00:03:34,000
+So, I mean, content warning for viewers more on the lines that you this is more like choosing to record our thoughts.
+
+24
+00:03:34,000 --> 00:03:48,000
+And it tends to be sometimes utterly specific, thus being very narrow and sometimes extremely generalistic, thus being not applicable to specific context.
+
+25
+00:03:48,000 --> 00:03:59,000
+The pedal is getting raw information as it processes and comes out of the brain.
+
+26
+00:03:59,000 --> 00:04:08,000
+The benefit that I hope that even I wish to have when I look back at this in the future is to see the thoughts forming.
+
+27
+00:04:09,000 --> 00:04:16,000
+And sometimes, you know, when you look back at the process of thought, it's kind of like an RPG.
+
+28
+00:04:16,000 --> 00:04:29,000
+Like if you pause and play back and wonder if I had thought something different here, kind of like tweaking the variable of my own thought, would that produce a different outcome and then just run tests?
+
+29
+00:04:29,000 --> 00:04:40,000
+So I would say one of the purpose for me even regarding it at this stage is probably the like wanting the ability to actually come back to it, analyze it.
+
+30
+00:04:40,000 --> 00:04:53,000
+So maybe I think this will become a topic in a lot of our discussions, the retrievability of information and what does it need to maximize that?
+
+31
+00:04:53,000 --> 00:05:03,000
+And I guess that is sort of one of the segues to some of the topics that we have been discussing.
+
+32
+00:05:03,000 --> 00:05:12,000
+Let's say I'd like to start with a few of my old Bangla shots.
+
+33
+00:05:12,000 --> 00:05:24,000
+Like an elder brother of mine had explained to me when I was about four or five years of age, I'm just learning Bangla of the types of students that exist in a school.
+
+34
+00:05:24,000 --> 00:05:39,000
+And he had said, and the equivalents are there is bigabego, so big in Bangla means fast, like for those students who understand very fast and who forget very fast.
+
+35
+00:05:39,000 --> 00:05:47,000
+There is dhirobego, dhiro means slow, like where somebody slow to learn and forgets very fast.
+
+36
+00:05:47,000 --> 00:05:54,000
+Then there is begodhiro, which is somebody learns very fast and forgets very slowly.
+
+37
+00:05:54,000 --> 00:06:02,000
+And there is dhirodhiro, like I take a long time to learn, but then I'm very slow to forget.
+
+38
+00:06:02,000 --> 00:06:17,000
+And he had told me what you want to be in life is the begodhiro, like you want to be able to learn the fastest and remember it the longest.
+
+39
+00:06:17,000 --> 00:06:25,000
+I found that it's a very good middle class Bengali aspiration, which like most things are not attainable in reality.
+
+40
+00:06:25,000 --> 00:06:39,000
+So what actually you would want to do, in fact, then that somehow stayed with me, you know, like the earliest perceptions of how humans think and how others perceive others thinking.
+
+41
+00:06:39,000 --> 00:06:49,000
+From there, it has kind of been that guiding stone that, okay, what if I tweak the system to my benefit, given my apparent lack of capability?
+
+42
+00:06:49,000 --> 00:06:59,000
+So what would it do, like my ideal combination then became the begabego that I want to be able to learn very fast, forget very fast.
+
+43
+00:06:59,000 --> 00:07:09,000
+But I want to be able to recall just specific things when I want, because it seems like that's what I'm very used to, like I don't remember what I ate yesterday.
+
+44
+00:07:09,000 --> 00:07:16,000
+But I have a very good collection of all the things I have cooked and I can make you something which was something like yesterday.
+
+45
+00:07:16,000 --> 00:07:29,000
+And if can you tune my life to that direction? So just to draw it back to where we have been discussing is sort of this intersectional perspective that there are certain things that human brains are capable of doing.
+
+46
+00:07:29,000 --> 00:07:37,000
+There are certain things that human collectives are capable of forming and the principles seem to be beyond anthropomorphic.
+
+47
+00:07:37,000 --> 00:07:48,000
+That is, these are more generic principles. So what are those limitations that we are enforcing upon ourselves by the anthropomorphic lenses that we have put?
+
+48
+00:07:48,000 --> 00:07:59,000
+Which very interestingly leads us down to the discussion of morality, that what is good, what is bad? Am I a good boy, am I a bad boy?
+
+49
+00:07:59,000 --> 00:08:09,000
+Now, well, it goes to say good boy, bad boy, good daddy, bad daddy. Yeah, but am I a good boy and a bad daddy?
+
+50
+00:08:09,000 --> 00:08:20,000
+These are all subjective. So then what's the function of morality? But then, given that both of our, so I know they're up to the Maasala community.
+
+51
+00:08:20,000 --> 00:08:36,000
+That's where we had met, he was my mentor there. And yeah, I have been stuck like, you know, stronger than it leads to your toes, like kind of absorbing the nutrients.
+
+52
+00:08:36,000 --> 00:08:47,000
+But then, I mean, from them, I see that as a more of a binary system, like binary star, like two neutron stars, that kind of system.
+
+53
+00:08:47,000 --> 00:09:03,000
+I was coming to that. Yeah, I mean, so when I say like leech, that was basically the object of morality being applied to give it a connotation of good and bad and parasitic being just a one way communication, let's say.
+
+54
+00:09:03,000 --> 00:09:25,000
+Which has been something that has constantly clashed because there's probably the only other person I know who speaks the exact same languages, has exposure to similar kind of cultures, and things in that exact nonsensical absurdist generalist, yet specific, but occasionally vague that you won't understand without the concept.
+
+55
+00:09:25,000 --> 00:09:40,000
+And I, this is all just a long introduction of what is coming up. This is sort of a summary. Somebody hasn't ended. This is still the trailer.
+
+56
+00:09:40,000 --> 00:10:01,000
+Now, what happens is when you just look into these things, and then look at the world around us, which is, it's like applied philosophy, that you take the basics of metaphysics, and you look at the world around you and try to narrate those things with these lenses, then what does it look like?
+
+57
+00:10:01,000 --> 00:10:18,000
+And you start seeing the intersections. For example, a lot of this discussion would quickly go into quantum computing for the very fact that it is one of those paradigm shifts, which lets us think differently, which lets us plan differently.
+
+58
+00:10:18,000 --> 00:10:38,000
+But then a lot of my interest is also to see that what can we do with what we already have? And that is not the same as combining a few tools to build something out of it. It's not assembly.
+
+59
+00:10:38,000 --> 00:10:50,000
+But it's a careful deconstruction of every tool that we have to see what is it that they're doing? What is it that they're providing us? And when it's a tool, I mean language as a resource. So let's just consider resource, right?
+
+60
+00:10:50,000 --> 00:11:05,000
+And then putting it back in a certain configuration to see if that is giving us any different results. And this is pretty much how I think both of us think, how we try to talk, how we also try to document.
+
+61
+00:11:05,000 --> 00:11:13,000
+So I guess I will again now put things back.
+
+62
+00:11:13,000 --> 00:11:18,000
+So you gave quite a few points for me to jump off.
+
+63
+00:11:18,000 --> 00:11:21,000
+But now let's build from there.
+
+64
+00:11:21,000 --> 00:11:41,000
+Yeah. So one of those things that you mentioned about that, the way that is very narrow, very certain, very specific frequency band that we communicate, I've kind of figured out the reason for that. Shukumar Rai.
+
+65
+00:11:41,000 --> 00:11:57,000
+So I was going to pay tribute to him. He's like a death anniversary. What do you call that thing?
+
+66
+00:11:58,000 --> 00:12:00,000
+You just called it a death anniversary.
+
+67
+00:12:00,000 --> 00:12:11,000
+Okay, so that is the term. I'm bad with nouns, essentially, in a sense. So that is 10th September, this centenary, essentially.
+
+68
+00:12:11,000 --> 00:12:33,000
+And the fun fact is, he would be exactly pretty much 100 years older than me. It gives me a lot of not to think about, so I kind of like working towards that. But point is, I kind of realized that shaped a lot of my childhood, that shaped a lot of my adulthood, and that shaped a lot of the kinds of friends that I am capable of making in the first place.
+
+69
+00:12:33,000 --> 00:12:52,000
+But it also gave me a very good framework of looking at life, not too chill, not too uptight, but in a particular narrow band where the bandwidth is kind of maximum, in a sense, for the lack of a better way to explain it.
+
+70
+00:12:53,000 --> 00:12:55,000
+The non-compromising observer.
+
+71
+00:12:55,000 --> 00:13:14,000
+Yeah, maximally curious non-compromising observer, in a sense. The maximally curious part is kind of important, because sometimes I have to let go of opportunity for the maximal curiosity part, like I want to see more, know more, and sometimes I might need to take less reward because of that.
+
+72
+00:13:14,000 --> 00:13:23,000
+So anyways, putting that aside, just wanted to mention that because the kind of framework, I didn't know about it even a couple of months back. What was it?
+
+73
+00:13:23,000 --> 00:13:29,000
+It's like you'd be amazed how much sense absurdist techniques can make.
+
+74
+00:13:29,000 --> 00:13:45,000
+Ironically. So the other part of that information persistence that you started to talk about, you kind of went into that direction, but you actually didn't traverse. I want to know more about that part. Yeah, it happens all the time. It happens to me as well. I'll do that all the time.
+
+75
+00:13:45,000 --> 00:13:52,000
+I was like charting the periphery of the quadrant. It's like you take a left from Kronos, don't continue straight.
+
+76
+00:13:52,000 --> 00:13:57,000
+Okay, so that's the delta quadrant then.
+
+77
+00:13:57,000 --> 00:14:18,000
+So the parts that we can basically talk about as you kind of lay down, like quantum computing, cognitive psychology, like the entropy of matter, things that we're doing, what is good, the sense of morality in the first place, and how we approach things, what is worth doing.
+
+78
+00:14:18,000 --> 00:14:30,000
+As in this is one of the things that probably not a lot of philosophical debate that gets into usually like what is worth doing, like what is good, what is bad, that usually is kind of crux of the matter.
+
+79
+00:14:30,000 --> 00:14:39,000
+What is worth doing? Like after knowing what is good, what is bad? What's your takeaway? Where do you go from there?
+
+80
+00:14:39,000 --> 00:14:47,000
+So that is probably a very underexplored topic, but there are a lot of things that we can think about.
+
+81
+00:14:47,000 --> 00:14:55,000
+I think you want to write up. You do better thinking when you write something, if I'm not mistaken.
+
+82
+00:14:55,000 --> 00:14:58,000
+I do better communication when I write.
+
+83
+00:14:58,000 --> 00:14:59,000
+Okay.
+
+84
+00:14:59,000 --> 00:15:02,000
+I do better thinking when I scribble and speak.
+
+85
+00:15:02,000 --> 00:15:06,000
+Okay, yeah. So for me, that is especially the case.
+
+86
+00:15:06,000 --> 00:15:09,000
+I do better thinking when I'm vocalizing, subverbalizing something.
+
+87
+00:15:09,000 --> 00:15:26,000
+I'm pathetic at it, and the reason I stumble, the reason I stammer, the reason I kind of go back and forth and can't find the right word for it is because that is the particular point when I'm actually like threading the needle, or trying to, essentially.
+
+88
+00:15:26,000 --> 00:15:32,000
+I'm forming my thoughts at that point when I'm actually talking about it, so kind of happening in parallel.
+
+89
+00:15:32,000 --> 00:15:41,000
+I can collate them better later, but actually the uncharted territory traversing that part, I need to verbalize it.
+
+90
+00:15:41,000 --> 00:15:55,000
+So I think I am also trying to kind of figure out what are those thoughts, what are those things that we can go through, and how can we kind of make them, give them some sort of permanence.
+
+91
+00:15:55,000 --> 00:15:59,000
+At least to give our best, to give some kind of permanence, right?
+
+92
+00:15:59,000 --> 00:16:08,000
+So that's what we are basically trying to probably figure out, and I am trying to make this thing kind of a not a one-time thing.
+
+93
+00:16:08,000 --> 00:16:18,000
+This is something that we keep on biting every chunk by chunk, and get to the end of it, and come out with a result with some sort.
+
+94
+00:16:19,000 --> 00:16:30,000
+It doesn't have to be, it doesn't have to generate some magnifying glass or something, but having some kind of goal kind of gives a framework to look up to, essentially.
+
+95
+00:16:30,000 --> 00:16:37,000
+That's pretty much what I'm coming from. Maybe I need to re-evaluate that at some point, but that's where I'm at.
+
+96
+00:16:37,000 --> 00:16:47,000
+I think that itself is a very interesting part to focus on, because in a fundamental way, we are trying to capture chaotic thinking,
+
+97
+00:16:47,000 --> 00:16:55,000
+aligned to people who roughly think in the same domains, but not necessarily the same directions, but with ample intersections.
+
+98
+00:16:55,000 --> 00:17:00,000
+So there is a large union set here.
+
+99
+00:17:00,000 --> 00:17:09,000
+But how does that actually begin to form to a point that actually produces something in the end?
+
+100
+00:17:09,000 --> 00:17:15,000
+And each of these are then loops, or like levels of state, whichever way you plot it.
+
+101
+00:17:15,000 --> 00:17:21,000
+And I think that the important thing is figuring out the loops in the system.
+
+102
+00:17:21,000 --> 00:17:28,000
+So the best way to figure it out is, and again, I'm just depicting what has worked for us in the past,
+
+103
+00:17:28,000 --> 00:17:32,000
+which is we start down a path of inquiry, like go down a rabbit hole.
+
+104
+00:17:32,000 --> 00:17:39,000
+At some point, if the rabbit hole intersects with something you've touched on the path, then you have a loop.
+
+105
+00:17:39,000 --> 00:17:45,000
+So then note that, go back and mark that loop, and then carry on.
+
+106
+00:17:45,000 --> 00:17:48,000
+That don't take that path again.
+
+107
+00:17:48,000 --> 00:17:56,000
+Which is, in our current state, then that is like the point of one article, one library, we don't know.
+
+108
+00:17:56,000 --> 00:18:07,000
+Like each of them then would have traced one full path, which should have some artifact that can be produced as a result of that.
+
+109
+00:18:07,000 --> 00:18:10,000
+Right.
+
+110
+00:18:10,000 --> 00:18:17,000
+One other thing, aside from that, that I was figuring out, that is probably not mutually exclusive,
+
+111
+00:18:17,000 --> 00:18:27,000
+but another way to approach it is, not always two people talking about the same domain, discussing the same thing,
+
+112
+00:18:27,000 --> 00:18:32,000
+have to actually come to a synthesis, not necessarily, because the amount of information available,
+
+113
+00:18:32,000 --> 00:18:39,000
+the amount of discussion necessary, amount of vocabulary available, all those things kind of sometimes may pose the amount of life experience needed.
+
+114
+00:18:39,000 --> 00:18:44,000
+All those things might pose a certain limitation that you might not be able to come to a conclusion,
+
+115
+00:18:44,000 --> 00:18:53,000
+but it might still be necessary to present both the sides of the argument itself as a documentation, in a sense.
+
+116
+00:18:53,000 --> 00:18:58,000
+It is not necessary to come to a, okay, no, we agree with each other now.
+
+117
+00:18:58,000 --> 00:19:06,000
+It is okay to have that, okay, your standpoint and morality stands here, mine is here, but we present both of those things.
+
+118
+00:19:06,000 --> 00:19:16,000
+Maybe we ourselves can revisit it in five years' time, and maybe we have some better tools to deal with that, but it might still be necessary to document it as is.
+
+119
+00:19:16,000 --> 00:19:24,000
+Not mutually exclusive with any of the previous approach we already have tried and worked, but I think that's also yet another thing that we can try.
+
+120
+00:19:24,000 --> 00:19:31,000
+Previously, we had tried to work towards a common endpoint, essentially.
+
+121
+00:19:31,000 --> 00:19:38,000
+So that gives me a very interesting segue into the kind of like the core discussions.
+
+122
+00:19:38,000 --> 00:19:46,000
+Now, a lot of these discussions tend to focus around the abstracts and like the abstraction of the discussion, like the meta, so to say.
+
+123
+00:19:47,000 --> 00:20:00,000
+And kind of like HTTP requests, like if you send reasonable enough information in the header, your body does not need to contain status codes, you know, the kind of APIs I'm talking of.
+
+124
+00:20:00,000 --> 00:20:05,000
+Like, don't send redundant status codes. It's kind of like, don't do small talk, please.
+
+125
+00:20:05,000 --> 00:20:09,000
+I mean, if you just look, if I was an HTTP server, whatever they've said.
+
+126
+00:20:09,000 --> 00:20:21,000
+But then the thing that they've said, in terms of the discussions and then something fruitful coming out of it, and that we record so that we can revisit it in, let's say, five years.
+
+127
+00:20:21,000 --> 00:20:29,000
+Now, one of the themes that also happens is this is the third five-year term that we are entering in that sense.
+
+128
+00:20:29,000 --> 00:20:36,000
+Our first five year was about, let's build open source communities in India in some form.
+
+129
+00:20:36,000 --> 00:20:51,000
+Second five year was on the lines of there are some of these fundamental technologies that we are interested in that looks like we need to do what we actually want to do, which is like things on top of that.
+
+130
+00:20:51,000 --> 00:21:00,000
+And then now at the third five year, where we interestingly have some direction, some vision, and that's there.
+
+131
+00:21:00,000 --> 00:21:05,000
+But then we also have these two five-year stages to inform us from.
+
+132
+00:21:05,000 --> 00:21:16,000
+And there has been a massive increase in the capacity of information processing in this last 10 years or last 11 years.
+
+133
+00:21:16,000 --> 00:21:25,000
+So the way we have communicated, starting from an IRC ping to figure out if this person is alive, exists, or is a bot.
+
+134
+00:21:25,000 --> 00:21:29,000
+And like, was developer a bot was the sort of question.
+
+135
+00:21:29,000 --> 00:21:46,000
+So coming from there to this place where we are at a technological front where this conversation can be recorded, annotated, grouped, archived, cataloged, open for me to search through.
+
+136
+00:21:46,000 --> 00:21:52,000
+Which just makes me think how much more like what I could have done if my class notes were on this.
+
+137
+00:21:52,000 --> 00:21:56,000
+Would I have been a better student? Would I have been able to continue in academia?
+
+138
+00:21:56,000 --> 00:22:03,000
+Because at that point, well, I just had to record the lectures of the professors, come back in my time.
+
+139
+00:22:03,000 --> 00:22:09,000
+Now, before you start thinking that this is me trying to skip classes, no.
+
+140
+00:22:09,000 --> 00:22:15,000
+The environment of the classrooms were such that I could not concentrate in the rooms.
+
+141
+00:22:16,000 --> 00:22:19,000
+I completely understand. You are preaching to the choir here.
+
+142
+00:22:19,000 --> 00:22:22,000
+So I completely understand that particular thing.
+
+143
+00:22:22,000 --> 00:22:28,000
+This is not my best moment of focus, but I have to somehow master it.
+
+144
+00:22:28,000 --> 00:22:31,000
+Or take it, essentially, which is what happened most of the time.
+
+145
+00:22:31,000 --> 00:22:33,000
+So I completely understand. Go ahead.
+
+146
+00:22:33,000 --> 00:22:47,000
+Yeah. So from there, just like taking those ideas and arguments and, you know, at times bundling them into the ferocity of even how we built software on a day to day basis.
+
+147
+00:22:47,000 --> 00:23:02,000
+And sometimes it's not easy to explain to a colleague on why I am taking a certain moralistic stand about even that's an API interface, which seems like this will definitely be damaging in the short term.
+
+148
+00:23:03,000 --> 00:23:08,000
+And I am saying that this will give us a number of benefits in the long term.
+
+149
+00:23:11,000 --> 00:23:14,000
+I think the fundamental reasons have not changed.
+
+150
+00:23:14,000 --> 00:23:16,000
+They have just embellished, sharpened.
+
+151
+00:23:16,000 --> 00:23:19,000
+Now I have maybe a wider vocabulary to communicate.
+
+152
+00:23:19,000 --> 00:23:28,000
+So the next thing to see is what can we do out of the information that we have now in this accessible form?
+
+153
+00:23:28,000 --> 00:23:40,000
+And does this give us the sort of boost that we could have gotten if a lot of those discussions from 10 years were also available in this format?
+
+154
+00:23:40,000 --> 00:23:47,000
+Which, again, is the experiment here at its very subjective level.
+
+155
+00:23:47,000 --> 00:23:57,000
+And that itself opens up pathways to really figure out the core of what does it mean to be in an information society?
+
+156
+00:23:57,000 --> 00:24:09,000
+What does it mean to be interacting with or building systems that are capable of processing information at scales that were not possible here until now?
+
+157
+00:24:09,000 --> 00:24:13,000
+Also knowing that these are exponential growth factors.
+
+158
+00:24:13,000 --> 00:24:16,000
+So then where does that leave us?
+
+159
+00:24:16,000 --> 00:24:26,000
+And if in the process of scratching our own itch, something interesting comes out, then maybe we can repackage that and get rich for a while to do the next thing.
+
+160
+00:24:26,000 --> 00:24:37,000
+Yeah, so I kind of so this is one of the understanding when you say that, okay, previous phases, like if you see that as like one of those...
+
+161
+00:24:37,000 --> 00:24:40,000
+Oh no, I was forcefully bucketing it just to prove a point.
+
+162
+00:24:40,000 --> 00:24:44,000
+That's fine, but I do have a six years phases, essentially.
+
+163
+00:24:44,000 --> 00:24:46,000
+For me, it's actually not five years.
+
+164
+00:24:46,000 --> 00:24:49,000
+It actually does work with the six year phases.
+
+165
+00:24:49,000 --> 00:24:53,000
+So one of the new phases, they're basically starting into 2023.
+
+166
+00:24:53,000 --> 00:25:04,000
+Anyways, the point here is right now what I'm discovering, which is something that I previously put up to the test, like, hey, I'll re-evaluate them next time.
+
+167
+00:25:04,000 --> 00:25:12,000
+It is that we always have access to more amount of data, more wider bandwidth of data.
+
+168
+00:25:12,000 --> 00:25:14,000
+Not talking about the internet data.
+
+169
+00:25:14,000 --> 00:25:24,000
+I'm talking about in general, the amount of information transcended from previous to the next phase or session or like the era or generation, whatever you want to call it.
+
+170
+00:25:24,000 --> 00:25:31,000
+The amount of information that goes posted down is basically more volumetric than previous ones.
+
+171
+00:25:31,000 --> 00:25:36,000
+But you can't take the whole thing away with you.
+
+172
+00:25:36,000 --> 00:25:44,000
+You somehow have to summarize it, turn it into a magazine and utilize that.
+
+173
+00:25:44,000 --> 00:25:50,000
+That's the only thing, because we kind of have a limited amount of compute ourselves.
+
+174
+00:25:50,000 --> 00:25:55,000
+Now that's another part of the discussion, probably later part of the discussion, probably not even today, sometimes.
+
+175
+00:25:55,000 --> 00:26:14,000
+But even if we treat ourselves as individuals that we only have to be individuals and cannot leverage each other's intellect in a positive reinforcement manner, we have to hold the internet model in one GPU, like this thing.
+
+176
+00:26:14,000 --> 00:26:22,000
+Even in that case, we have that limitation where we have to kind of distill it down to some certain life.
+
+177
+00:26:22,000 --> 00:26:28,000
+Might be right, might be wrong, but these are the set of magazines that works for me and I go forward with that.
+
+178
+00:26:28,000 --> 00:26:35,000
+And that came out after hundreds of thousands of years of evolution, essentially, in a sense.
+
+179
+00:26:35,000 --> 00:26:40,000
+Most of it is very recent, but basically it's building in progress.
+
+180
+00:26:40,000 --> 00:26:43,000
+So that means two things.
+
+181
+00:26:43,000 --> 00:27:02,000
+One, even though we will have more compute to analyze and evaluate, like basically, okay, generate all the transcripts from this entire recording, summarize that, categorize that by topic and generate bullet points about what are the things that these idiots have discussed about, right?
+
+182
+00:27:02,000 --> 00:27:16,000
+And that would be very possible, like my later generations, they would not want to sit down and probably have a conversation like this, especially not sit down and listen to a conversation like this the whole way through.
+
+183
+00:27:16,000 --> 00:27:23,000
+They would probably some way figure out a way to distill it down and then do it, right?
+
+184
+00:27:23,000 --> 00:27:32,000
+The point that I'm trying to make here is that it will always be exponentially more and more amount of data that will be available next up.
+
+185
+00:27:32,000 --> 00:27:45,000
+But it doesn't go away from the fact that we still have to somehow pinpoint that this is exactly the center that we are rounding, like going around and around and around, finding out the center.
+
+186
+00:27:45,000 --> 00:28:03,000
+Sometimes when you're pushing the boundary, finding out that nebulous center sometimes is challenging, but it takes a lot of circling to eventually figure out what the center of mass is of this point that I'm trying to make, which is what I'm eventually doing right now, even kind of in a meta way.
+
+187
+00:28:03,000 --> 00:28:19,000
+So, yeah, so we have to figure this part out and whenever that is found, put it up as that maxim that can be carried out, because most of the information that I can study, if it can be art of war or something like that, all of those things,
+
+188
+00:28:19,000 --> 00:28:39,000
+so whenever it comes in a form of like kind of atomic takeaways, for the lack of a better term, that seems to stick around, not only for me, but in general, stick around more than a whole entire novel that probably is trying to make one point.
+
+189
+00:28:39,000 --> 00:28:56,000
+It's probably more interesting to read, but it can get interpreted and misinterpreted, and there are examples of that, like entire third rake was, in a sense, a misinterpretation of Ubermensch in some hot ways.
+
+190
+00:28:56,000 --> 00:29:16,000
+But anyways, the point I'm trying to make is that if you can build right good maxims, in a sense, like very thorough maxims, the number of people moved by it and number of people being aligned, tuned to align this correct direction, probably gets higher.
+
+191
+00:29:16,000 --> 00:29:26,000
+What do you think about that? Or do you think it's necessary to have the whole volume of discussion together with it?
+
+192
+00:29:26,000 --> 00:29:43,000
+I think it kind of leads on to at least two main themes, and I think maxim is one thing I would put a bookmark on for this discussion, because it's kind of one of those inflection points.
+
+193
+00:29:43,000 --> 00:29:55,000
+So let's first tackle the first fork. So we said that one of the things we are also trying to do is figure out what is worth doing.
+
+194
+00:29:55,000 --> 00:30:15,000
+So if I take that direction, like the worthness of something, what adds worth, but let's examine it through the question that what merits archival, like if we look at rephrasing it as what is worth archiving.
+
+195
+00:30:15,000 --> 00:30:23,000
+And that is a problem statement that library sciences has been dealing with since the evolution of libraries.
+
+196
+00:30:23,000 --> 00:30:37,000
+And this is not the same as like where this is different from what clothes do I don't throw away in the sense that at the core of archival is retrieval.
+
+197
+00:30:37,000 --> 00:30:57,000
+Which needs you to index things in a certain way, which means archiving indexing has existed, but information access or let's say unnecessary data or junk data, whichever way you want to put it, is something that has always existed at different scales.
+
+198
+00:30:57,000 --> 00:31:17,000
+The system exhibits different behavior, but if you were to follow the question that what should be archived, that question almost always seems to be a trade-off between how much can you remember or with what accuracy can you remember?
+
+199
+00:31:17,000 --> 00:31:39,000
+Which is where kind of how prophecies, maxims and things like this have existed. Again, prone to interpretation, even if there was a maxim and here by maxim, I mean, let's talk of like one of the things I like to bring in is physics and most of these discussions that just puts at least for me things in perspective.
+
+200
+00:31:39,000 --> 00:31:49,000
+The maxims are like natural laws, you don't create them, you discover them.
+
+201
+00:31:49,000 --> 00:32:05,000
+But which also begs the question that when is it that you can create a natural law? What kind of control would you need on that universe? The very simple layman term is God.
+
+202
+00:32:05,000 --> 00:32:29,000
+But again, what philosophy does is really dissect that concept, right? So if we just approach it like ignore the religious connotation part of it, but just come back to it from the perspective that if natural laws are sacrosanct in the sense that they will always exist, you just merely discover them at some point and after that they become your maxims.
+
+203
+00:32:29,000 --> 00:32:44,000
+So in the same way, then there has to be a journey, there has to be a process or like, well, voyages in like in order to do that discovery.
+
+204
+00:32:44,000 --> 00:33:02,000
+So then where does that take us from, let's say, producing enormous amounts of information today, while also being an amnesiac, increasingly amnesiac society where things are more easily lost than they are produced.
+
+205
+00:33:02,000 --> 00:33:14,000
+So collectively, we might be storing a lot of information at this point we're producing. Well, I don't like to use the word gigantic because they are relative.
+
+206
+00:33:14,000 --> 00:33:34,000
+If the internet spreads across like imagine Starfleet scale, even like the early Starfleet, James T. Kirk, just imagine the amount of data being produced. So what adjective would you then get to? So I'd like to reserve the gigantic things for when things are truly beyond comprehension.
+
+207
+00:33:34,000 --> 00:33:57,000
+But in any case, the case at point is that we have an acute balance to maintain when it comes to archival, that we have to let go of some things and we have to choose to remember certain things, which is what makes it easy to rewrite history by changing your interpretation to suit your current day things.
+
+208
+00:33:57,000 --> 00:34:10,000
+But imagine if history was a mathematically verifiable proof, which it is not today. And again, before historians throw daggers at me, I'm not saying that there is a technology solution to everything.
+
+209
+00:34:10,000 --> 00:34:37,000
+But if, if history was a mathematically verifiable proof for which you did not need to see the event to happen, like event happening for you to know that it's a proven thing, then we kind of reach the state where you don't necessarily need to store all of history, right?
+
+210
+00:34:38,000 --> 00:34:40,000
+You don't need to remember all of history.
+
+211
+00:34:41,000 --> 00:34:44,000
+And I'll open the field there.
+
+212
+00:34:44,000 --> 00:34:58,000
+Yeah, yeah, you poke me in a particular point, where if you look at the world event, I'm talking about history from a physics perspective, the interaction between bodies.
+
+213
+00:34:58,000 --> 00:35:12,000
+Yes, right. If you look at it, and if you can look at any frame of a certain event, not only you can predict where it is coming from, it can you can also predict where it is going.
+
+214
+00:35:13,000 --> 00:35:18,000
+And that's the premise of psychohistory, Harry Seldin in Foundation.
+
+215
+00:35:18,000 --> 00:35:35,000
+Yeah, so which kind of points towards that if you actually knew world history of at any point in time to a certain level of detail, you can predict the going forward part and going backward.
+
+216
+00:35:35,000 --> 00:35:43,000
+I'm talking about an ideal situation, not necessarily a humanly comprehensible model, at least humans of 2023.
+
+217
+00:35:44,000 --> 00:35:49,000
+But the point is, that is actually possible, in a sense, mathematically that is kind of possible.
+
+218
+00:35:50,000 --> 00:36:06,000
+The part where we come short here, which is again one of like quantum computing breaking cryptography, the way traditional computing said that this cryptography cannot be broken, so 256 bit is good enough for it.
+
+219
+00:36:07,000 --> 00:36:15,000
+And there comes quantum computing that says 256 bit doesn't matter. Yeah, I don't give a shit about this.
+
+220
+00:36:15,000 --> 00:36:20,000
+So point is, it breaks the assumption, ground level assumption.
+
+221
+00:36:21,000 --> 00:36:39,000
+If we are talking about why are these new language models and new basically the all the entire generative AI is doing so well is because the amount of memory that is we can allocate to do some certain things is humongous.
+
+222
+00:36:39,000 --> 00:36:59,000
+The point we can extrapolate each pixel to 1536 dimensions, which is which was not something that is the which is not something that humanly possible consciously at least apart unless you are some kind of savant on that particular thing, or it was not possible with any traditional hardware.
+
+223
+00:36:59,000 --> 00:37:04,000
+So things that we thought are impossible are being very possible right now.
+
+224
+00:37:05,000 --> 00:37:19,000
+Similarly, the exact quantified history about knowing a certain event and then being able to predict the past and the future of it, it is going to be possible very, very much possible.
+
+225
+00:37:19,000 --> 00:37:25,000
+It already kind of is if you think about weather prediction, how that works, it already is in effect.
+
+226
+00:37:25,000 --> 00:37:29,000
+We are just not using it for that particular situation or purpose.
+
+227
+00:37:29,000 --> 00:37:39,000
+But I don't see any reason why if we follow along the journey that we are already headed in the exponential growth of compute, I don't see why that cannot be true.
+
+228
+00:37:40,000 --> 00:37:44,000
+So I kind of got poked in that particular rib.
+
+229
+00:37:44,000 --> 00:37:46,000
+So that's why I kind of like expanded on that.
+
+230
+00:37:46,000 --> 00:37:51,000
+But I think you had more points to be made there in case I like cut you off.
+
+231
+00:37:51,000 --> 00:37:52,000
+Please go ahead.
+
+232
+00:37:52,000 --> 00:37:58,000
+No, no, this is this is in that direction only because see what I was trying to say is
+
+233
+00:37:58,000 --> 00:38:10,000
+that there are certain questions around remembrance around like public memory or let's say collective human memory.
+
+234
+00:38:10,000 --> 00:38:15,000
+And one of the things I have written time and again is that collective human memory spontaneous.
+
+235
+00:38:15,000 --> 00:38:22,000
+And it doesn't mean it is it doesn't exist.
+
+236
+00:38:22,000 --> 00:38:26,000
+It also means that it is that sporadic.
+
+237
+00:38:26,000 --> 00:38:31,000
+And that's again that's the nature of things.
+
+238
+00:38:31,000 --> 00:38:40,000
+If you break it down, you would eventually find a chaotic system at work with again entropy going towards like tending towards high over time.
+
+239
+00:38:40,000 --> 00:38:44,000
+So if you again break down everything fundamental enough.
+
+240
+00:38:44,000 --> 00:38:52,000
+So then if you then think of why I brought up what is where I'm trying to get my punchline together.
+
+241
+00:38:52,000 --> 00:38:56,000
+So what merits archival?
+
+242
+00:38:56,000 --> 00:39:05,000
+The decision is kind of based on what preserves the lower entropy state.
+
+243
+00:39:05,000 --> 00:39:15,000
+It's a constant grappling of a higher entropy entity or a higher entropy state to remember a lower entropy state.
+
+244
+00:39:15,000 --> 00:39:26,000
+And which is your essentially if you then look at entropy as that metaphorical river, you are going upstream, which is remembering the past gets exponentially difficult.
+
+245
+00:39:26,000 --> 00:39:31,000
+It's not a linear trajectory.
+
+246
+00:39:31,000 --> 00:39:33,000
+And that is simply if you again.
+
+247
+00:39:33,000 --> 00:39:34,000
+Yeah, good.
+
+248
+00:39:34,000 --> 00:39:40,000
+I think probably that points towards the intent of it.
+
+249
+00:39:40,000 --> 00:39:41,000
+Yes.
+
+250
+00:39:41,000 --> 00:39:53,000
+And I was just going to say that there are certain things like on the same point, certain things that are possible now, which would you would want to then look at the same questions in a different way.
+
+251
+00:40:01,000 --> 00:40:07,000
+Sorry.
+
+252
+00:40:07,000 --> 00:40:08,000
+Can you hear me?
+
+253
+00:40:08,000 --> 00:40:10,000
+Yes, I can hear you.
+
+254
+00:40:10,000 --> 00:40:13,000
+What happened?
+
+255
+00:40:13,000 --> 00:40:16,000
+No, it's my headset just keeps on disconnecting from time to time.
+
+256
+00:40:16,000 --> 00:40:18,000
+Okay.
+
+257
+00:40:18,000 --> 00:40:19,000
+Am I audible?
+
+258
+00:40:19,000 --> 00:40:22,000
+I might be a little bit low on this audio scale.
+
+259
+00:40:22,000 --> 00:40:24,000
+So sorry about that.
+
+260
+00:40:24,000 --> 00:40:28,000
+I'm just now I was trying to figure out if I'm hearing you from the external speaker on headphones.
+
+261
+00:40:28,000 --> 00:40:29,000
+Yes.
+
+262
+00:40:29,000 --> 00:40:37,000
+So no matter how much you improve technologies, certain things never change like this.
+
+263
+00:40:37,000 --> 00:40:42,000
+There are different, different variants and you can keep on going throughout the ages.
+
+264
+00:40:42,000 --> 00:40:45,000
+Oh, I did not see your fire sign across the hill last night.
+
+265
+00:40:45,000 --> 00:40:46,000
+I'm so sorry.
+
+266
+00:40:46,000 --> 00:40:51,000
+Can you see my fire sign?
+
+267
+00:40:51,000 --> 00:40:53,000
+I mean, just the point.
+
+268
+00:40:53,000 --> 00:40:54,000
+Yeah.
+
+269
+00:40:54,000 --> 00:40:55,000
+Sorry.
+
+270
+00:40:55,000 --> 00:40:56,000
+Yeah.
+
+271
+00:40:56,000 --> 00:40:57,000
+Little detour.
+
+272
+00:40:57,000 --> 00:41:00,000
+You remember the penguins of Madagascar that movie where?
+
+273
+00:41:00,000 --> 00:41:01,000
+Yeah, yeah.
+
+274
+00:41:01,000 --> 00:41:05,000
+Dave and he is trying to.
+
+275
+00:41:05,000 --> 00:41:06,000
+Dave?
+
+276
+00:41:06,000 --> 00:41:07,000
+Yeah.
+
+277
+00:41:07,000 --> 00:41:09,000
+Dave.
+
+278
+00:41:09,000 --> 00:41:11,000
+Anyways, anyways.
+
+279
+00:41:11,000 --> 00:41:12,000
+Same thing like that.
+
+280
+00:41:12,000 --> 00:41:21,000
+That seemed that hit kind of like in a particular court for everybody who ever has been into meetings of this kind.
+
+281
+00:41:21,000 --> 00:41:36,000
+And you saw somebody where this hoodie encoded last day, which wrote you were on mute.
+
+282
+00:41:36,000 --> 00:41:37,000
+Okay.
+
+283
+00:41:37,000 --> 00:41:40,000
+Popular culture catching up.
+
+284
+00:41:40,000 --> 00:41:52,000
+So anyway, that is one of the afterburner effects of how probably the two of us here look at what is worth doing.
+
+285
+00:41:52,000 --> 00:42:01,000
+Turns out to be a very misanthropic concept at its outset, but probably, well, not as much misanthropic.
+
+286
+00:42:01,000 --> 00:42:08,000
+It's selectively anthropic, let's call it.
+
+287
+00:42:08,000 --> 00:42:11,000
+Yeah, I have a question there on that.
+
+288
+00:42:11,000 --> 00:42:14,000
+What is anthropic?
+
+289
+00:42:14,000 --> 00:42:15,000
+Hmm.
+
+290
+00:42:15,000 --> 00:42:19,000
+I try to dissect Latin a bit.
+
+291
+00:42:19,000 --> 00:42:23,000
+And my knowledge of, again, the misanthropy is vague at this point.
+
+292
+00:42:23,000 --> 00:42:25,000
+I'd rather not comment at this thing.
+
+293
+00:42:25,000 --> 00:42:37,000
+Let's just look at it as the.
+
+294
+00:42:37,000 --> 00:42:49,000
+What is it when the compatibility that it's a misanthropy is a non compatible component in a society of humans.
+
+295
+00:42:49,000 --> 00:42:50,000
+Oh, no.
+
+296
+00:42:50,000 --> 00:42:51,000
+Somebody.
+
+297
+00:42:51,000 --> 00:42:54,000
+So you're already assuming you're already assuming.
+
+298
+00:42:54,000 --> 00:42:55,000
+Yeah.
+
+299
+00:42:55,000 --> 00:42:56,000
+Anthropic system beforehand.
+
+300
+00:42:56,000 --> 00:42:57,000
+And you're trying to.
+
+301
+00:42:57,000 --> 00:42:58,000
+Yes.
+
+302
+00:42:58,000 --> 00:42:59,000
+No, that was.
+
+303
+00:42:59,000 --> 00:43:00,000
+Yeah.
+
+304
+00:43:00,000 --> 00:43:01,000
+My question was.
+
+305
+00:43:01,000 --> 00:43:02,000
+I was just trying to show the loop.
+
+306
+00:43:02,000 --> 00:43:03,000
+Okay.
+
+307
+00:43:03,000 --> 00:43:04,000
+But yeah.
+
+308
+00:43:04,000 --> 00:43:17,000
+So the question, if you try and understanding what is humanity, what is anthropic, the more you try to see, look into that, the more it turns out to be.
+
+309
+00:43:17,000 --> 00:43:34,000
+What ever, what are the traits we term as humanitarian are exactly the opposite of what actually pushed us to become the humans, the dominant species.
+
+310
+00:43:34,000 --> 00:43:42,000
+That the last straw of that is human versus Neanderthals.
+
+311
+00:43:43,000 --> 00:43:44,000
+The last straw.
+
+312
+00:43:44,000 --> 00:44:02,000
+The last provable bit is that Neanderthals, they weren't like they had the exact and like similar kind of social bonding, the empathy and like caring for others.
+
+313
+00:44:02,000 --> 00:44:09,000
+All the other all the traits that we say these are the good like working with as teams, etc, etc.
+
+314
+00:44:09,000 --> 00:44:14,000
+All those things that we talk about as these are the good traits to have.
+
+315
+00:44:14,000 --> 00:44:16,000
+And if you say that that's what made us humans.
+
+316
+00:44:16,000 --> 00:44:18,000
+No, they also had that.
+
+317
+00:44:18,000 --> 00:44:28,000
+What did they not have is that Machiavellianism for a lack of a better umbrella term.
+
+318
+00:44:28,000 --> 00:44:38,000
+But you mean the prince, like not having an organized direction to channel the collective energy.
+
+319
+00:44:39,000 --> 00:44:50,000
+In a sense that basically attacking the enemy at night, knowing that they already don't want to fight at night.
+
+320
+00:44:50,000 --> 00:45:01,000
+It is not moral or it is not acceptable, ethical to fight at night and knowing that using that as an information to fight at night.
+
+321
+00:45:01,000 --> 00:45:05,000
+What did you call that?
+
+322
+00:45:05,000 --> 00:45:13,000
+So that those are the kind of things that made humans humans.
+
+323
+00:45:13,000 --> 00:45:18,000
+Like I'm probably just showing the tip of the iceberg.
+
+324
+00:45:18,000 --> 00:45:29,000
+You can keep on going down that rabbit hole and keep on trying to find out more and more personality or psychological traits that are absolutely heinous.
+
+325
+00:45:29,000 --> 00:45:32,000
+And that still lingers on, by the way.
+
+326
+00:45:33,000 --> 00:45:41,000
+But those are the ones kind of gave us the edge over the other ones who had not much differently.
+
+327
+00:45:41,000 --> 00:45:54,000
+Even if you go down from hominid to the pan, basically the chimpanzees and gorillas, they also have the social structure in the same way.
+
+328
+00:45:54,000 --> 00:45:59,000
+They also show that their child dies. They show the same kind of sympathy.
+
+329
+00:45:59,000 --> 00:46:05,000
+But what about anthropic humanity that makes us human?
+
+330
+00:46:05,000 --> 00:46:09,000
+If you keep asking that question, it kind of gives us a very dark answer.
+
+331
+00:46:09,000 --> 00:46:23,000
+Exactly the things that we grow up learning as the traits to have as humans are not the ones that made us if we actually stuck to only those ones.
+
+332
+00:46:23,000 --> 00:46:31,000
+I'm not saying that those are not important, but I'm saying that only pure silicon does not create a good microchip.
+
+333
+00:46:31,000 --> 00:46:41,000
+You need the doping in order to create that semiconductor that actually can be turned on or off.
+
+334
+00:46:41,000 --> 00:46:50,000
+That doping, that dopant part is the one that is not really the light part is the dark part.
+
+335
+00:46:50,000 --> 00:46:56,000
+So the moment you talk about that, a kind of like it might sound misanthropic.
+
+336
+00:46:56,000 --> 00:47:04,000
+Most of the utilitarian or things that generate result drive result are misanthropic.
+
+337
+00:47:05,000 --> 00:47:23,000
+If you psychoanalyze most of the CEOs of Fortune 500, you're not going to find the answers that you would like that these are the best human beings that driving the society or culture or at least from a textbook perspective.
+
+338
+00:47:23,000 --> 00:47:31,000
+You have studied this. You can talk more about that part. What do you think from that perspective?
+
+339
+00:47:31,000 --> 00:47:38,000
+I think that's an eventuality of any species that does not have a self sufficient energy system.
+
+340
+00:47:38,000 --> 00:47:53,000
+And because as you as you break that question down and you're going to first encounter the stage of ethics very soon,
+
+341
+00:47:53,000 --> 00:48:04,000
+because this is fundamentally an ethical question with a political philosophy very strongly ingrained in it.
+
+342
+00:48:04,000 --> 00:48:17,000
+Because a lot of these thought systems have also evolved in order to just look back and identify what the hell had happened there.
+
+343
+00:48:17,000 --> 00:48:26,000
+And in the process, like what what was it that happened and then building those systems to come up to a point that we could explain all of this.
+
+344
+00:48:26,000 --> 00:48:35,000
+And then, you know, as happens with intelligent brains that once you are looking at it for too long, you start seeing variations in it.
+
+345
+00:48:35,000 --> 00:48:39,000
+And well, that is how pretty much all branches of philosophy evolve.
+
+346
+00:48:39,000 --> 00:48:50,000
+You cannot have a well informed argument in philosophy if you have not looked at that thing long enough for you to see the details in it.
+
+347
+00:48:50,000 --> 00:49:02,000
+So for from that perspective, when you start breaking down the concept of humanity at the core of it would be the conquest for resources to survive.
+
+348
+00:49:03,000 --> 00:49:12,000
+One survive, then thrive, one thrive, then conquer, one conquer, then build, one build, then colonize and so on and so on.
+
+349
+00:49:12,000 --> 00:49:16,000
+Or maybe even in the in some loops thereafter.
+
+350
+00:49:16,000 --> 00:49:34,000
+But then the thing then what we cannot change here, unless we are a self reliant, like we have a self-sufficient energy system.
+
+351
+00:49:34,000 --> 00:49:45,000
+When I say energy system, just imagine the combination of an unlimited uterium supply and unlimited replicators in the Star Trek context.
+
+352
+00:49:45,000 --> 00:49:53,000
+If you have those two technologies or those two resources available in vast quantities that can change any society in any direction.
+
+353
+00:49:53,000 --> 00:49:59,000
+At that point, direction is a matter of the forces immediately pushing it till the resources expire.
+
+354
+00:49:59,000 --> 00:50:06,000
+Now imagine in a universe where you cannot destroy replicators and dilithium resources.
+
+355
+00:50:06,000 --> 00:50:11,000
+Just imagine a game world like they are non-destructible resources.
+
+356
+00:50:11,000 --> 00:50:13,000
+You can go bang against them, nothing will happen.
+
+357
+00:50:13,000 --> 00:50:25,000
+So eventually the entities in that world will learn to live with the fact that they can build anything at any point and with unlimited energy.
+
+358
+00:50:25,000 --> 00:50:28,000
+And suddenly the craze for resources do not exist anymore.
+
+359
+00:50:28,000 --> 00:50:34,000
+And we have reached that platonic ideal state of sorts where you don't need to have that lust for hunger.
+
+360
+00:50:34,000 --> 00:50:39,000
+And you can then focus on something that is a higher principle.
+
+361
+00:50:40,000 --> 00:50:49,000
+The disconnect between all, let's say the key drivers of human driven change, let's say.
+
+362
+00:50:49,000 --> 00:50:57,000
+And I mean the people ultimately responsible for whatever actions humans are performing at mass scales.
+
+363
+00:50:57,000 --> 00:51:06,000
+Those people usually portray this imagery that they are already at that stage where they have a self-reliant system
+
+364
+00:51:06,000 --> 00:51:10,000
+and that they are just doing everything for the greater good.
+
+365
+00:51:10,000 --> 00:51:14,000
+All I'm saying is that is necessary. It will eventually be part of the system.
+
+366
+00:51:14,000 --> 00:51:27,000
+But for now, the thing that we need to remember is that we are operating under limited resource in a world where we are not energy self-sufficient.
+
+367
+00:51:27,000 --> 00:51:32,000
+That is, we need to extract energy from other places.
+
+368
+00:51:32,000 --> 00:51:42,000
+With that in context, then the question of ethics shifts from is doing that good or bad to how can you do that better?
+
+369
+00:51:42,000 --> 00:51:50,000
+That we are today extracting a massive amount of meat from animals.
+
+370
+00:51:50,000 --> 00:51:56,000
+So you can use the same tool now to dissect any concept and go into that debate.
+
+371
+00:51:56,000 --> 00:52:10,000
+But what I'm trying to say is I think the question that is that good or bad, like is progress good or bad, eventually is a polarizing question.
+
+372
+00:52:10,000 --> 00:52:26,000
+And it's polarizing because, well, too much progress and not enough progress have only one meaning at the scale of the universe.
+
+373
+00:52:26,000 --> 00:52:33,000
+And that is maximum entropy saturation and no entropy at the beginning of the universe.
+
+374
+00:52:34,000 --> 00:52:42,000
+Between that, between if you need to, I mean, if let's say we for the sake of the discussion that we must make it bipolar,
+
+375
+00:52:42,000 --> 00:52:52,000
+let's make sure the poles are that far apart and be humble in approaching what we are approaching in that space.
+
+376
+00:52:52,000 --> 00:53:02,000
+So then anthropomorphic or anthropogenic concepts become, that is what I was trying to say, they become a limiter.
+
+377
+00:53:02,000 --> 00:53:10,000
+And you can again go into the argument for good or bad reasons, in which case see the last 10 minutes of this talk.
+
+378
+00:53:10,000 --> 00:53:19,000
+But what I'm trying to say is that we can instead look at the fact that there are certain things we cannot avoid.
+
+379
+00:53:19,000 --> 00:53:28,000
+Like I cannot keep my cat from having a good time outside just because another cat outside is terrorizing this cat.
+
+380
+00:53:28,000 --> 00:53:34,000
+If I keep the cat indoors, I will keep it the safest, no doubt.
+
+381
+00:53:34,000 --> 00:53:46,000
+And if you want to make that into a question of morality, then is that the right use of those few CPU cycles?
+
+382
+00:53:46,000 --> 00:53:48,000
+That is a question of morality.
+
+383
+00:53:48,000 --> 00:53:57,000
+Yeah, I know. So I get where you're coming from. I kind of have follow ups. Sorry, I might be too not loud, essentially.
+
+384
+00:53:57,000 --> 00:54:01,000
+What is opposite of loud? Anyways, I can hear you clear.
+
+385
+00:54:01,000 --> 00:54:13,000
+So the world of abundance, energy self-sufficiency, I'm not using that term because I'm just using a more generic way that makes sense to me.
+
+386
+00:54:13,000 --> 00:54:22,000
+So just to be clear here, when I said energy self-sufficiency, I meant in the true sense of us having a cyclical energy economy.
+
+387
+00:54:22,000 --> 00:54:31,000
+You're technically correct, but I'm saying world of abundance because before we reach that energy self-sufficiency,
+
+388
+00:54:31,000 --> 00:54:41,000
+the reason it's tail chasing perpetual is because you can keep on going.
+
+389
+00:54:41,000 --> 00:54:51,000
+The more amount of energy you chase, the more amount of energy you need to chase that, it kind of gets to a point like how many Kardashev skills do you want to go?
+
+390
+00:54:51,000 --> 00:54:55,000
+So that's the reason I'm not using that. I'm just using a more generic term.
+
+391
+00:54:55,000 --> 00:55:02,000
+Let me just interject here once. What I was trying to really make the point is that these are important questions, but these are not urgent ones.
+
+392
+00:55:02,000 --> 00:55:09,000
+These are questions that we need to consider when we are at that stage without which we will constantly be in this phase.
+
+393
+00:55:09,000 --> 00:55:16,000
+And there are more immediate concerns and there are more immediate possibilities that we would get to.
+
+394
+00:55:16,000 --> 00:55:23,000
+And just to sum that up, one of the areas that I was talking of or trying to get to is that when we are looking at morality,
+
+395
+00:55:23,000 --> 00:55:28,000
+or let's say, should I do some like that archival context, right?
+
+396
+00:55:28,000 --> 00:55:39,000
+One of the things that we can do with a lot of the systems that we have right now is again following Floridi's description that we run more simulations.
+
+397
+00:55:39,000 --> 00:55:45,000
+That one of the things if you, so this is where I want to tie that to the maxim, but that I am not against maxims.
+
+398
+00:55:45,000 --> 00:55:51,000
+I understand the value of maxims. I am terribly skeptical of when maxims are set in stone.
+
+399
+00:55:51,000 --> 00:56:01,000
+I am very much fond of maxims that are the output of an elaborate computation which gives me a certain predicted result.
+
+400
+00:56:01,000 --> 00:56:10,000
+And similarly, if the input conditions change, the output might change, but the output will still be provable based on the input conditions that I have received.
+
+401
+00:56:10,000 --> 00:56:17,000
+So if those are the maxims, the issue we have with the maxims of till date technology is that maxims had to be written in stone
+
+402
+00:56:17,000 --> 00:56:27,000
+because they had to convey the largest possible information and they were open to understand, open to interpretations.
+
+403
+00:56:27,000 --> 00:56:35,000
+Now, what if you don't just save the maxim? You save the version control history, for example, that led to the creation of the maxim
+
+404
+00:56:35,000 --> 00:56:42,000
+so that lawyers of future date, when they use this maxim as a founding principle, they can also analyze the maxim if they need to.
+
+405
+00:56:42,000 --> 00:56:52,000
+And that's just one aspect that what we have gained is the ability to simulate a lot of this, store a lot of the state to make it replayable,
+
+406
+00:56:52,000 --> 00:57:00,000
+which brings back to that verifiable history as an archival thing.
+
+407
+00:57:01,000 --> 00:57:20,000
+I agree on that part. The part that I am seeing that more can be added here is that when you are saying that, OK, which part do we need to decide to keep?
+
+408
+00:57:20,000 --> 00:57:27,000
+I'm seeing the pattern that we actually don't need to because we don't know which part actually we end up being important.
+
+409
+00:57:27,000 --> 00:57:40,000
+Yeah, but what we can do, so then we don't need to, it does not mean that the system is that black ship of in the restaurant at the end of the universe.
+
+410
+00:57:40,000 --> 00:57:48,000
+The restaurant at the end of the universe, where it is just one voice command control and I'm not talking of that.
+
+411
+00:57:48,000 --> 00:57:58,000
+I'm talking of intervention under the right layers, which is kind of let the mass scale system, the mass data processor do its work
+
+412
+00:57:58,000 --> 00:58:08,000
+because it's already been trained or you can let's say tweak the parameters, whatever, but let it do its work, step back, but have the capability of chiming in.
+
+413
+00:58:08,000 --> 00:58:22,000
+For example, keywords, for example, just the ability to indicate that, OK, go back and switch from here, but which are all in essence better retrieval.
+
+414
+00:58:22,000 --> 00:58:34,000
+Yeah, so think about it in this way. The way mummies are kept, they were not creating that as a time capsule so that the latter point in time people can dig them up
+
+415
+00:58:34,000 --> 00:58:42,000
+and learn more about their history, which kind of oils were being used, what is the isotope and all. They didn't know that they didn't have to find that out.
+
+416
+00:58:42,000 --> 00:58:52,000
+They didn't know that, OK, the fingerprints that they leave are going to be uniquely identified that how many people actually worked on this particular month, those kind of things.
+
+417
+00:58:52,000 --> 00:59:03,000
+I have a very interesting what I had once written on this. Let me just see if it fits here that one of the answers to what is worth archiving.
+
+418
+00:59:03,000 --> 00:59:13,000
+I mean, I had asked you a question I had, of course, thought through a bit is that a very different thing that I want to live in a situation like let's imagine a hypothetical society
+
+419
+00:59:13,000 --> 00:59:33,000
+where as we live our daily lives, libraries form, as generations pass, museums form, as more people want to play parks form and as more people just want to stay quiet, things don't change.
+
+420
+00:59:33,000 --> 00:59:46,000
+Yeah, and so that is kind of. Yeah, that's profound. That is one of the maxims in a way. If you can just pack it together in a good package, that is the maximum.
+
+421
+00:59:46,000 --> 00:59:52,000
+I understand that you don't have to explain, right? No, I'm just explaining for the sake of the technicality.
+
+422
+00:59:53,000 --> 01:00:06,000
+This is what I mean when I say that the answer to what should be archived should not be a specific answer, which is if you're writing software, do not give me specific if then else, please use functional programming.
+
+423
+01:00:06,000 --> 01:00:15,000
+Please think of data transformations, data flowing through a system and write functions to transform at those intersections rather than dealing with discrete data.
+
+424
+01:00:15,000 --> 01:00:29,000
+And similarly, when we're talking philosophy, we very quickly go from a more abstract concept to a discrete concept and still think it is abstract, which is where the fallacy is creeping.
+
+425
+01:00:29,000 --> 01:00:40,000
+Those are the places where I get concerned if I am not caught, like that's when I would expect somebody like you to hold my feet to the fire, essentially.
+
+426
+01:00:40,000 --> 01:00:45,000
+If I ever fall to those, I don't don't try to jump around the as in dance around the topic.
+
+427
+01:00:45,000 --> 01:00:49,000
+If ever I am making any kind of like a fallacy.
+
+428
+01:00:49,000 --> 01:00:58,000
+The only time I dance around the topic is if there is a force field around it that I can't get through to it.
+
+429
+01:00:58,000 --> 01:01:07,000
+Or let's say even better, a bonfire in the center of it, a force field around it, and I am really in a good mood to run around the fire.
+
+430
+01:01:07,000 --> 01:01:09,000
+Maybe there's also a good music.
+
+431
+01:01:09,000 --> 01:01:13,000
+Yes, in which case, maybe that's the topic. But let's say it's like some sort of it.
+
+432
+01:01:13,000 --> 01:01:21,000
+Yeah, so the what I was trying to say, I forgot. Okay, so the intent part of it, so some part of it.
+
+433
+01:01:21,000 --> 01:01:26,000
+So the reason when I asked, right, I also kind of thought about that part.
+
+434
+01:01:27,000 --> 01:01:48,000
+When I say that what is worth doing after deciding what is good to do, the intent eventually pushes itself in like nature, pretty much in all of this discussion is in like deciding who is who is deciding what to do.
+
+435
+01:01:48,000 --> 01:02:02,000
+There will basically forming the next part of the fabric, essentially the pattern in the fabric of reality, if they choose to go forward and pursue that essentially.
+
+436
+01:02:02,000 --> 01:02:20,000
+So at the center of it, there is nobody telling you that you need to do this. It's you deciding to tell yourself that I need to do this.
+
+437
+01:02:20,000 --> 01:02:27,000
+Unless your managers put it on the sprint roadmap without consulting you.
+
+438
+01:02:27,000 --> 01:02:36,000
+I mean, I get the joke, but my counter joke, which will not sound as a joke is that you have to be able to drop the manager.
+
+439
+01:02:36,000 --> 01:02:42,000
+Before you drop the manager, can you assume to be the manager?
+
+440
+01:02:42,000 --> 01:02:52,000
+No, no. If you kill the god, you now have the responsibility to be the god. I'm coming from that perspective, but I know that.
+
+441
+01:02:52,000 --> 01:03:08,000
+Fair, fair, fair. Again, what we were just about to take what two different moralistic stances and based on the initial variable, like that very input into that function, the output would have been different.
+
+442
+01:03:08,000 --> 01:03:18,000
+And these are the places where I said that when your discussion comes full circle and you see a fork in the road back again, but it looks like one lane you have already come through.
+
+443
+01:03:18,000 --> 01:03:27,000
+That's when it's time to mark that put a direction that this was already covered. Now we go here so that you can go in that direction.
+
+444
+01:03:27,000 --> 01:03:31,000
+And how do we mark this one?
+
+445
+01:03:31,000 --> 01:03:38,000
+Well, let's market with.
+
+446
+01:03:38,000 --> 01:03:46,000
+I don't know. I'm very curious to see what the system does. I don't want to give too many inputs at this point.
+
+447
+01:03:46,000 --> 01:03:55,000
+I just want to see what comes out because it's like, you know, you've bought a stock car before you write it and understand don't tune it.
+
+448
+01:03:55,000 --> 01:04:00,000
+Because you won't know what exactly changed as a result of the tuning. So like this is my first time.
+
+449
+01:04:00,000 --> 01:04:06,000
+So recently I come like I came across that would be the right time.
+
+450
+01:04:06,000 --> 01:04:12,000
+So a particular situation where this is this made a whole lot more sense.
+
+451
+01:04:12,000 --> 01:04:30,000
+So the GRR Tolkien's interpretation of where he was coming at, like the moralistic, his moral standpoint, why he was against Sauron or technological development, in a sense, which Sauron embodied.
+
+452
+01:04:30,000 --> 01:04:38,000
+The issue with any Tolkien modalities, it can be dethroned in one shot, but yeah, take it in the context of what you're saying.
+
+453
+01:04:38,000 --> 01:04:52,000
+But yeah, so what Sauron represented is that knowing that Eru Il-Hutur exists, he kind of like, no, I am going to replace you with myself in a sense.
+
+454
+01:04:52,000 --> 01:05:05,000
+Like I'm talking about the new I have I don't know whether you have watched it, the Prime series, the Rings of Power.
+
+455
+01:05:05,000 --> 01:05:07,000
+I don't think you have watched.
+
+456
+01:05:07,000 --> 01:05:14,000
+I don't know if I have not. If I started then I started then it had some place where yeah.
+
+457
+01:05:14,000 --> 01:05:24,000
+Yeah, you probably wouldn't like it as somebody who has invested interest into the cohesiveness of the world that you have already known.
+
+458
+01:05:24,000 --> 01:05:34,000
+And though from the light from the perspective from which light you have seen it, it would seem like a kind of desecration in a sense.
+
+459
+01:05:34,000 --> 01:05:38,000
+Like somebody is one screaming before you continue.
+
+460
+01:05:38,000 --> 01:05:55,000
+One thing to note about how I potentially look at a lot of the rings is it's an revisionist history of a massive, massive peasant uprising that kingdoms were forced to unite and bring down.
+
+461
+01:05:55,000 --> 01:05:59,000
+And when you put that lens, then everything else makes that much more sense.
+
+462
+01:05:59,000 --> 01:06:05,000
+Then why Aragon is being this douchebag Aragon makes more sense.
+
+463
+01:06:05,000 --> 01:06:14,000
+And why why like repair this one blade over the cost of this fucking get a new one made man might even get you better technology nowadays.
+
+464
+01:06:14,000 --> 01:06:19,000
+But no, the emblem was more important than the weapon itself.
+
+465
+01:06:20,000 --> 01:06:22,000
+Where things that just make it.
+
+466
+01:06:22,000 --> 01:06:27,000
+I'm just saying that, of course, I have read it and I understand it as Tolkien intended.
+
+467
+01:06:27,000 --> 01:06:44,000
+But I also see it as a potentially in looking at our current times that it kind of fits almost as if it's a revisionist history that there was some other history which we if we dig deeper in some lost scrolls like the charwaks will find something else existed.
+
+468
+01:06:44,000 --> 01:06:51,000
+When you when you say that it's a revisionist history, it tells me everything that I need to know about your standpoint on that.
+
+469
+01:06:51,000 --> 01:06:59,000
+I don't need more explanation than this, honestly, because I don't know what is relevant for archival.
+
+470
+01:06:59,000 --> 01:07:03,000
+No, so I'm also marking my own bookmarks for future retrieval.
+
+471
+01:07:03,000 --> 01:07:12,000
+Right. So knowing that the way I've seen most of the Tolkien fans discuss this or come come at it from no, no, no.
+
+472
+01:07:12,000 --> 01:07:16,000
+You are basically this is sacri, what do you call it?
+
+473
+01:07:16,000 --> 01:07:29,000
+Sacrimonious for the most people they think the most feminist moment in Lord of the Rings was you opening her helmet and saying I'm not a man.
+
+474
+01:07:29,000 --> 01:07:33,000
+Yay for feminism. That's like their the peak of their understanding.
+
+475
+01:07:33,000 --> 01:07:37,000
+So yeah, so so that's sanctimonious position.
+
+476
+01:07:37,000 --> 01:07:39,000
+If you hold it, then it would hurt you.
+
+477
+01:07:39,000 --> 01:07:46,000
+But if you can open your mind like, OK, this is a world that can have multiple different interpretation in different people's eyes.
+
+478
+01:07:46,000 --> 01:07:50,000
+How can you say this in this world?
+
+479
+01:07:50,000 --> 01:07:57,000
+Galadriel is not so much so different than the enemy that she is trying to kill.
+
+480
+01:07:57,000 --> 01:07:59,000
+And it is very clearly shown.
+
+481
+01:07:59,000 --> 01:08:08,000
+Yeah, and eventually she discovers that she is pretty much word for word the same entity.
+
+482
+01:08:08,000 --> 01:08:12,000
+And if she does win, like you can take sides, you can pick sides.
+
+483
+01:08:12,000 --> 01:08:25,000
+But if and the person that Sauron is trying to like rage against, like fight against or like replace cannot like basically in the story's frame, you cannot.
+
+484
+01:08:25,000 --> 01:08:32,000
+The person who created the universe, but trying to the directionality is on the same way.
+
+485
+01:08:32,000 --> 01:08:38,000
+Like I will enforce my will onto this world. Innocence.
+
+486
+01:08:38,000 --> 01:08:45,000
+End of the day, when I replace you, I will rewrite the history the way I see it fit.
+
+487
+01:08:45,000 --> 01:08:49,000
+And people will know you were the bad guy. I am the good guy.
+
+488
+01:08:49,000 --> 01:08:56,000
+So whatever is shy clue in the before is the Satan after essentially innocence.
+
+489
+01:08:56,000 --> 01:09:06,000
+So if you see it, see that from that perspective, you also see that Galadriel is effectively the same person, not so much different from Sauron.
+
+490
+01:09:06,000 --> 01:09:11,000
+And if she ends up winning, she will not do something that's different than her.
+
+491
+01:09:11,000 --> 01:09:19,000
+She's likely to dismantle the patriarchal power structures that exist in the world.
+
+492
+01:09:19,000 --> 01:09:27,000
+If that is what you want, that is your intent to preserve that history.
+
+493
+01:09:27,000 --> 01:09:35,000
+And you are more into no, I am more into I am into this patriarchal structure or I don't care about that.
+
+494
+01:09:35,000 --> 01:09:40,000
+I just care about their technology and how much they are building, et cetera, et cetera.
+
+495
+01:09:40,000 --> 01:09:46,000
+And you choose to be on the side of Sauron. That is also an option. You can do that.
+
+496
+01:09:46,000 --> 01:09:54,000
+And end of the day, whoever ends up winning will end up writing that history turns out in this particular story, Sauron ends up losing.
+
+497
+01:09:54,000 --> 01:10:03,000
+So his people are uglier and shorter and speak a language that the book is not written in innocence.
+
+498
+01:10:03,000 --> 01:10:08,000
+It's a dark language. He ends up winning.
+
+499
+01:10:08,000 --> 01:10:13,000
+That is the language of the book. And the other language is the dark language.
+
+500
+01:10:13,000 --> 01:10:20,000
+The point I was trying to make is that all those discussion about morality, it kind of comes down to that.
+
+501
+01:10:20,000 --> 01:10:35,000
+What is the person who is observing the person who is narrating and the person who is intending to preserve the part of the history, which side they want to take effectively comes down boils down to that.
+
+502
+01:10:35,000 --> 01:10:40,000
+So at the end of the day, you kind of have to take that.
+
+503
+01:10:40,000 --> 01:10:48,000
+I want to preserve this part of the history. I want to make this part this kind of changes, this change in entropy.
+
+504
+01:10:48,000 --> 01:10:53,000
+Oh, I have another example on this. So entropy and hold on to that.
+
+505
+01:10:53,000 --> 01:11:03,000
+And if you can end up executing it, now the world has that scratch mark, that entropy imprinted on its reality.
+
+506
+01:11:03,000 --> 01:11:09,000
+Think about how do you create a stone statue?
+
+507
+01:11:09,000 --> 01:11:13,000
+Think about the entropy of a stone statue.
+
+508
+01:11:13,000 --> 01:11:20,000
+We say that entropy is something that is basically disintegrating and taking a low energy state.
+
+509
+01:11:20,000 --> 01:11:28,000
+No, but that is the misconception of understanding of entropy. Entropy is not disintegrating.
+
+510
+01:11:28,000 --> 01:11:41,000
+How would you define because for a statue, somehow some sense had to come together or you're muted.
+
+511
+01:11:41,000 --> 01:11:43,000
+You are muted.
+
+512
+01:11:43,000 --> 01:11:45,000
+I am not on mute anymore, but there is a lag.
+
+513
+01:11:45,000 --> 01:11:48,000
+OK, sorry, go ahead.
+
+514
+01:11:48,000 --> 01:11:55,000
+Yeah, so I was saying just pointing out the fact that it's not entropy that is decreasing.
+
+515
+01:11:55,000 --> 01:12:03,000
+It's the action like the entropy as the agent of change, because entropy is growing in that sense.
+
+516
+01:12:03,000 --> 01:12:08,000
+So just because in colloquial language, we kind of keep on doing this switch.
+
+517
+01:12:08,000 --> 01:12:17,000
+We cannot. So the point I'm trying to make is that you can't and this is not the known.
+
+518
+01:12:17,000 --> 01:12:22,000
+So this is you can call it original research or only the original thesis or something like that.
+
+519
+01:12:22,000 --> 01:12:28,000
+This is not science does not approve of this yet.
+
+520
+01:12:28,000 --> 01:12:30,000
+This is not peer reviewed.
+
+521
+01:12:31,000 --> 01:12:44,000
+But I'm positing this is that you can't say which one is the direction of entropy by being inside of a system unless.
+
+522
+01:12:44,000 --> 01:12:54,000
+So for the designer, the entropy would always seem to go towards the end state that is more organized.
+
+523
+01:12:54,000 --> 01:13:04,000
+But for the players inside the system, it will always seem to go towards a more disorganized, even if the events are exactly the same.
+
+524
+01:13:04,000 --> 01:13:08,000
+Well, you can prove the statement with simple linear algebra.
+
+525
+01:13:08,000 --> 01:13:19,000
+I mean, I'm just saying that this is one of those very axiomatic statements because you need to be able to let's see, even if it's a matrix,
+
+526
+01:13:19,000 --> 01:13:29,000
+you need to be able to write the matrix in a way that you have at least one more dimension for you to compute the values of that dimension.
+
+527
+01:13:29,000 --> 01:13:42,000
+So you cannot by any chance know what is going to come out of a system unless you have access to a higher dimensionality from which to observe and compute the current dimensionality,
+
+528
+01:13:42,000 --> 01:13:49,000
+which also makes the capability of dimensionality increase and computing as unidirectional.
+
+529
+01:13:49,000 --> 01:13:55,000
+You can only observe higher from higher dimension or lower dimension cannot do the other way around.
+
+530
+01:13:55,000 --> 01:14:01,000
+So these are in the same sense, the established laws in physics, which again apply right here.
+
+531
+01:14:01,000 --> 01:14:10,000
+Yeah, this is one of the topics I just reminded me that we are probably looking back in that we need a higher dimensional to in order to comprehend the lower dimension.
+
+532
+01:14:10,000 --> 01:14:14,000
+This is the deja vu point. OK, so that part we understand now.
+
+533
+01:14:14,000 --> 01:14:19,000
+So with that framework in mind, think about the person.
+
+534
+01:14:19,000 --> 01:14:25,000
+If I'm a sculptor, for me, it's a block of stone.
+
+535
+01:14:25,000 --> 01:14:28,000
+I am chipping the stone away.
+
+536
+01:14:28,000 --> 01:14:31,000
+That is not the statue.
+
+537
+01:14:31,000 --> 01:14:38,000
+And what remains is the statue and a lot of broken stone chips everywhere else.
+
+538
+01:14:38,000 --> 01:14:46,000
+If you are somebody who doesn't, it's basically a fish that doesn't understand the concept of statue.
+
+539
+01:14:46,000 --> 01:14:55,000
+Looking at this entire event, sees that there was this big stone and now there's a lot of chips and one big chip.
+
+540
+01:14:55,000 --> 01:14:59,000
+This is how entropy, this is the direction of the entropy.
+
+541
+01:14:59,000 --> 01:15:05,000
+It is basically disintegrating. It is for breaking down. It is like basically flattening everything.
+
+542
+01:15:05,000 --> 01:15:11,000
+That is where it is seen. It doesn't see the intent was to make a statue.
+
+543
+01:15:11,000 --> 01:15:13,000
+Is it that statue?
+
+544
+01:15:13,000 --> 01:15:20,000
+If that is the case, that stone that is crumbling around, that is basically a byproduct.
+
+545
+01:15:20,000 --> 01:15:27,000
+Either you dust it away or you basically move on from there, take the statue with you.
+
+546
+01:15:27,000 --> 01:15:30,000
+You don't care about that part.
+
+547
+01:15:30,000 --> 01:15:33,000
+If you are the designer, it came to life.
+
+548
+01:15:33,000 --> 01:15:37,000
+You actually reduced entropy in a sense.
+
+549
+01:15:37,000 --> 01:15:42,000
+End of the day your end result was supposed to be the statue and now that is.
+
+550
+01:15:42,000 --> 01:15:51,000
+Whereas what started with this journey with the stone started with a lot of silica dust.
+
+551
+01:15:51,000 --> 01:15:57,000
+Eventually probably formed under some ocean basement millions of years back.
+
+552
+01:15:57,000 --> 01:16:00,000
+And then gradually got pushed out.
+
+553
+01:16:00,000 --> 01:16:04,000
+So if you think of that whole thing as a time lapse, what happened?
+
+554
+01:16:04,000 --> 01:16:10,000
+A lot of random particles came together, formed something and then became a statue.
+
+555
+01:16:10,000 --> 01:16:13,000
+And a couple of them stayed there.
+
+556
+01:16:13,000 --> 01:16:19,000
+Does it not look like a completely opposite of what we say that things cannot happen?
+
+557
+01:16:19,000 --> 01:16:21,000
+Entropy doesn't work that way.
+
+558
+01:16:21,000 --> 01:16:26,000
+Things don't come together in a shape. They just fall out of that shape.
+
+559
+01:16:26,000 --> 01:16:30,000
+So you can completely show that that is actually possible.
+
+560
+01:16:30,000 --> 01:16:32,000
+That's something that you can do.
+
+561
+01:16:32,000 --> 01:16:42,000
+Now that is only the case when the creator or designer, somebody with an intent is enforcing that.
+
+562
+01:16:42,000 --> 01:16:47,000
+That's only the time when seems to be entropy is actually going backwards.
+
+563
+01:16:47,000 --> 01:16:54,000
+But for the players, for the NPCs, it will always seem to go to a higher entropy state.
+
+564
+01:16:54,000 --> 01:16:59,000
+Even though the events are exactly the same.
+
+565
+01:16:59,000 --> 01:17:04,000
+Yep. So I mean, entropy is like the ultimate Borg.
+
+566
+01:17:04,000 --> 01:17:08,000
+The intentions are irrelevant. You will be assimilated.
+
+567
+01:17:08,000 --> 01:17:16,000
+Yeah. So the reason for me to bring this one out is kind of to put a pin on that entire discussion about.
+
+568
+01:17:16,000 --> 01:17:31,000
+So we probably are not done with the discussion, but probably still to put a pin on what is worth salvaging or like storing or basically collecting or documenting and keeping for a long term storage.
+
+569
+01:17:31,000 --> 01:17:38,000
+There's a lot of it is basically intent towards something.
+
+570
+01:17:38,000 --> 01:17:49,000
+And the ability. So then basically to touch along with that is a tamper proof history.
+
+571
+01:17:49,000 --> 01:17:58,000
+As a way of ensuring lesser degradation of the knowledge over time.
+
+572
+01:17:58,000 --> 01:18:09,000
+If you and then again, tamper proof history will also, of course, be it will only be from a certain point in time forwards till you have higher dimensionality.
+
+573
+01:18:09,000 --> 01:18:18,000
+Right. But just to wrap up. So the tamper proof history is important in the sense that you're not storing all of the information.
+
+574
+01:18:18,000 --> 01:18:21,000
+The tamper proof like it's basically zero knowledge proofs.
+
+575
+01:18:21,000 --> 01:18:30,000
+It's smart contracts equivalent of things that you are storing, not just the maxims, not just the learnings or the archives or the intent.
+
+576
+01:18:30,000 --> 01:18:46,000
+In this case, if you want to guarantee that it won't be tampered with so high guarantee versus a loose guarantee, the high guarantee should also have mechanism for you to reproduce that final state like a theorem.
+
+577
+01:18:46,000 --> 01:18:55,000
+So to say, then what you archive, what is worth archiving, primary answer would be the intent.
+
+578
+01:18:55,000 --> 01:19:02,000
+Because it's only when you apply intent frame on frame on frame, intent action, intent action, intent action.
+
+579
+01:19:02,000 --> 01:19:14,000
+If you believe in that homogeneous causality, that is, if you want to implement a homogeneous causality, then let's just say in kit terms.
+
+580
+01:19:14,000 --> 01:19:28,000
+Continuous. Yeah, a continuous, but unidirectional causality of equal intervals like intent precedes an action.
+
+581
+01:19:28,000 --> 01:19:38,000
+So the in this case is simply going to be a high guarantee.
+
+582
+01:19:38,000 --> 01:19:48,000
+If you are storing only the intent, sorry, low guarantee for storing only the intent, a high guarantee if you're storing the intent along with the replay mechanism.
+
+583
+01:19:48,000 --> 01:19:56,000
+But just because when we say low loose guarantee does not mean falsification.
+
+584
+01:19:56,000 --> 01:20:06,000
+Lose guarantee is simply saying that you will have to take this as face value because you don't have any way to reproduce this to know for yourself.
+
+585
+01:20:06,000 --> 01:20:09,000
+But it has not been changed.
+
+586
+01:20:09,000 --> 01:20:13,000
+OK, that is a good as in a baseline.
+
+587
+01:20:13,000 --> 01:20:20,000
+I have two things to add there like nothing to like it's not doesn't exclude from what you already said.
+
+588
+01:20:20,000 --> 01:20:26,000
+I want to add that perspective, adding more perspective to existing data.
+
+589
+01:20:26,000 --> 01:20:31,000
+So basically multiple accounts to the same story to avoid that.
+
+590
+01:20:31,000 --> 01:20:36,000
+What is the term that you used for what history?
+
+591
+01:20:36,000 --> 01:20:38,000
+For a lot of the things.
+
+592
+01:20:38,000 --> 01:20:42,000
+Temper proof revisionist revisionist.
+
+593
+01:20:42,000 --> 01:21:02,000
+So to avoid one single narrative to through some certain filter instead of that coming to become like being treated as a history, let all the different filters play their role and record all of those.
+
+594
+01:21:02,000 --> 01:21:08,000
+Don't be the judge and judge decide which one is more relevant, which one is actually correct.
+
+595
+01:21:08,000 --> 01:21:18,000
+So think of it in this way, then your view of history is just a query on that database on the database of history or whatever part of history you have access to.
+
+596
+01:21:18,000 --> 01:21:23,000
+Yes, because there can be many databases which can choose to communicate or not.
+
+597
+01:21:23,000 --> 01:21:28,000
+So at any point you only have a limited view of something.
+
+598
+01:21:28,000 --> 01:21:31,000
+I mean, the best way I can explain it is by Dota.
+
+599
+01:21:31,000 --> 01:21:34,000
+Your map has begun to explode only certain events.
+
+600
+01:21:34,000 --> 01:21:37,000
+Don't be have the audacity to ask for what is there in the dark.
+
+601
+01:21:37,000 --> 01:21:38,000
+Go find it.
+
+602
+01:21:38,000 --> 01:21:40,000
+Yeah, yeah, exactly.
+
+603
+01:21:40,000 --> 01:21:52,000
+So if that is the case, if then, I mean, a lot of the solved problems we are just basically philosophizing game design to a point that why are games designed the way they are designed?
+
+604
+01:21:52,000 --> 01:21:54,000
+There's a very good reason for me to do that.
+
+605
+01:21:54,000 --> 01:21:56,000
+And I will come to that after some point.
+
+606
+01:21:56,000 --> 01:21:57,000
+But yes, you are correct.
+
+607
+01:21:57,000 --> 01:21:58,000
+I know, I know.
+
+608
+01:21:58,000 --> 01:22:11,000
+I'm just again connecting in let's say for the sake of viewers or for us as the future viewer that a lot of what is happening has very strong analogies to the concerns faced by game design and have been answered in different ways.
+
+609
+01:22:11,000 --> 01:22:15,000
+So basically the philosophy for our times.
+
+610
+01:22:15,000 --> 01:22:22,000
+One is possibly the information like the impact of AI, which are again very large scale endeavors.
+
+611
+01:22:22,000 --> 01:22:40,000
+But if you really want to geek out on something more tangible, try to philosophize software or like systems design tradeoffs, the architecture, why something is built, how it is built and why, why, why are games entirely different?
+
+612
+01:22:41,000 --> 01:22:53,000
+Which are also applications themselves of application development such that we distinguish in our software industry as a game developer and an application developer, a JavaScript developer and a game developer.
+
+613
+01:22:53,000 --> 01:22:56,000
+What's going on there?
+
+614
+01:22:56,000 --> 01:23:09,000
+What and what I'm saying is that the things that we are touching has foundations in some of those things for you, extensive experience with Dota for me, certain other things.
+
+615
+01:23:09,000 --> 01:23:16,000
+But you see that some of these also have answers to very complex certain complexities of our daily life.
+
+616
+01:23:16,000 --> 01:23:22,000
+And I'll just at this point just leave two nuggets, which may be pick up at a later point.
+
+617
+01:23:22,000 --> 01:23:27,000
+One of them is the entity component system architecture.
+
+618
+01:23:27,000 --> 01:23:30,000
+What it does, why it does.
+
+619
+01:23:30,000 --> 01:23:33,000
+Can you write it down in the chats?
+
+620
+01:23:33,000 --> 01:23:35,000
+Yeah.
+
+621
+01:23:35,000 --> 01:23:37,000
+Come back to it, essentially.
+
+622
+01:23:37,000 --> 01:23:40,000
+I don't want to.
+
+623
+01:23:40,000 --> 01:23:47,000
+Sorry.
+
+624
+01:23:47,000 --> 01:23:50,000
+Oh, okay.
+
+625
+01:23:50,000 --> 01:23:52,000
+I couldn't hear it properly.
+
+626
+01:23:52,000 --> 01:23:55,000
+Yes, I figured.
+
+627
+01:23:55,000 --> 01:23:59,000
+What we don't mention here is, of course, why it is used.
+
+628
+01:23:59,000 --> 01:24:09,000
+But ECS is one of those architectural patterns that I find very close to my heart.
+
+629
+01:24:09,000 --> 01:24:20,000
+Because it tries to, I mean, it is a sort of, in that sense, superset or an application of functional programming concepts in the way that it is encapsulating the concept of components.
+
+630
+01:24:20,000 --> 01:24:29,000
+But it's kind of a worldview, which is very similar to how I kind of think of the word, like as something that is a state transformer.
+
+631
+01:24:29,000 --> 01:24:35,000
+A massive state transformer with very intricate rules all the way down to the smallest levels.
+
+632
+01:24:35,000 --> 01:24:39,000
+But then entities are independent.
+
+633
+01:24:39,000 --> 01:24:46,000
+But I would just like to use the same things that we're doing to analyze entity component system as a case study.
+
+634
+01:24:46,000 --> 01:24:52,000
+And see what are the trade-offs that it makes, which, again, you cannot get with an object-oriented thing.
+
+635
+01:24:52,000 --> 01:24:55,000
+We can, of course, compare, particularly with a waste of time.
+
+636
+01:24:55,000 --> 01:25:13,000
+And the other aspect that kind of ties this through a lot of this is the edge that, again, like I said in the beginning, why does our existing current AI system, so let's say generative AI or whichever form,
+
+637
+01:25:13,000 --> 01:25:26,000
+I'm just saying status quo and whatever research is in progress at this point, the totality of that, that they seem to be facing certain questions that have been answered again and again.
+
+638
+01:25:26,000 --> 01:25:31,000
+And there are some very smart people who are also thinking along those lines.
+
+639
+01:25:31,000 --> 01:25:51,000
+And then I want to move the discussion beyond just, oh, like, let's say ethics of AI in a generic sense, or should we do this, should we do that, to what are the things that we could not do earlier and hence had not considered at all.
+
+640
+01:25:51,000 --> 01:25:55,000
+And like, and we are able to do that.
+
+641
+01:25:55,000 --> 01:25:57,000
+So I kind of lost the thread there.
+
+642
+01:25:57,000 --> 01:26:17,000
+But yeah, I always think that, yes, when this ties together with the deeply political aspects of our thought and are probably how some of our technology choices are being your mind.
+
+643
+01:26:17,000 --> 01:26:23,000
+Tends to be and again from theoretical perspective that tends to be anarchist in nature.
+
+644
+01:26:23,000 --> 01:26:30,000
+And again, not the bomb throwing anarchist, but the theoretical anarchist principle.
+
+645
+01:26:30,000 --> 01:26:32,000
+So I intend to delve deeper into this.
+
+646
+01:26:32,000 --> 01:26:36,000
+I've been reading up a bit to connect the dots here.
+
+647
+01:26:36,000 --> 01:26:42,000
+And at the same time, it exhibits very strong nihilistic tendencies.
+
+648
+01:26:42,000 --> 01:26:44,000
+And why does it do that?
+
+649
+01:26:44,000 --> 01:26:52,000
+Because a lot of the questions we are asking around archival have also come from the fact that we have lost enough information in our life.
+
+650
+01:26:52,000 --> 01:26:55,000
+It's not coming from an ideological stance alone.
+
+651
+01:26:55,000 --> 01:27:04,000
+It's an ideological stance informed by the losses we have already experienced, which we have not been able to recover, some way or the other.
+
+652
+01:27:04,000 --> 01:27:07,000
+So there's like personal skin in the game.
+
+653
+01:27:07,000 --> 01:27:13,000
+But a lot of these concepts would then look at that one key perspective.
+
+654
+01:27:13,000 --> 01:27:20,000
+So you mentioned some of the things and thanks for like kind of reeling the whole thing together.
+
+655
+01:27:20,000 --> 01:27:25,000
+I know that there are lots of topics that we could go through today itself.
+
+656
+01:27:25,000 --> 01:27:32,000
+But I think it's better that we take the small bite chew over and then come keep coming back and do more of that.
+
+657
+01:27:33,000 --> 01:27:39,000
+Sustaining that high is probably more important than like getting in, being too excited and then burning out.
+
+658
+01:27:39,000 --> 01:27:43,000
+So I think it is better to keep those things out for the future.
+
+659
+01:27:43,000 --> 01:27:58,000
+Couple of things, couple of topics that like one part is that the nihilism, like what kind of energy we are talking about here, establishing those things, going around that part.
+
+660
+01:27:59,000 --> 01:28:03,000
+So I can just add one point here.
+
+661
+01:28:03,000 --> 01:28:14,000
+The idea of the philosophical analysis of some of these seemingly political principles is that they make for very good taste suits for any system that you build,
+
+662
+01:28:14,000 --> 01:28:23,000
+which means I am now talking of that we need to build software systems where our software testers are philosophers
+
+663
+01:28:23,000 --> 01:28:28,000
+so that they can actually know what is the right thing to test the system against.
+
+664
+01:28:28,000 --> 01:28:30,000
+What are my automated tests supposed to guarantee?
+
+665
+01:28:30,000 --> 01:28:36,000
+And I want to approach these from the testability of a software perspective as well.
+
+666
+01:28:36,000 --> 01:28:40,000
+In fact, I would argue that's probably where the world is headed.
+
+667
+01:28:40,000 --> 01:28:42,000
+It's not that that's that should happen.
+
+668
+01:28:42,000 --> 01:28:50,000
+It probably would become very like I think it will just become purely out of several of the fittest in a couple of.
+
+669
+01:28:50,000 --> 01:28:51,000
+I don't really know.
+
+670
+01:28:51,000 --> 01:28:53,000
+I'm very bad at breaking the years.
+
+671
+01:28:53,000 --> 01:29:01,000
+But in two years time, I'm I'm fairly certain that people who have better understanding of epistemic,
+
+672
+01:29:01,000 --> 01:29:10,000
+how to understand the framework itself more than the execution of like basically story point driven output,
+
+673
+01:29:10,000 --> 01:29:19,000
+they're going to start winning out a massive amount to the point that it will become obvious to everybody else that that aspect is way more important.
+
+674
+01:29:19,000 --> 01:29:26,000
+Actual execution of getting the things done can pretty much be delegated to a declarative statement
+
+675
+01:29:26,000 --> 01:29:32,000
+and then waiting for the model to execute that and come back to you.
+
+676
+01:29:32,000 --> 01:29:40,000
+Deciding what is how to tackle that problem, what the declarative statement is, what is worth doing,
+
+677
+01:29:40,000 --> 01:29:47,000
+that part, understanding of epistemic of that part, building the test system where that can be validated or not validated.
+
+678
+01:29:47,000 --> 01:29:50,000
+Those are the parts that are going to start mattering way, way more.
+
+679
+01:29:50,000 --> 01:30:01,000
+And yeah, one of the things that I have seen and I also want to discuss about that is that how was the utilitarian and deontological standpoint
+
+680
+01:30:01,000 --> 01:30:06,000
+and how does that relate to I don't know whether there's an actual background to that,
+
+681
+01:30:06,000 --> 01:30:14,000
+but how does that relate to a declarative versus procedural, not procedural, imperative essentially.
+
+682
+01:30:14,000 --> 01:30:20,000
+I completely forgot. At one point I had told you there are two forks and I went down one fork and I continued.
+
+683
+01:30:20,000 --> 01:30:28,000
+The other fork was supposed to be this declarative versus this discussion as basically the flow-based programming
+
+684
+01:30:28,000 --> 01:30:34,000
+or that's where it came to entity component system as other software paradigms,
+
+685
+01:30:34,000 --> 01:30:45,000
+which if you look at J.J. Palem's papers on flow-based programming between the 60s,
+
+686
+01:30:45,000 --> 01:30:53,000
+they read like science fiction because the computing systems of the days could not even control what were happening.
+
+687
+01:30:53,000 --> 01:31:01,000
+But then if you look at it, that's a system which lets you have logic interposed at places where data is being transformed,
+
+688
+01:31:01,000 --> 01:31:05,000
+which again means that you are then designing a system.
+
+689
+01:31:05,000 --> 01:31:12,000
+So again, if you go to episteme, I found it extremely straightforward when I first read flow-based programming.
+
+690
+01:31:12,000 --> 01:31:18,000
+I got so excited I showed it to three colleagues and they found it absolutely archaic and useless.
+
+691
+01:31:18,000 --> 01:31:23,000
+Then I showed it to a few others and some of them again had this instant click.
+
+692
+01:31:24,000 --> 01:31:28,000
+And that is when I went back to the question that what is the difference here
+
+693
+01:31:28,000 --> 01:31:32,000
+and the difference turned out to be the knowledge of how knowledge forms.
+
+694
+01:31:32,000 --> 01:31:36,000
+So we are talking about the same thing, we are coming to the same conclusion,
+
+695
+01:31:36,000 --> 01:31:40,000
+but we kind of came to the exact same understanding from two different angles.
+
+696
+01:31:40,000 --> 01:31:44,000
+Yes, and that's the whole point to show that that's the intersection.
+
+697
+01:31:44,000 --> 01:31:50,000
+That would be actually, I think that actually requires way more reflection.
+
+698
+01:31:50,000 --> 01:31:52,000
+I don't think we should go into that one.
+
+699
+01:31:52,000 --> 01:31:54,000
+This is just a summary.
+
+700
+01:31:54,000 --> 01:31:58,000
+But this is one of the topics that we should probably cover.
+
+701
+01:31:58,000 --> 01:32:01,000
+The immediate next one probably, we should probably go into this one.
+
+702
+01:32:01,000 --> 01:32:03,000
+Yeah, I think so.
+
+703
+01:32:03,000 --> 01:32:05,000
+This is going to be interesting.
+
+704
+01:32:05,000 --> 01:32:11,000
+And if you want to scope it down, then we can compare the architectural analysis,
+
+705
+01:32:11,000 --> 01:32:14,000
+like I said, of the ECS on those principles.
+
+706
+01:32:14,000 --> 01:32:18,000
+There are some of the things that I have some thoughts that I would like to bounce for.
+
+707
+01:32:18,000 --> 01:32:24,000
+But the other place where I have reasonably thought through for a while is the software testing angle.
+
+708
+01:32:24,000 --> 01:32:30,000
+So I actually want to tackle the question that what does it mean for software testers
+
+709
+01:32:30,000 --> 01:32:36,000
+with the current kind of systems that are coming in,
+
+710
+01:32:36,000 --> 01:32:43,000
+which again, just if you might want to note, the part I want to focus on is the definition of testers.
+
+711
+01:32:43,000 --> 01:32:45,000
+That was the question I was going to ask.
+
+712
+01:32:45,000 --> 01:32:47,000
+Does it have to be software tester?
+
+713
+01:32:47,000 --> 01:32:52,000
+It pretty much seems like any kind of system evaluator would want to.
+
+714
+01:32:52,000 --> 01:32:53,000
+Yes.
+
+715
+01:32:53,000 --> 01:32:57,000
+So the software testing was just to intentionally scope it down.
+
+716
+01:32:57,000 --> 01:33:00,000
+But eventually the question was testability.
+
+717
+01:33:00,000 --> 01:33:04,000
+The ability to test a system being a more important skill
+
+718
+01:33:04,000 --> 01:33:09,000
+than the ability to either build or operate that system.
+
+719
+01:33:10,000 --> 01:33:16,000
+In fact, the second part is basically an extension of being able to,
+
+720
+01:33:16,000 --> 01:33:23,000
+like having the intent, which basically being able to do the declarative,
+
+721
+01:33:23,000 --> 01:33:30,000
+whichever method mechanism you use, being able to declaratively convey the intent
+
+722
+01:33:30,000 --> 01:33:34,000
+and then testing out whether that intent was carried out or not.
+
+723
+01:33:34,000 --> 01:33:38,000
+Those two are the only things basically that is at the crux of everything,
+
+724
+01:33:38,000 --> 01:33:40,000
+like any kind of compute mechanism.
+
+725
+01:33:40,000 --> 01:33:45,000
+And everything else comes down to the, what is the right term for it?
+
+726
+01:33:45,000 --> 01:33:48,000
+Basically to serve these two things.
+
+727
+01:33:48,000 --> 01:33:53,000
+Yes. And we should ensure, we must ensure that interfaces
+
+728
+01:33:53,000 --> 01:34:00,000
+and every other ways of interaction with technologies here on keep these principles in mind.
+
+729
+01:34:00,000 --> 01:34:03,000
+And again, I'm talking beyond software.
+
+730
+01:34:04,000 --> 01:34:07,000
+Yeah. In fact, I want that to be beyond software
+
+731
+01:34:07,000 --> 01:34:13,000
+because it's absolutely fine to use software as the proving ground where we...
+
+732
+01:34:13,000 --> 01:34:15,000
+Simulations.
+
+733
+01:34:15,000 --> 01:34:18,000
+Yeah. But then it needs to transcend that part.
+
+734
+01:34:18,000 --> 01:34:23,000
+And I'm pretty sure I'm more than certain that it actually has a bigger ground to play
+
+735
+01:34:23,000 --> 01:34:27,000
+if we can actually turn it into a model that is cohesive enough.
+
+736
+01:34:27,000 --> 01:34:29,000
+Cool. Fantastic.
+
+737
+01:34:29,000 --> 01:34:34,000
+So I am not available next week and probably the week after.
+
+738
+01:34:34,000 --> 01:34:38,000
+I'm traveling, so we have a work meetup.
+
+739
+01:34:38,000 --> 01:34:44,000
+So I'll come back and let's catch up then. I'll keep you posted.
+
+740
+01:34:44,000 --> 01:34:47,000
+Sure.
+
+741
+01:34:47,000 --> 01:34:52,000
+That was the most depressed you are ever.
+
+742
+01:34:52,000 --> 01:34:54,000
+Yeah.
+
+743
+01:34:54,000 --> 01:34:56,000
+That's fine. That's fine.
+
+744
+01:34:56,000 --> 01:35:02,000
+I probably can try to, but I don't think that would be fair to do.
+
+745
+01:35:02,000 --> 01:35:07,000
+It's not fair to do also because now I have a different time availability factor.
+
+746
+01:35:07,000 --> 01:35:11,000
+So I was like, why don't you do it twice a week?
+
+747
+01:35:11,000 --> 01:35:16,000
+I think that is absolutely a possibility. But once I come back.
+
+748
+01:35:16,000 --> 01:35:19,000
+This is one of the things that I plan.
+
+749
+01:35:19,000 --> 01:35:24,000
+So since 2018, I haven't actually taken a break with my family.
+
+750
+01:35:24,000 --> 01:35:28,000
+My first break since 2018. Oh my God, I got to go rest.
+
+751
+01:35:28,000 --> 01:35:31,000
+Yeah. So basically I haven't really taken a break with my family.
+
+752
+01:35:31,000 --> 01:35:34,000
+And it was not possible because the kid was too small.
+
+753
+01:35:34,000 --> 01:35:40,000
+Now she is just about old enough to know the address and the parent's name
+
+754
+01:35:40,000 --> 01:35:42,000
+in case she kind of goes missing.
+
+755
+01:35:42,000 --> 01:35:45,000
+I kind of think in terms of worst case scenarios.
+
+756
+01:35:45,000 --> 01:35:47,000
+So that's probably the best way to put it.
+
+757
+01:35:47,000 --> 01:35:51,000
+But the point is now it's time we can actually go somewhere.
+
+758
+01:35:51,000 --> 01:35:53,000
+So basically this was a long time coming.
+
+759
+01:35:53,000 --> 01:35:55,000
+So I don't want to take something away from them.
+
+760
+01:35:55,000 --> 01:35:57,000
+So this two weeks is going to be a bit hectic.
+
+761
+01:35:57,000 --> 01:36:02,000
+But after that, when I come back, I'm more than open to like explore this
+
+762
+01:36:02,000 --> 01:36:06,000
+with intensity essentially. Right. Let's go.
+
+763
+01:36:06,000 --> 01:36:08,000
+All right. Thanks a lot.
+
+764
+01:36:08,000 --> 01:36:11,000
+I'm going to end the stream for anybody watching the stream.
+
+765
+01:36:11,000 --> 01:36:13,000
+And then.
+

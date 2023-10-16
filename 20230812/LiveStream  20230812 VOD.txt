@@ -1,0 +1,765 @@
+What topic? I am going to try to take this out.
+Do you have any topic in mind?
+I have. Before that, let me start with a brief introduction and the reason why I am choosing to stream.
+I don't have much of a viewer and this is not being streamed on Twitch. This is purely being streamed to YouTube for the vault purpose.
+It's almost like a time capsule. That purpose. Probably not relevant for next 2 years, 3 years, 5 years.
+But maybe 50 years down the line, somebody might find this and it might add some context, some meaning.
+I don't know. Hopefully, that is the case.
+I feel that we have been having this chat. We have been having the conversation for the last couple of weeks.
+There has been a lot of interesting topics that we kind of touched. But the volatility of it, I kind of don't enjoy that part.
+Even though I see the trying to be that Ozymandias and also see the irony of it, but I also can't, as a life form, I cannot just go into the dark night.
+I have to fight back against it. So that's kind of the way to try to retain as much information as possible.
+Hopefully, that is relevant or useful for us or to somebody else for that matter at any point in time.
+With that said, for anybody watching this, I'm Deb. This is Kaustubh. We go a long way. We have had previous ventures.
+So we have a tendency of imagining a future and then talking about it and then getting excited about it and then doing something and then realizing that the world hasn't caught up to it yet and it needs more time.
+So by the time the world actually catches up with it, we kind of are done with it, exhausted about it and bored about it.
+And we moved on to something different that had happened with the entire three pillars of the things that we are working with right now.
+The world has caught up to the part about unified communication, self-autonomous software, and eventually going to be that he brain machine interface.
+Those are the things that we are kind of in that zone right now, which is good. Applet died for that scene 10 years back.
+Anyway, so hopefully the things that we're talking about now, it becomes relevant at some point. Topics that I have been trying to jot them down in notion.
+I kind of have like it's not very sorted or organized, but I think I do better thinking when I'm trying to vocalize it and trying to find the pitfalls.
+So that is kind of my outlet, like discussing with you and figuring out where I'm coming wrong or where are the parts that are darker still that I need to shed more light on.
+And I think you also have some some things to discuss. So tossing the mic back on to you. Go ahead. Where do you want to go?
+So, I mean, content warning for viewers more on the lines that you this is more like choosing to record our thoughts.
+And it tends to be sometimes utterly specific, thus being very narrow and sometimes extremely generalistic, thus being not applicable to specific context.
+The pedal is getting raw information as it processes and comes out of the brain.
+The benefit that I hope that even I wish to have when I look back at this in the future is to see the thoughts forming.
+And sometimes, you know, when you look back at the process of thought, it's kind of like an RPG.
+Like if you pause and play back and wonder if I had thought something different here, kind of like tweaking the variable of my own thought, would that produce a different outcome and then just run tests?
+So I would say one of the purpose for me even regarding it at this stage is probably the like wanting the ability to actually come back to it, analyze it.
+So maybe I think this will become a topic in a lot of our discussions, the retrievability of information and what does it need to maximize that?
+And I guess that is sort of one of the segues to some of the topics that we have been discussing.
+Let's say I'd like to start with a few of my old Bangla shots.
+Like an elder brother of mine had explained to me when I was about four or five years of age, I'm just learning Bangla of the types of students that exist in a school.
+And he had said, and the equivalents are there is bigabego, so big in Bangla means fast, like for those students who understand very fast and who forget very fast.
+There is dhirobego, dhiro means slow, like where somebody slow to learn and forgets very fast.
+Then there is begodhiro, which is somebody learns very fast and forgets very slowly.
+And there is dhirodhiro, like I take a long time to learn, but then I'm very slow to forget.
+And he had told me what you want to be in life is the begodhiro, like you want to be able to learn the fastest and remember it the longest.
+I found that it's a very good middle class Bengali aspiration, which like most things are not attainable in reality.
+So what actually you would want to do, in fact, then that somehow stayed with me, you know, like the earliest perceptions of how humans think and how others perceive others thinking.
+From there, it has kind of been that guiding stone that, okay, what if I tweak the system to my benefit, given my apparent lack of capability?
+So what would it do, like my ideal combination then became the begabego that I want to be able to learn very fast, forget very fast.
+But I want to be able to recall just specific things when I want, because it seems like that's what I'm very used to, like I don't remember what I ate yesterday.
+But I have a very good collection of all the things I have cooked and I can make you something which was something like yesterday.
+And if can you tune my life to that direction? So just to draw it back to where we have been discussing is sort of this intersectional perspective that there are certain things that human brains are capable of doing.
+There are certain things that human collectives are capable of forming and the principles seem to be beyond anthropomorphic.
+That is, these are more generic principles. So what are those limitations that we are enforcing upon ourselves by the anthropomorphic lenses that we have put?
+Which very interestingly leads us down to the discussion of morality, that what is good, what is bad? Am I a good boy, am I a bad boy?
+Now, well, it goes to say good boy, bad boy, good daddy, bad daddy. Yeah, but am I a good boy and a bad daddy?
+These are all subjective. So then what's the function of morality? But then, given that both of our, so I know they're up to the Maasala community.
+That's where we had met, he was my mentor there. And yeah, I have been stuck like, you know, stronger than it leads to your toes, like kind of absorbing the nutrients.
+But then, I mean, from them, I see that as a more of a binary system, like binary star, like two neutron stars, that kind of system.
+I was coming to that. Yeah, I mean, so when I say like leech, that was basically the object of morality being applied to give it a connotation of good and bad and parasitic being just a one way communication, let's say.
+Which has been something that has constantly clashed because there's probably the only other person I know who speaks the exact same languages, has exposure to similar kind of cultures, and things in that exact nonsensical absurdist generalist, yet specific, but occasionally vague that you won't understand without the concept.
+And I, this is all just a long introduction of what is coming up. This is sort of a summary. Somebody hasn't ended. This is still the trailer.
+Now, what happens is when you just look into these things, and then look at the world around us, which is, it's like applied philosophy, that you take the basics of metaphysics, and you look at the world around you and try to narrate those things with these lenses, then what does it look like?
+And you start seeing the intersections. For example, a lot of this discussion would quickly go into quantum computing for the very fact that it is one of those paradigm shifts, which lets us think differently, which lets us plan differently.
+But then a lot of my interest is also to see that what can we do with what we already have? And that is not the same as combining a few tools to build something out of it. It's not assembly.
+But it's a careful deconstruction of every tool that we have to see what is it that they're doing? What is it that they're providing us? And when it's a tool, I mean language as a resource. So let's just consider resource, right?
+And then putting it back in a certain configuration to see if that is giving us any different results. And this is pretty much how I think both of us think, how we try to talk, how we also try to document.
+So I guess I will again now put things back.
+So you gave quite a few points for me to jump off.
+But now let's build from there.
+Yeah. So one of those things that you mentioned about that, the way that is very narrow, very certain, very specific frequency band that we communicate, I've kind of figured out the reason for that. Shukumar Rai.
+So I was going to pay tribute to him. He's like a death anniversary. What do you call that thing?
+You just called it a death anniversary.
+Okay, so that is the term. I'm bad with nouns, essentially, in a sense. So that is 10th September, this centenary, essentially.
+And the fun fact is, he would be exactly pretty much 100 years older than me. It gives me a lot of not to think about, so I kind of like working towards that. But point is, I kind of realized that shaped a lot of my childhood, that shaped a lot of my adulthood, and that shaped a lot of the kinds of friends that I am capable of making in the first place.
+But it also gave me a very good framework of looking at life, not too chill, not too uptight, but in a particular narrow band where the bandwidth is kind of maximum, in a sense, for the lack of a better way to explain it.
+The non-compromising observer.
+Yeah, maximally curious non-compromising observer, in a sense. The maximally curious part is kind of important, because sometimes I have to let go of opportunity for the maximal curiosity part, like I want to see more, know more, and sometimes I might need to take less reward because of that.
+So anyways, putting that aside, just wanted to mention that because the kind of framework, I didn't know about it even a couple of months back. What was it?
+It's like you'd be amazed how much sense absurdist techniques can make.
+Ironically. So the other part of that information persistence that you started to talk about, you kind of went into that direction, but you actually didn't traverse. I want to know more about that part. Yeah, it happens all the time. It happens to me as well. I'll do that all the time.
+I was like charting the periphery of the quadrant. It's like you take a left from Kronos, don't continue straight.
+Okay, so that's the delta quadrant then.
+So the parts that we can basically talk about as you kind of lay down, like quantum computing, cognitive psychology, like the entropy of matter, things that we're doing, what is good, the sense of morality in the first place, and how we approach things, what is worth doing.
+As in this is one of the things that probably not a lot of philosophical debate that gets into usually like what is worth doing, like what is good, what is bad, that usually is kind of crux of the matter.
+What is worth doing? Like after knowing what is good, what is bad? What's your takeaway? Where do you go from there?
+So that is probably a very underexplored topic, but there are a lot of things that we can think about.
+I think you want to write up. You do better thinking when you write something, if I'm not mistaken.
+I do better communication when I write.
+Okay.
+I do better thinking when I scribble and speak.
+Okay, yeah. So for me, that is especially the case.
+I do better thinking when I'm vocalizing, subverbalizing something.
+I'm pathetic at it, and the reason I stumble, the reason I stammer, the reason I kind of go back and forth and can't find the right word for it is because that is the particular point when I'm actually like threading the needle, or trying to, essentially.
+I'm forming my thoughts at that point when I'm actually talking about it, so kind of happening in parallel.
+I can collate them better later, but actually the uncharted territory traversing that part, I need to verbalize it.
+So I think I am also trying to kind of figure out what are those thoughts, what are those things that we can go through, and how can we kind of make them, give them some sort of permanence.
+At least to give our best, to give some kind of permanence, right?
+So that's what we are basically trying to probably figure out, and I am trying to make this thing kind of a not a one-time thing.
+This is something that we keep on biting every chunk by chunk, and get to the end of it, and come out with a result with some sort.
+It doesn't have to be, it doesn't have to generate some magnifying glass or something, but having some kind of goal kind of gives a framework to look up to, essentially.
+That's pretty much what I'm coming from. Maybe I need to re-evaluate that at some point, but that's where I'm at.
+I think that itself is a very interesting part to focus on, because in a fundamental way, we are trying to capture chaotic thinking,
+aligned to people who roughly think in the same domains, but not necessarily the same directions, but with ample intersections.
+So there is a large union set here.
+But how does that actually begin to form to a point that actually produces something in the end?
+And each of these are then loops, or like levels of state, whichever way you plot it.
+And I think that the important thing is figuring out the loops in the system.
+So the best way to figure it out is, and again, I'm just depicting what has worked for us in the past,
+which is we start down a path of inquiry, like go down a rabbit hole.
+At some point, if the rabbit hole intersects with something you've touched on the path, then you have a loop.
+So then note that, go back and mark that loop, and then carry on.
+That don't take that path again.
+Which is, in our current state, then that is like the point of one article, one library, we don't know.
+Like each of them then would have traced one full path, which should have some artifact that can be produced as a result of that.
+Right.
+One other thing, aside from that, that I was figuring out, that is probably not mutually exclusive,
+but another way to approach it is, not always two people talking about the same domain, discussing the same thing,
+have to actually come to a synthesis, not necessarily, because the amount of information available,
+the amount of discussion necessary, amount of vocabulary available, all those things kind of sometimes may pose the amount of life experience needed.
+All those things might pose a certain limitation that you might not be able to come to a conclusion,
+but it might still be necessary to present both the sides of the argument itself as a documentation, in a sense.
+It is not necessary to come to a, okay, no, we agree with each other now.
+It is okay to have that, okay, your standpoint and morality stands here, mine is here, but we present both of those things.
+Maybe we ourselves can revisit it in five years' time, and maybe we have some better tools to deal with that, but it might still be necessary to document it as is.
+Not mutually exclusive with any of the previous approach we already have tried and worked, but I think that's also yet another thing that we can try.
+Previously, we had tried to work towards a common endpoint, essentially.
+So that gives me a very interesting segue into the kind of like the core discussions.
+Now, a lot of these discussions tend to focus around the abstracts and like the abstraction of the discussion, like the meta, so to say.
+And kind of like HTTP requests, like if you send reasonable enough information in the header, your body does not need to contain status codes, you know, the kind of APIs I'm talking of.
+Like, don't send redundant status codes. It's kind of like, don't do small talk, please.
+I mean, if you just look, if I was an HTTP server, whatever they've said.
+But then the thing that they've said, in terms of the discussions and then something fruitful coming out of it, and that we record so that we can revisit it in, let's say, five years.
+Now, one of the themes that also happens is this is the third five-year term that we are entering in that sense.
+Our first five year was about, let's build open source communities in India in some form.
+Second five year was on the lines of there are some of these fundamental technologies that we are interested in that looks like we need to do what we actually want to do, which is like things on top of that.
+And then now at the third five year, where we interestingly have some direction, some vision, and that's there.
+But then we also have these two five-year stages to inform us from.
+And there has been a massive increase in the capacity of information processing in this last 10 years or last 11 years.
+So the way we have communicated, starting from an IRC ping to figure out if this person is alive, exists, or is a bot.
+And like, was developer a bot was the sort of question.
+So coming from there to this place where we are at a technological front where this conversation can be recorded, annotated, grouped, archived, cataloged, open for me to search through.
+Which just makes me think how much more like what I could have done if my class notes were on this.
+Would I have been a better student? Would I have been able to continue in academia?
+Because at that point, well, I just had to record the lectures of the professors, come back in my time.
+Now, before you start thinking that this is me trying to skip classes, no.
+The environment of the classrooms were such that I could not concentrate in the rooms.
+I completely understand. You are preaching to the choir here.
+So I completely understand that particular thing.
+This is not my best moment of focus, but I have to somehow master it.
+Or take it, essentially, which is what happened most of the time.
+So I completely understand. Go ahead.
+Yeah. So from there, just like taking those ideas and arguments and, you know, at times bundling them into the ferocity of even how we built software on a day to day basis.
+And sometimes it's not easy to explain to a colleague on why I am taking a certain moralistic stand about even that's an API interface, which seems like this will definitely be damaging in the short term.
+And I am saying that this will give us a number of benefits in the long term.
+I think the fundamental reasons have not changed.
+They have just embellished, sharpened.
+Now I have maybe a wider vocabulary to communicate.
+So the next thing to see is what can we do out of the information that we have now in this accessible form?
+And does this give us the sort of boost that we could have gotten if a lot of those discussions from 10 years were also available in this format?
+Which, again, is the experiment here at its very subjective level.
+And that itself opens up pathways to really figure out the core of what does it mean to be in an information society?
+What does it mean to be interacting with or building systems that are capable of processing information at scales that were not possible here until now?
+Also knowing that these are exponential growth factors.
+So then where does that leave us?
+And if in the process of scratching our own itch, something interesting comes out, then maybe we can repackage that and get rich for a while to do the next thing.
+Yeah, so I kind of so this is one of the understanding when you say that, okay, previous phases, like if you see that as like one of those...
+Oh no, I was forcefully bucketing it just to prove a point.
+That's fine, but I do have a six years phases, essentially.
+For me, it's actually not five years.
+It actually does work with the six year phases.
+So one of the new phases, they're basically starting into 2023.
+Anyways, the point here is right now what I'm discovering, which is something that I previously put up to the test, like, hey, I'll re-evaluate them next time.
+It is that we always have access to more amount of data, more wider bandwidth of data.
+Not talking about the internet data.
+I'm talking about in general, the amount of information transcended from previous to the next phase or session or like the era or generation, whatever you want to call it.
+The amount of information that goes posted down is basically more volumetric than previous ones.
+But you can't take the whole thing away with you.
+You somehow have to summarize it, turn it into a magazine and utilize that.
+That's the only thing, because we kind of have a limited amount of compute ourselves.
+Now that's another part of the discussion, probably later part of the discussion, probably not even today, sometimes.
+But even if we treat ourselves as individuals that we only have to be individuals and cannot leverage each other's intellect in a positive reinforcement manner, we have to hold the internet model in one GPU, like this thing.
+Even in that case, we have that limitation where we have to kind of distill it down to some certain life.
+Might be right, might be wrong, but these are the set of magazines that works for me and I go forward with that.
+And that came out after hundreds of thousands of years of evolution, essentially, in a sense.
+Most of it is very recent, but basically it's building in progress.
+So that means two things.
+One, even though we will have more compute to analyze and evaluate, like basically, okay, generate all the transcripts from this entire recording, summarize that, categorize that by topic and generate bullet points about what are the things that these idiots have discussed about, right?
+And that would be very possible, like my later generations, they would not want to sit down and probably have a conversation like this, especially not sit down and listen to a conversation like this the whole way through.
+They would probably some way figure out a way to distill it down and then do it, right?
+The point that I'm trying to make here is that it will always be exponentially more and more amount of data that will be available next up.
+But it doesn't go away from the fact that we still have to somehow pinpoint that this is exactly the center that we are rounding, like going around and around and around, finding out the center.
+Sometimes when you're pushing the boundary, finding out that nebulous center sometimes is challenging, but it takes a lot of circling to eventually figure out what the center of mass is of this point that I'm trying to make, which is what I'm eventually doing right now, even kind of in a meta way.
+So, yeah, so we have to figure this part out and whenever that is found, put it up as that maxim that can be carried out, because most of the information that I can study, if it can be art of war or something like that, all of those things,
+so whenever it comes in a form of like kind of atomic takeaways, for the lack of a better term, that seems to stick around, not only for me, but in general, stick around more than a whole entire novel that probably is trying to make one point.
+It's probably more interesting to read, but it can get interpreted and misinterpreted, and there are examples of that, like entire third rake was, in a sense, a misinterpretation of Ubermensch in some hot ways.
+But anyways, the point I'm trying to make is that if you can build right good maxims, in a sense, like very thorough maxims, the number of people moved by it and number of people being aligned, tuned to align this correct direction, probably gets higher.
+What do you think about that? Or do you think it's necessary to have the whole volume of discussion together with it?
+I think it kind of leads on to at least two main themes, and I think maxim is one thing I would put a bookmark on for this discussion, because it's kind of one of those inflection points.
+So let's first tackle the first fork. So we said that one of the things we are also trying to do is figure out what is worth doing.
+So if I take that direction, like the worthness of something, what adds worth, but let's examine it through the question that what merits archival, like if we look at rephrasing it as what is worth archiving.
+And that is a problem statement that library sciences has been dealing with since the evolution of libraries.
+And this is not the same as like where this is different from what clothes do I don't throw away in the sense that at the core of archival is retrieval.
+Which needs you to index things in a certain way, which means archiving indexing has existed, but information access or let's say unnecessary data or junk data, whichever way you want to put it, is something that has always existed at different scales.
+The system exhibits different behavior, but if you were to follow the question that what should be archived, that question almost always seems to be a trade-off between how much can you remember or with what accuracy can you remember?
+Which is where kind of how prophecies, maxims and things like this have existed. Again, prone to interpretation, even if there was a maxim and here by maxim, I mean, let's talk of like one of the things I like to bring in is physics and most of these discussions that just puts at least for me things in perspective.
+The maxims are like natural laws, you don't create them, you discover them.
+But which also begs the question that when is it that you can create a natural law? What kind of control would you need on that universe? The very simple layman term is God.
+But again, what philosophy does is really dissect that concept, right? So if we just approach it like ignore the religious connotation part of it, but just come back to it from the perspective that if natural laws are sacrosanct in the sense that they will always exist, you just merely discover them at some point and after that they become your maxims.
+So in the same way, then there has to be a journey, there has to be a process or like, well, voyages in like in order to do that discovery.
+So then where does that take us from, let's say, producing enormous amounts of information today, while also being an amnesiac, increasingly amnesiac society where things are more easily lost than they are produced.
+So collectively, we might be storing a lot of information at this point we're producing. Well, I don't like to use the word gigantic because they are relative.
+If the internet spreads across like imagine Starfleet scale, even like the early Starfleet, James T. Kirk, just imagine the amount of data being produced. So what adjective would you then get to? So I'd like to reserve the gigantic things for when things are truly beyond comprehension.
+But in any case, the case at point is that we have an acute balance to maintain when it comes to archival, that we have to let go of some things and we have to choose to remember certain things, which is what makes it easy to rewrite history by changing your interpretation to suit your current day things.
+But imagine if history was a mathematically verifiable proof, which it is not today. And again, before historians throw daggers at me, I'm not saying that there is a technology solution to everything.
+But if, if history was a mathematically verifiable proof for which you did not need to see the event to happen, like event happening for you to know that it's a proven thing, then we kind of reach the state where you don't necessarily need to store all of history, right?
+You don't need to remember all of history.
+And I'll open the field there.
+Yeah, yeah, you poke me in a particular point, where if you look at the world event, I'm talking about history from a physics perspective, the interaction between bodies.
+Yes, right. If you look at it, and if you can look at any frame of a certain event, not only you can predict where it is coming from, it can you can also predict where it is going.
+And that's the premise of psychohistory, Harry Seldin in Foundation.
+Yeah, so which kind of points towards that if you actually knew world history of at any point in time to a certain level of detail, you can predict the going forward part and going backward.
+I'm talking about an ideal situation, not necessarily a humanly comprehensible model, at least humans of 2023.
+But the point is, that is actually possible, in a sense, mathematically that is kind of possible.
+The part where we come short here, which is again one of like quantum computing breaking cryptography, the way traditional computing said that this cryptography cannot be broken, so 256 bit is good enough for it.
+And there comes quantum computing that says 256 bit doesn't matter. Yeah, I don't give a shit about this.
+So point is, it breaks the assumption, ground level assumption.
+If we are talking about why are these new language models and new basically the all the entire generative AI is doing so well is because the amount of memory that is we can allocate to do some certain things is humongous.
+The point we can extrapolate each pixel to 1536 dimensions, which is which was not something that is the which is not something that humanly possible consciously at least apart unless you are some kind of savant on that particular thing, or it was not possible with any traditional hardware.
+So things that we thought are impossible are being very possible right now.
+Similarly, the exact quantified history about knowing a certain event and then being able to predict the past and the future of it, it is going to be possible very, very much possible.
+It already kind of is if you think about weather prediction, how that works, it already is in effect.
+We are just not using it for that particular situation or purpose.
+But I don't see any reason why if we follow along the journey that we are already headed in the exponential growth of compute, I don't see why that cannot be true.
+So I kind of got poked in that particular rib.
+So that's why I kind of like expanded on that.
+But I think you had more points to be made there in case I like cut you off.
+Please go ahead.
+No, no, this is this is in that direction only because see what I was trying to say is
+that there are certain questions around remembrance around like public memory or let's say collective human memory.
+And one of the things I have written time and again is that collective human memory spontaneous.
+And it doesn't mean it is it doesn't exist.
+It also means that it is that sporadic.
+And that's again that's the nature of things.
+If you break it down, you would eventually find a chaotic system at work with again entropy going towards like tending towards high over time.
+So if you again break down everything fundamental enough.
+So then if you then think of why I brought up what is where I'm trying to get my punchline together.
+So what merits archival?
+The decision is kind of based on what preserves the lower entropy state.
+It's a constant grappling of a higher entropy entity or a higher entropy state to remember a lower entropy state.
+And which is your essentially if you then look at entropy as that metaphorical river, you are going upstream, which is remembering the past gets exponentially difficult.
+It's not a linear trajectory.
+And that is simply if you again.
+Yeah, good.
+I think probably that points towards the intent of it.
+Yes.
+And I was just going to say that there are certain things like on the same point, certain things that are possible now, which would you would want to then look at the same questions in a different way.
+Sorry.
+Can you hear me?
+Yes, I can hear you.
+What happened?
+No, it's my headset just keeps on disconnecting from time to time.
+Okay.
+Am I audible?
+I might be a little bit low on this audio scale.
+So sorry about that.
+I'm just now I was trying to figure out if I'm hearing you from the external speaker on headphones.
+Yes.
+So no matter how much you improve technologies, certain things never change like this.
+There are different, different variants and you can keep on going throughout the ages.
+Oh, I did not see your fire sign across the hill last night.
+I'm so sorry.
+Can you see my fire sign?
+I mean, just the point.
+Yeah.
+Sorry.
+Yeah.
+Little detour.
+You remember the penguins of Madagascar that movie where?
+Yeah, yeah.
+Dave and he is trying to.
+Dave?
+Yeah.
+Dave.
+Anyways, anyways.
+Same thing like that.
+That seemed that hit kind of like in a particular court for everybody who ever has been into meetings of this kind.
+And you saw somebody where this hoodie encoded last day, which wrote you were on mute.
+Okay.
+Popular culture catching up.
+So anyway, that is one of the afterburner effects of how probably the two of us here look at what is worth doing.
+Turns out to be a very misanthropic concept at its outset, but probably, well, not as much misanthropic.
+It's selectively anthropic, let's call it.
+Yeah, I have a question there on that.
+What is anthropic?
+Hmm.
+I try to dissect Latin a bit.
+And my knowledge of, again, the misanthropy is vague at this point.
+I'd rather not comment at this thing.
+Let's just look at it as the.
+What is it when the compatibility that it's a misanthropy is a non compatible component in a society of humans.
+Oh, no.
+Somebody.
+So you're already assuming you're already assuming.
+Yeah.
+Anthropic system beforehand.
+And you're trying to.
+Yes.
+No, that was.
+Yeah.
+My question was.
+I was just trying to show the loop.
+Okay.
+But yeah.
+So the question, if you try and understanding what is humanity, what is anthropic, the more you try to see, look into that, the more it turns out to be.
+What ever, what are the traits we term as humanitarian are exactly the opposite of what actually pushed us to become the humans, the dominant species.
+That the last straw of that is human versus Neanderthals.
+The last straw.
+The last provable bit is that Neanderthals, they weren't like they had the exact and like similar kind of social bonding, the empathy and like caring for others.
+All the other all the traits that we say these are the good like working with as teams, etc, etc.
+All those things that we talk about as these are the good traits to have.
+And if you say that that's what made us humans.
+No, they also had that.
+What did they not have is that Machiavellianism for a lack of a better umbrella term.
+But you mean the prince, like not having an organized direction to channel the collective energy.
+In a sense that basically attacking the enemy at night, knowing that they already don't want to fight at night.
+It is not moral or it is not acceptable, ethical to fight at night and knowing that using that as an information to fight at night.
+What did you call that?
+So that those are the kind of things that made humans humans.
+Like I'm probably just showing the tip of the iceberg.
+You can keep on going down that rabbit hole and keep on trying to find out more and more personality or psychological traits that are absolutely heinous.
+And that still lingers on, by the way.
+But those are the ones kind of gave us the edge over the other ones who had not much differently.
+Even if you go down from hominid to the pan, basically the chimpanzees and gorillas, they also have the social structure in the same way.
+They also show that their child dies. They show the same kind of sympathy.
+But what about anthropic humanity that makes us human?
+If you keep asking that question, it kind of gives us a very dark answer.
+Exactly the things that we grow up learning as the traits to have as humans are not the ones that made us if we actually stuck to only those ones.
+I'm not saying that those are not important, but I'm saying that only pure silicon does not create a good microchip.
+You need the doping in order to create that semiconductor that actually can be turned on or off.
+That doping, that dopant part is the one that is not really the light part is the dark part.
+So the moment you talk about that, a kind of like it might sound misanthropic.
+Most of the utilitarian or things that generate result drive result are misanthropic.
+If you psychoanalyze most of the CEOs of Fortune 500, you're not going to find the answers that you would like that these are the best human beings that driving the society or culture or at least from a textbook perspective.
+You have studied this. You can talk more about that part. What do you think from that perspective?
+I think that's an eventuality of any species that does not have a self sufficient energy system.
+And because as you as you break that question down and you're going to first encounter the stage of ethics very soon,
+because this is fundamentally an ethical question with a political philosophy very strongly ingrained in it.
+Because a lot of these thought systems have also evolved in order to just look back and identify what the hell had happened there.
+And in the process, like what what was it that happened and then building those systems to come up to a point that we could explain all of this.
+And then, you know, as happens with intelligent brains that once you are looking at it for too long, you start seeing variations in it.
+And well, that is how pretty much all branches of philosophy evolve.
+You cannot have a well informed argument in philosophy if you have not looked at that thing long enough for you to see the details in it.
+So for from that perspective, when you start breaking down the concept of humanity at the core of it would be the conquest for resources to survive.
+One survive, then thrive, one thrive, then conquer, one conquer, then build, one build, then colonize and so on and so on.
+Or maybe even in the in some loops thereafter.
+But then the thing then what we cannot change here, unless we are a self reliant, like we have a self-sufficient energy system.
+When I say energy system, just imagine the combination of an unlimited uterium supply and unlimited replicators in the Star Trek context.
+If you have those two technologies or those two resources available in vast quantities that can change any society in any direction.
+At that point, direction is a matter of the forces immediately pushing it till the resources expire.
+Now imagine in a universe where you cannot destroy replicators and dilithium resources.
+Just imagine a game world like they are non-destructible resources.
+You can go bang against them, nothing will happen.
+So eventually the entities in that world will learn to live with the fact that they can build anything at any point and with unlimited energy.
+And suddenly the craze for resources do not exist anymore.
+And we have reached that platonic ideal state of sorts where you don't need to have that lust for hunger.
+And you can then focus on something that is a higher principle.
+The disconnect between all, let's say the key drivers of human driven change, let's say.
+And I mean the people ultimately responsible for whatever actions humans are performing at mass scales.
+Those people usually portray this imagery that they are already at that stage where they have a self-reliant system
+and that they are just doing everything for the greater good.
+All I'm saying is that is necessary. It will eventually be part of the system.
+But for now, the thing that we need to remember is that we are operating under limited resource in a world where we are not energy self-sufficient.
+That is, we need to extract energy from other places.
+With that in context, then the question of ethics shifts from is doing that good or bad to how can you do that better?
+That we are today extracting a massive amount of meat from animals.
+So you can use the same tool now to dissect any concept and go into that debate.
+But what I'm trying to say is I think the question that is that good or bad, like is progress good or bad, eventually is a polarizing question.
+And it's polarizing because, well, too much progress and not enough progress have only one meaning at the scale of the universe.
+And that is maximum entropy saturation and no entropy at the beginning of the universe.
+Between that, between if you need to, I mean, if let's say we for the sake of the discussion that we must make it bipolar,
+let's make sure the poles are that far apart and be humble in approaching what we are approaching in that space.
+So then anthropomorphic or anthropogenic concepts become, that is what I was trying to say, they become a limiter.
+And you can again go into the argument for good or bad reasons, in which case see the last 10 minutes of this talk.
+But what I'm trying to say is that we can instead look at the fact that there are certain things we cannot avoid.
+Like I cannot keep my cat from having a good time outside just because another cat outside is terrorizing this cat.
+If I keep the cat indoors, I will keep it the safest, no doubt.
+And if you want to make that into a question of morality, then is that the right use of those few CPU cycles?
+That is a question of morality.
+Yeah, I know. So I get where you're coming from. I kind of have follow ups. Sorry, I might be too not loud, essentially.
+What is opposite of loud? Anyways, I can hear you clear.
+So the world of abundance, energy self-sufficiency, I'm not using that term because I'm just using a more generic way that makes sense to me.
+So just to be clear here, when I said energy self-sufficiency, I meant in the true sense of us having a cyclical energy economy.
+You're technically correct, but I'm saying world of abundance because before we reach that energy self-sufficiency,
+the reason it's tail chasing perpetual is because you can keep on going.
+The more amount of energy you chase, the more amount of energy you need to chase that, it kind of gets to a point like how many Kardashev skills do you want to go?
+So that's the reason I'm not using that. I'm just using a more generic term.
+Let me just interject here once. What I was trying to really make the point is that these are important questions, but these are not urgent ones.
+These are questions that we need to consider when we are at that stage without which we will constantly be in this phase.
+And there are more immediate concerns and there are more immediate possibilities that we would get to.
+And just to sum that up, one of the areas that I was talking of or trying to get to is that when we are looking at morality,
+or let's say, should I do some like that archival context, right?
+One of the things that we can do with a lot of the systems that we have right now is again following Floridi's description that we run more simulations.
+That one of the things if you, so this is where I want to tie that to the maxim, but that I am not against maxims.
+I understand the value of maxims. I am terribly skeptical of when maxims are set in stone.
+I am very much fond of maxims that are the output of an elaborate computation which gives me a certain predicted result.
+And similarly, if the input conditions change, the output might change, but the output will still be provable based on the input conditions that I have received.
+So if those are the maxims, the issue we have with the maxims of till date technology is that maxims had to be written in stone
+because they had to convey the largest possible information and they were open to understand, open to interpretations.
+Now, what if you don't just save the maxim? You save the version control history, for example, that led to the creation of the maxim
+so that lawyers of future date, when they use this maxim as a founding principle, they can also analyze the maxim if they need to.
+And that's just one aspect that what we have gained is the ability to simulate a lot of this, store a lot of the state to make it replayable,
+which brings back to that verifiable history as an archival thing.
+I agree on that part. The part that I am seeing that more can be added here is that when you are saying that, OK, which part do we need to decide to keep?
+I'm seeing the pattern that we actually don't need to because we don't know which part actually we end up being important.
+Yeah, but what we can do, so then we don't need to, it does not mean that the system is that black ship of in the restaurant at the end of the universe.
+The restaurant at the end of the universe, where it is just one voice command control and I'm not talking of that.
+I'm talking of intervention under the right layers, which is kind of let the mass scale system, the mass data processor do its work
+because it's already been trained or you can let's say tweak the parameters, whatever, but let it do its work, step back, but have the capability of chiming in.
+For example, keywords, for example, just the ability to indicate that, OK, go back and switch from here, but which are all in essence better retrieval.
+Yeah, so think about it in this way. The way mummies are kept, they were not creating that as a time capsule so that the latter point in time people can dig them up
+and learn more about their history, which kind of oils were being used, what is the isotope and all. They didn't know that they didn't have to find that out.
+They didn't know that, OK, the fingerprints that they leave are going to be uniquely identified that how many people actually worked on this particular month, those kind of things.
+I have a very interesting what I had once written on this. Let me just see if it fits here that one of the answers to what is worth archiving.
+I mean, I had asked you a question I had, of course, thought through a bit is that a very different thing that I want to live in a situation like let's imagine a hypothetical society
+where as we live our daily lives, libraries form, as generations pass, museums form, as more people want to play parks form and as more people just want to stay quiet, things don't change.
+Yeah, and so that is kind of. Yeah, that's profound. That is one of the maxims in a way. If you can just pack it together in a good package, that is the maximum.
+I understand that you don't have to explain, right? No, I'm just explaining for the sake of the technicality.
+This is what I mean when I say that the answer to what should be archived should not be a specific answer, which is if you're writing software, do not give me specific if then else, please use functional programming.
+Please think of data transformations, data flowing through a system and write functions to transform at those intersections rather than dealing with discrete data.
+And similarly, when we're talking philosophy, we very quickly go from a more abstract concept to a discrete concept and still think it is abstract, which is where the fallacy is creeping.
+Those are the places where I get concerned if I am not caught, like that's when I would expect somebody like you to hold my feet to the fire, essentially.
+If I ever fall to those, I don't don't try to jump around the as in dance around the topic.
+If ever I am making any kind of like a fallacy.
+The only time I dance around the topic is if there is a force field around it that I can't get through to it.
+Or let's say even better, a bonfire in the center of it, a force field around it, and I am really in a good mood to run around the fire.
+Maybe there's also a good music.
+Yes, in which case, maybe that's the topic. But let's say it's like some sort of it.
+Yeah, so the what I was trying to say, I forgot. Okay, so the intent part of it, so some part of it.
+So the reason when I asked, right, I also kind of thought about that part.
+When I say that what is worth doing after deciding what is good to do, the intent eventually pushes itself in like nature, pretty much in all of this discussion is in like deciding who is who is deciding what to do.
+There will basically forming the next part of the fabric, essentially the pattern in the fabric of reality, if they choose to go forward and pursue that essentially.
+So at the center of it, there is nobody telling you that you need to do this. It's you deciding to tell yourself that I need to do this.
+Unless your managers put it on the sprint roadmap without consulting you.
+I mean, I get the joke, but my counter joke, which will not sound as a joke is that you have to be able to drop the manager.
+Before you drop the manager, can you assume to be the manager?
+No, no. If you kill the god, you now have the responsibility to be the god. I'm coming from that perspective, but I know that.
+Fair, fair, fair. Again, what we were just about to take what two different moralistic stances and based on the initial variable, like that very input into that function, the output would have been different.
+And these are the places where I said that when your discussion comes full circle and you see a fork in the road back again, but it looks like one lane you have already come through.
+That's when it's time to mark that put a direction that this was already covered. Now we go here so that you can go in that direction.
+And how do we mark this one?
+Well, let's market with.
+I don't know. I'm very curious to see what the system does. I don't want to give too many inputs at this point.
+I just want to see what comes out because it's like, you know, you've bought a stock car before you write it and understand don't tune it.
+Because you won't know what exactly changed as a result of the tuning. So like this is my first time.
+So recently I come like I came across that would be the right time.
+So a particular situation where this is this made a whole lot more sense.
+So the GRR Tolkien's interpretation of where he was coming at, like the moralistic, his moral standpoint, why he was against Sauron or technological development, in a sense, which Sauron embodied.
+The issue with any Tolkien modalities, it can be dethroned in one shot, but yeah, take it in the context of what you're saying.
+But yeah, so what Sauron represented is that knowing that Eru Il-Hutur exists, he kind of like, no, I am going to replace you with myself in a sense.
+Like I'm talking about the new I have I don't know whether you have watched it, the Prime series, the Rings of Power.
+I don't think you have watched.
+I don't know if I have not. If I started then I started then it had some place where yeah.
+Yeah, you probably wouldn't like it as somebody who has invested interest into the cohesiveness of the world that you have already known.
+And though from the light from the perspective from which light you have seen it, it would seem like a kind of desecration in a sense.
+Like somebody is one screaming before you continue.
+One thing to note about how I potentially look at a lot of the rings is it's an revisionist history of a massive, massive peasant uprising that kingdoms were forced to unite and bring down.
+And when you put that lens, then everything else makes that much more sense.
+Then why Aragon is being this douchebag Aragon makes more sense.
+And why why like repair this one blade over the cost of this fucking get a new one made man might even get you better technology nowadays.
+But no, the emblem was more important than the weapon itself.
+Where things that just make it.
+I'm just saying that, of course, I have read it and I understand it as Tolkien intended.
+But I also see it as a potentially in looking at our current times that it kind of fits almost as if it's a revisionist history that there was some other history which we if we dig deeper in some lost scrolls like the charwaks will find something else existed.
+When you when you say that it's a revisionist history, it tells me everything that I need to know about your standpoint on that.
+I don't need more explanation than this, honestly, because I don't know what is relevant for archival.
+No, so I'm also marking my own bookmarks for future retrieval.
+Right. So knowing that the way I've seen most of the Tolkien fans discuss this or come come at it from no, no, no.
+You are basically this is sacri, what do you call it?
+Sacrimonious for the most people they think the most feminist moment in Lord of the Rings was you opening her helmet and saying I'm not a man.
+Yay for feminism. That's like their the peak of their understanding.
+So yeah, so so that's sanctimonious position.
+If you hold it, then it would hurt you.
+But if you can open your mind like, OK, this is a world that can have multiple different interpretation in different people's eyes.
+How can you say this in this world?
+Galadriel is not so much so different than the enemy that she is trying to kill.
+And it is very clearly shown.
+Yeah, and eventually she discovers that she is pretty much word for word the same entity.
+And if she does win, like you can take sides, you can pick sides.
+But if and the person that Sauron is trying to like rage against, like fight against or like replace cannot like basically in the story's frame, you cannot.
+The person who created the universe, but trying to the directionality is on the same way.
+Like I will enforce my will onto this world. Innocence.
+End of the day, when I replace you, I will rewrite the history the way I see it fit.
+And people will know you were the bad guy. I am the good guy.
+So whatever is shy clue in the before is the Satan after essentially innocence.
+So if you see it, see that from that perspective, you also see that Galadriel is effectively the same person, not so much different from Sauron.
+And if she ends up winning, she will not do something that's different than her.
+She's likely to dismantle the patriarchal power structures that exist in the world.
+If that is what you want, that is your intent to preserve that history.
+And you are more into no, I am more into I am into this patriarchal structure or I don't care about that.
+I just care about their technology and how much they are building, et cetera, et cetera.
+And you choose to be on the side of Sauron. That is also an option. You can do that.
+And end of the day, whoever ends up winning will end up writing that history turns out in this particular story, Sauron ends up losing.
+So his people are uglier and shorter and speak a language that the book is not written in innocence.
+It's a dark language. He ends up winning.
+That is the language of the book. And the other language is the dark language.
+The point I was trying to make is that all those discussion about morality, it kind of comes down to that.
+What is the person who is observing the person who is narrating and the person who is intending to preserve the part of the history, which side they want to take effectively comes down boils down to that.
+So at the end of the day, you kind of have to take that.
+I want to preserve this part of the history. I want to make this part this kind of changes, this change in entropy.
+Oh, I have another example on this. So entropy and hold on to that.
+And if you can end up executing it, now the world has that scratch mark, that entropy imprinted on its reality.
+Think about how do you create a stone statue?
+Think about the entropy of a stone statue.
+We say that entropy is something that is basically disintegrating and taking a low energy state.
+No, but that is the misconception of understanding of entropy. Entropy is not disintegrating.
+How would you define because for a statue, somehow some sense had to come together or you're muted.
+You are muted.
+I am not on mute anymore, but there is a lag.
+OK, sorry, go ahead.
+Yeah, so I was saying just pointing out the fact that it's not entropy that is decreasing.
+It's the action like the entropy as the agent of change, because entropy is growing in that sense.
+So just because in colloquial language, we kind of keep on doing this switch.
+We cannot. So the point I'm trying to make is that you can't and this is not the known.
+So this is you can call it original research or only the original thesis or something like that.
+This is not science does not approve of this yet.
+This is not peer reviewed.
+But I'm positing this is that you can't say which one is the direction of entropy by being inside of a system unless.
+So for the designer, the entropy would always seem to go towards the end state that is more organized.
+But for the players inside the system, it will always seem to go towards a more disorganized, even if the events are exactly the same.
+Well, you can prove the statement with simple linear algebra.
+I mean, I'm just saying that this is one of those very axiomatic statements because you need to be able to let's see, even if it's a matrix,
+you need to be able to write the matrix in a way that you have at least one more dimension for you to compute the values of that dimension.
+So you cannot by any chance know what is going to come out of a system unless you have access to a higher dimensionality from which to observe and compute the current dimensionality,
+which also makes the capability of dimensionality increase and computing as unidirectional.
+You can only observe higher from higher dimension or lower dimension cannot do the other way around.
+So these are in the same sense, the established laws in physics, which again apply right here.
+Yeah, this is one of the topics I just reminded me that we are probably looking back in that we need a higher dimensional to in order to comprehend the lower dimension.
+This is the deja vu point. OK, so that part we understand now.
+So with that framework in mind, think about the person.
+If I'm a sculptor, for me, it's a block of stone.
+I am chipping the stone away.
+That is not the statue.
+And what remains is the statue and a lot of broken stone chips everywhere else.
+If you are somebody who doesn't, it's basically a fish that doesn't understand the concept of statue.
+Looking at this entire event, sees that there was this big stone and now there's a lot of chips and one big chip.
+This is how entropy, this is the direction of the entropy.
+It is basically disintegrating. It is for breaking down. It is like basically flattening everything.
+That is where it is seen. It doesn't see the intent was to make a statue.
+Is it that statue?
+If that is the case, that stone that is crumbling around, that is basically a byproduct.
+Either you dust it away or you basically move on from there, take the statue with you.
+You don't care about that part.
+If you are the designer, it came to life.
+You actually reduced entropy in a sense.
+End of the day your end result was supposed to be the statue and now that is.
+Whereas what started with this journey with the stone started with a lot of silica dust.
+Eventually probably formed under some ocean basement millions of years back.
+And then gradually got pushed out.
+So if you think of that whole thing as a time lapse, what happened?
+A lot of random particles came together, formed something and then became a statue.
+And a couple of them stayed there.
+Does it not look like a completely opposite of what we say that things cannot happen?
+Entropy doesn't work that way.
+Things don't come together in a shape. They just fall out of that shape.
+So you can completely show that that is actually possible.
+That's something that you can do.
+Now that is only the case when the creator or designer, somebody with an intent is enforcing that.
+That's only the time when seems to be entropy is actually going backwards.
+But for the players, for the NPCs, it will always seem to go to a higher entropy state.
+Even though the events are exactly the same.
+Yep. So I mean, entropy is like the ultimate Borg.
+The intentions are irrelevant. You will be assimilated.
+Yeah. So the reason for me to bring this one out is kind of to put a pin on that entire discussion about.
+So we probably are not done with the discussion, but probably still to put a pin on what is worth salvaging or like storing or basically collecting or documenting and keeping for a long term storage.
+There's a lot of it is basically intent towards something.
+And the ability. So then basically to touch along with that is a tamper proof history.
+As a way of ensuring lesser degradation of the knowledge over time.
+If you and then again, tamper proof history will also, of course, be it will only be from a certain point in time forwards till you have higher dimensionality.
+Right. But just to wrap up. So the tamper proof history is important in the sense that you're not storing all of the information.
+The tamper proof like it's basically zero knowledge proofs.
+It's smart contracts equivalent of things that you are storing, not just the maxims, not just the learnings or the archives or the intent.
+In this case, if you want to guarantee that it won't be tampered with so high guarantee versus a loose guarantee, the high guarantee should also have mechanism for you to reproduce that final state like a theorem.
+So to say, then what you archive, what is worth archiving, primary answer would be the intent.
+Because it's only when you apply intent frame on frame on frame, intent action, intent action, intent action.
+If you believe in that homogeneous causality, that is, if you want to implement a homogeneous causality, then let's just say in kit terms.
+Continuous. Yeah, a continuous, but unidirectional causality of equal intervals like intent precedes an action.
+So the in this case is simply going to be a high guarantee.
+If you are storing only the intent, sorry, low guarantee for storing only the intent, a high guarantee if you're storing the intent along with the replay mechanism.
+But just because when we say low loose guarantee does not mean falsification.
+Lose guarantee is simply saying that you will have to take this as face value because you don't have any way to reproduce this to know for yourself.
+But it has not been changed.
+OK, that is a good as in a baseline.
+I have two things to add there like nothing to like it's not doesn't exclude from what you already said.
+I want to add that perspective, adding more perspective to existing data.
+So basically multiple accounts to the same story to avoid that.
+What is the term that you used for what history?
+For a lot of the things.
+Temper proof revisionist revisionist.
+So to avoid one single narrative to through some certain filter instead of that coming to become like being treated as a history, let all the different filters play their role and record all of those.
+Don't be the judge and judge decide which one is more relevant, which one is actually correct.
+So think of it in this way, then your view of history is just a query on that database on the database of history or whatever part of history you have access to.
+Yes, because there can be many databases which can choose to communicate or not.
+So at any point you only have a limited view of something.
+I mean, the best way I can explain it is by Dota.
+Your map has begun to explode only certain events.
+Don't be have the audacity to ask for what is there in the dark.
+Go find it.
+Yeah, yeah, exactly.
+So if that is the case, if then, I mean, a lot of the solved problems we are just basically philosophizing game design to a point that why are games designed the way they are designed?
+There's a very good reason for me to do that.
+And I will come to that after some point.
+But yes, you are correct.
+I know, I know.
+I'm just again connecting in let's say for the sake of viewers or for us as the future viewer that a lot of what is happening has very strong analogies to the concerns faced by game design and have been answered in different ways.
+So basically the philosophy for our times.
+One is possibly the information like the impact of AI, which are again very large scale endeavors.
+But if you really want to geek out on something more tangible, try to philosophize software or like systems design tradeoffs, the architecture, why something is built, how it is built and why, why, why are games entirely different?
+Which are also applications themselves of application development such that we distinguish in our software industry as a game developer and an application developer, a JavaScript developer and a game developer.
+What's going on there?
+What and what I'm saying is that the things that we are touching has foundations in some of those things for you, extensive experience with Dota for me, certain other things.
+But you see that some of these also have answers to very complex certain complexities of our daily life.
+And I'll just at this point just leave two nuggets, which may be pick up at a later point.
+One of them is the entity component system architecture.
+What it does, why it does.
+Can you write it down in the chats?
+Yeah.
+Come back to it, essentially.
+I don't want to.
+Sorry.
+Oh, okay.
+I couldn't hear it properly.
+Yes, I figured.
+What we don't mention here is, of course, why it is used.
+But ECS is one of those architectural patterns that I find very close to my heart.
+Because it tries to, I mean, it is a sort of, in that sense, superset or an application of functional programming concepts in the way that it is encapsulating the concept of components.
+But it's kind of a worldview, which is very similar to how I kind of think of the word, like as something that is a state transformer.
+A massive state transformer with very intricate rules all the way down to the smallest levels.
+But then entities are independent.
+But I would just like to use the same things that we're doing to analyze entity component system as a case study.
+And see what are the trade-offs that it makes, which, again, you cannot get with an object-oriented thing.
+We can, of course, compare, particularly with a waste of time.
+And the other aspect that kind of ties this through a lot of this is the edge that, again, like I said in the beginning, why does our existing current AI system, so let's say generative AI or whichever form,
+I'm just saying status quo and whatever research is in progress at this point, the totality of that, that they seem to be facing certain questions that have been answered again and again.
+And there are some very smart people who are also thinking along those lines.
+And then I want to move the discussion beyond just, oh, like, let's say ethics of AI in a generic sense, or should we do this, should we do that, to what are the things that we could not do earlier and hence had not considered at all.
+And like, and we are able to do that.
+So I kind of lost the thread there.
+But yeah, I always think that, yes, when this ties together with the deeply political aspects of our thought and are probably how some of our technology choices are being your mind.
+Tends to be and again from theoretical perspective that tends to be anarchist in nature.
+And again, not the bomb throwing anarchist, but the theoretical anarchist principle.
+So I intend to delve deeper into this.
+I've been reading up a bit to connect the dots here.
+And at the same time, it exhibits very strong nihilistic tendencies.
+And why does it do that?
+Because a lot of the questions we are asking around archival have also come from the fact that we have lost enough information in our life.
+It's not coming from an ideological stance alone.
+It's an ideological stance informed by the losses we have already experienced, which we have not been able to recover, some way or the other.
+So there's like personal skin in the game.
+But a lot of these concepts would then look at that one key perspective.
+So you mentioned some of the things and thanks for like kind of reeling the whole thing together.
+I know that there are lots of topics that we could go through today itself.
+But I think it's better that we take the small bite chew over and then come keep coming back and do more of that.
+Sustaining that high is probably more important than like getting in, being too excited and then burning out.
+So I think it is better to keep those things out for the future.
+Couple of things, couple of topics that like one part is that the nihilism, like what kind of energy we are talking about here, establishing those things, going around that part.
+So I can just add one point here.
+The idea of the philosophical analysis of some of these seemingly political principles is that they make for very good taste suits for any system that you build,
+which means I am now talking of that we need to build software systems where our software testers are philosophers
+so that they can actually know what is the right thing to test the system against.
+What are my automated tests supposed to guarantee?
+And I want to approach these from the testability of a software perspective as well.
+In fact, I would argue that's probably where the world is headed.
+It's not that that's that should happen.
+It probably would become very like I think it will just become purely out of several of the fittest in a couple of.
+I don't really know.
+I'm very bad at breaking the years.
+But in two years time, I'm I'm fairly certain that people who have better understanding of epistemic,
+how to understand the framework itself more than the execution of like basically story point driven output,
+they're going to start winning out a massive amount to the point that it will become obvious to everybody else that that aspect is way more important.
+Actual execution of getting the things done can pretty much be delegated to a declarative statement
+and then waiting for the model to execute that and come back to you.
+Deciding what is how to tackle that problem, what the declarative statement is, what is worth doing,
+that part, understanding of epistemic of that part, building the test system where that can be validated or not validated.
+Those are the parts that are going to start mattering way, way more.
+And yeah, one of the things that I have seen and I also want to discuss about that is that how was the utilitarian and deontological standpoint
+and how does that relate to I don't know whether there's an actual background to that,
+but how does that relate to a declarative versus procedural, not procedural, imperative essentially.
+I completely forgot. At one point I had told you there are two forks and I went down one fork and I continued.
+The other fork was supposed to be this declarative versus this discussion as basically the flow-based programming
+or that's where it came to entity component system as other software paradigms,
+which if you look at J.J. Palem's papers on flow-based programming between the 60s,
+they read like science fiction because the computing systems of the days could not even control what were happening.
+But then if you look at it, that's a system which lets you have logic interposed at places where data is being transformed,
+which again means that you are then designing a system.
+So again, if you go to episteme, I found it extremely straightforward when I first read flow-based programming.
+I got so excited I showed it to three colleagues and they found it absolutely archaic and useless.
+Then I showed it to a few others and some of them again had this instant click.
+And that is when I went back to the question that what is the difference here
+and the difference turned out to be the knowledge of how knowledge forms.
+So we are talking about the same thing, we are coming to the same conclusion,
+but we kind of came to the exact same understanding from two different angles.
+Yes, and that's the whole point to show that that's the intersection.
+That would be actually, I think that actually requires way more reflection.
+I don't think we should go into that one.
+This is just a summary.
+But this is one of the topics that we should probably cover.
+The immediate next one probably, we should probably go into this one.
+Yeah, I think so.
+This is going to be interesting.
+And if you want to scope it down, then we can compare the architectural analysis,
+like I said, of the ECS on those principles.
+There are some of the things that I have some thoughts that I would like to bounce for.
+But the other place where I have reasonably thought through for a while is the software testing angle.
+So I actually want to tackle the question that what does it mean for software testers
+with the current kind of systems that are coming in,
+which again, just if you might want to note, the part I want to focus on is the definition of testers.
+That was the question I was going to ask.
+Does it have to be software tester?
+It pretty much seems like any kind of system evaluator would want to.
+Yes.
+So the software testing was just to intentionally scope it down.
+But eventually the question was testability.
+The ability to test a system being a more important skill
+than the ability to either build or operate that system.
+In fact, the second part is basically an extension of being able to,
+like having the intent, which basically being able to do the declarative,
+whichever method mechanism you use, being able to declaratively convey the intent
+and then testing out whether that intent was carried out or not.
+Those two are the only things basically that is at the crux of everything,
+like any kind of compute mechanism.
+And everything else comes down to the, what is the right term for it?
+Basically to serve these two things.
+Yes. And we should ensure, we must ensure that interfaces
+and every other ways of interaction with technologies here on keep these principles in mind.
+And again, I'm talking beyond software.
+Yeah. In fact, I want that to be beyond software
+because it's absolutely fine to use software as the proving ground where we...
+Simulations.
+Yeah. But then it needs to transcend that part.
+And I'm pretty sure I'm more than certain that it actually has a bigger ground to play
+if we can actually turn it into a model that is cohesive enough.
+Cool. Fantastic.
+So I am not available next week and probably the week after.
+I'm traveling, so we have a work meetup.
+So I'll come back and let's catch up then. I'll keep you posted.
+Sure.
+That was the most depressed you are ever.
+Yeah.
+That's fine. That's fine.
+I probably can try to, but I don't think that would be fair to do.
+It's not fair to do also because now I have a different time availability factor.
+So I was like, why don't you do it twice a week?
+I think that is absolutely a possibility. But once I come back.
+This is one of the things that I plan.
+So since 2018, I haven't actually taken a break with my family.
+My first break since 2018. Oh my God, I got to go rest.
+Yeah. So basically I haven't really taken a break with my family.
+And it was not possible because the kid was too small.
+Now she is just about old enough to know the address and the parent's name
+in case she kind of goes missing.
+I kind of think in terms of worst case scenarios.
+So that's probably the best way to put it.
+But the point is now it's time we can actually go somewhere.
+So basically this was a long time coming.
+So I don't want to take something away from them.
+So this two weeks is going to be a bit hectic.
+But after that, when I come back, I'm more than open to like explore this
+with intensity essentially. Right. Let's go.
+All right. Thanks a lot.
+I'm going to end the stream for anybody watching the stream.
+And then.

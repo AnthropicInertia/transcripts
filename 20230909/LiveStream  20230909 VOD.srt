@@ -1,0 +1,4312 @@
+1
+00:00:00,000 --> 00:00:08,000
+I'm trying to go live.
+
+2
+00:00:08,000 --> 00:00:16,000
+Before you go, do you have any specific topic in mind?
+
+3
+00:00:38,000 --> 00:00:46,000
+I'll leave the OBS behind.
+
+4
+00:00:46,000 --> 00:01:02,000
+Assuming everything else is happening fine and the audio levels are fine, let's start with an introduction which is going to be awkward anyway.
+
+5
+00:01:02,000 --> 00:01:04,000
+Hello and welcome everyone.
+
+6
+00:01:04,000 --> 00:01:19,000
+We are continuing forward from our last session, which was the introduction, so hopefully this time we'll have a little bit nicer grip on the topic or discussion and the flow of it.
+
+7
+00:01:19,000 --> 00:01:25,000
+With that said, I have roughly 3 topics.
+
+8
+00:01:25,000 --> 00:01:35,000
+The first one is that, remember we were talking about how do we demystify the concepts that are inherently nebulous, things like philosophy.
+
+9
+00:01:35,000 --> 00:01:48,000
+How do we make it more scientific or to preach to people that want to understand things in a logical, rational, measurable or quantifiable manner.
+
+10
+00:01:48,000 --> 00:01:58,000
+I can give a couple of examples of that kind of approach working, so I'll run that through.
+
+11
+00:01:58,000 --> 00:02:08,000
+The second one is that tomorrow is actually the 100th anniversary of Sukumar Ray's death.
+
+12
+00:02:08,000 --> 00:02:14,000
+He is a huge impact in my life, so I've been thinking of paying some kind of homage.
+
+13
+00:02:14,000 --> 00:02:24,000
+I don't know exactly in what way, what is appropriate and what I'm capable of, but in some way at least I'm trying to remember him.
+
+14
+00:02:24,000 --> 00:02:34,000
+The third one is kind of chalking out the lay of the land of metaphysics.
+
+15
+00:02:34,000 --> 00:02:45,000
+In a sense, what are the things that are worth covering that needs a modern reinterpretation or that we can kind of talk about or reflect on?
+
+16
+00:02:45,000 --> 00:02:55,000
+And what are the things, especially trying to find out, I am very concerned, what if there are things like blind spots that I have absolutely no clue about not knowing, essentially.
+
+17
+00:02:55,000 --> 00:02:58,000
+So what are the things I need to upgrade myself about as well?
+
+18
+00:02:58,000 --> 00:03:10,000
+So that is basically like putting each other on each other's blind spot and finding out what are the things that we both need to build up, so that then we can start filling up the details.
+
+19
+00:03:11,000 --> 00:03:14,000
+It's like a jigsaw puzzle, but the pieces are old.
+
+20
+00:03:14,000 --> 00:03:23,000
+We need to create new pieces that are not different, but the reinterpretation that fits better right now, essentially.
+
+21
+00:03:23,000 --> 00:03:29,000
+Something that we can distilled version, the PO version that we can also consolidate.
+
+22
+00:03:29,000 --> 00:03:33,000
+So those are the three topics that I think.
+
+23
+00:03:33,000 --> 00:03:36,000
+How do you think?
+
+24
+00:03:36,000 --> 00:03:50,000
+Yeah, I think I would have switched the order and put Shukumaraya first and then progressively from there, because I feel like that itself is like the seed to begin with.
+
+25
+00:03:50,000 --> 00:03:55,000
+It is, in a meta sense, it is.
+
+26
+00:03:55,000 --> 00:04:10,000
+The very reason that I will speak in a selfish way, because I don't know many people who have walked a similar kind of pathway.
+
+27
+00:04:10,000 --> 00:04:30,000
+So in that sense, growing up in an environment that is kind of academic, but have seen or perceived the necessity to become a careerist, but then again understood the necessity of the concept of absurdism, like the surrealism.
+
+28
+00:04:30,000 --> 00:04:47,000
+Like why, at which point that rampant rationalism falls apart and you need that support of the fun in life without which you can't proceed, like life becomes very bleak.
+
+29
+00:04:47,000 --> 00:04:49,000
+You cannot rationalize that part.
+
+30
+00:04:49,000 --> 00:04:56,000
+Sometimes no matter how well you do things, you still lose, at which point all you can do is laugh at it.
+
+31
+00:04:56,000 --> 00:05:02,000
+And like I'm probably not putting it the right way, but I've seen that thing and it was always challenging.
+
+32
+00:05:02,000 --> 00:05:07,000
+I've seen people at various order, like various spectrum, but not most of the time.
+
+33
+00:05:07,000 --> 00:05:11,000
+I didn't see many people who covered the whole spectrum, whole of it.
+
+34
+00:05:11,000 --> 00:05:23,000
+So it was always challenging for me to communicate with people on the entire spectrum who understand the rational world as well as Viralaya Talibhusha.
+
+35
+00:05:23,000 --> 00:05:27,000
+So that part is where I come along.
+
+36
+00:05:27,000 --> 00:05:38,000
+So not only the challenge that I have is exactly that you are seeing is that I cannot put that into words partially because I have no practice of it.
+
+37
+00:05:38,000 --> 00:05:45,000
+I haven't spoken to people with whom I can talk about it because there was no option for that.
+
+38
+00:05:45,000 --> 00:05:57,000
+Now I am going to hand it over to you and take that forward, like whatever I didn't or I failed to say, what are the parts that you can cover on this particular topic?
+
+39
+00:05:57,000 --> 00:06:13,000
+So I think if you start with the absurdist literature in its truest form, let's say, well, truest in the sense like let's take a narrow track here, Shukumarai specifically.
+
+40
+00:06:13,000 --> 00:06:20,000
+That the absurdism when I grew up, like growing up, one of the first things I read in life was Hoja Borala.
+
+41
+00:06:20,000 --> 00:06:27,000
+And I think I'm forever grateful because the next thing I read in like the first Bangla I had read was Hoja Borala.
+
+42
+00:06:27,000 --> 00:06:30,000
+The first English I had read was Alice in Wonderland.
+
+43
+00:06:30,000 --> 00:06:45,000
+And I think that the combined impact of that made me feel like while these were told to me as children's stories,
+
+44
+00:06:45,000 --> 00:06:52,000
+I did think it is children's stories because I understood it. I felt like I understood that it resonated with me.
+
+45
+00:06:52,000 --> 00:06:58,000
+Like the Cheelo Rumal Hoye Galo Beral. It can happen. That's what it's about.
+
+46
+00:06:58,000 --> 00:07:08,000
+But then probably I remember the first time I came across the concept of a pun was Sri Baikarun Singh.
+
+47
+00:07:08,000 --> 00:07:14,000
+Like B.A. Baikarun Singh. B.A. because I am Bae.
+
+48
+00:07:14,000 --> 00:07:20,000
+But what I'm trying to say here is, yes, I do Bae.
+
+49
+00:07:20,000 --> 00:07:28,000
+I was like, okay, there's something here. But there was an interesting thing that happened to me at that point in life.
+
+50
+00:07:28,000 --> 00:07:34,000
+And again, I think we need to narrate very subjective experiences here and then see where the intersections are.
+
+51
+00:07:34,000 --> 00:07:41,000
+And one of them was I had this neighbor who insisted that I learn translation, who insisted with my parents,
+
+52
+00:07:41,000 --> 00:07:48,000
+that seems like your kid is able to grasp a language, which is ironic that I did not speak till the age of like two and a half.
+
+53
+00:07:48,000 --> 00:07:54,000
+I was a late bloomer in that sense. And I'm still a late bloomer in pretty much everything in life.
+
+54
+00:07:54,000 --> 00:08:00,000
+But in that sense, as in the primary language, your language. Yeah, like I could not.
+
+55
+00:08:00,000 --> 00:08:06,000
+I did not have vocal skills to the point that and even when I spoke, I stammered a lot.
+
+56
+00:08:06,000 --> 00:08:15,000
+Like I stammered a lot till like 17, 18. But what the translation gave me was I had Alice in Wonderland.
+
+57
+00:08:15,000 --> 00:08:19,000
+I had Alice in Wonderland on the other hand, and I had Hojo Borala on the other.
+
+58
+00:08:19,000 --> 00:08:26,000
+And then in true Robi Thakur fashion, I was given Hamlet to translate into Bangla.
+
+59
+00:08:26,000 --> 00:08:34,000
+Okay, I think I was five years old then. That did not catch my attention.
+
+60
+00:08:34,000 --> 00:08:43,000
+But I went back to Hojo Borala reading that. And I remember feeling this thing that I mean, I didn't understand what Hamlet was like first two pages in.
+
+61
+00:08:43,000 --> 00:08:49,000
+I was like, this is definitely not children's story. But this Hojo Borala is children's story.
+
+62
+00:08:49,000 --> 00:08:57,000
+I remember reading it back again around the age of eight, nine.
+
+63
+00:08:57,000 --> 00:09:02,000
+Feeling that, okay, I understand something more now. I had spoken the language for a few more years.
+
+64
+00:09:02,000 --> 00:09:06,000
+Then there was a long gap. I read it back again when I was 16.
+
+65
+00:09:06,000 --> 00:09:12,000
+And I thought, okay, because it was that old, dusted, heartbound book that I open and read and like, hang on.
+
+66
+00:09:12,000 --> 00:09:17,000
+This does not feel like children's story anymore.
+
+67
+00:09:17,000 --> 00:09:23,000
+This fellow trying to go like telling the road to Thibaut.
+
+68
+00:09:23,000 --> 00:09:25,000
+What was it?
+
+69
+00:09:25,000 --> 00:09:27,000
+Kolkata Ranaghat? Diamond Harbor, Thibaut?
+
+70
+00:09:27,000 --> 00:09:33,000
+Diamond Harbor, Thibaut.
+
+71
+00:09:33,000 --> 00:09:40,000
+So I had some sort of understanding of geography and the way it was going.
+
+72
+00:09:40,000 --> 00:09:44,000
+So what happened? The click that happened, there was why.
+
+73
+00:09:44,000 --> 00:09:52,000
+Because there had been the school, 10 years of schooling that had pushed into me that rationality.
+
+74
+00:09:52,000 --> 00:09:56,000
+Maths, the way it was taught, had taught me logic.
+
+75
+00:09:56,000 --> 00:10:03,000
+And then I was like, this is the framework and scientific methodology.
+
+76
+00:10:03,000 --> 00:10:07,000
+All combined together made it feel like an obscure way of looking at things.
+
+77
+00:10:07,000 --> 00:10:13,000
+But then the why quickly became why not?
+
+78
+00:10:13,000 --> 00:10:19,000
+And that is also what connects to Zoidberg.
+
+79
+00:10:19,000 --> 00:10:22,000
+So I realized that there is something happening here.
+
+80
+00:10:22,000 --> 00:10:26,000
+And the main thing is, it was no longer a children's story to me,
+
+81
+00:10:26,000 --> 00:10:31,000
+but there was a certain comfort in that absurdity that when all else fails,
+
+82
+00:10:31,000 --> 00:10:39,000
+and age of 16 was one of the most disastrous periods of my life, academically, family, everything together.
+
+83
+00:10:39,000 --> 00:10:44,000
+And it was a situation in which all else had failed.
+
+84
+00:10:44,000 --> 00:10:50,000
+And the answer to what else was why not take the long route to Thibaut?
+
+85
+00:10:50,000 --> 00:10:52,000
+And kind of I hang on to it.
+
+86
+00:10:52,000 --> 00:10:55,000
+Okay, the main thing is what? I need to go to Thibaut.
+
+87
+00:10:55,000 --> 00:10:57,000
+I'm currently in Ranaghat.
+
+88
+00:10:57,000 --> 00:11:00,000
+I might as well go to Diamond Heart, but then go to Thibaut.
+
+89
+00:11:00,000 --> 00:11:04,000
+Whether I find Kesavadada or not.
+
+90
+00:11:04,000 --> 00:11:16,000
+And that, the power of that absurdism there took me, I think, I probably reread, I have never reread Haujaborala.
+
+91
+00:11:17,000 --> 00:11:20,000
+And I read it back to back a few times.
+
+92
+00:11:20,000 --> 00:11:25,000
+And each time it felt like there were layers upon layers upon layers of what was happening.
+
+93
+00:11:25,000 --> 00:11:32,000
+That this was not just, I mean, it's like you come to this absurdism with just for the humor.
+
+94
+00:11:32,000 --> 00:11:34,000
+We'll get just the humor.
+
+95
+00:11:34,000 --> 00:11:38,000
+You come to it to defy logic, you will get the defying logic.
+
+96
+00:11:38,000 --> 00:11:41,000
+Come to it for fun, you get that.
+
+97
+00:11:41,000 --> 00:11:53,000
+But most of all, to me, it was like when all else fails, what is that framework that will allow me to still make sense of what was happening around me?
+
+98
+00:11:53,000 --> 00:12:01,000
+In many ways, this is a form of dissociation, like absurdism is a form of dissociation from reality.
+
+99
+00:12:01,000 --> 00:12:09,000
+And the power of the dissociation is you have disconnected from the finite rules that you were bound by.
+
+100
+00:12:09,000 --> 00:12:13,000
+And for me, it was also psychological manifestation happening at the same point.
+
+101
+00:12:13,000 --> 00:12:23,000
+And that kind of brought me, and the only way I want to sum that up is, then I went back to Abul Dabul.
+
+102
+00:12:23,000 --> 00:12:26,000
+And the last poem hit me.
+
+103
+00:12:26,000 --> 00:12:29,000
+That one, that one slaps.
+
+104
+00:12:29,000 --> 00:12:32,000
+And since then, yeah, it is.
+
+105
+00:12:32,000 --> 00:12:37,000
+And by then I knew of the story, by then I knew of the history of what had happened.
+
+106
+00:12:37,000 --> 00:12:47,000
+And then it hit me that that same mind is saying this is practically on his deathbed.
+
+107
+00:12:47,000 --> 00:12:51,000
+Yeah, that's what is like.
+
+108
+00:12:51,000 --> 00:12:56,000
+That's when you actually get the hits you in a way.
+
+109
+00:12:56,000 --> 00:12:58,000
+Hang on a moment.
+
+110
+00:12:58,000 --> 00:13:05,000
+In the other parts where same or similar tone or like the frequency have hit me,
+
+111
+00:13:05,000 --> 00:13:14,000
+this guy was not basically laughing from his cheek to cheek or ear to ear, whatever the notion is.
+
+112
+00:13:14,000 --> 00:13:25,000
+But he was trying to make something that is very grim or very bleak and laying it out in front of you at the hope of...
+
+113
+00:13:25,000 --> 00:13:32,000
+So here's the thing. Nonsense is basically when nothing makes sense, how do you make sense of it?
+
+114
+00:13:32,000 --> 00:13:37,000
+You were saying that at the end of everything else stops making sense.
+
+115
+00:13:37,000 --> 00:13:40,000
+How do you still reconcile? How do you still keep on going?
+
+116
+00:13:40,000 --> 00:13:43,000
+That's where that nonsense strikes.
+
+117
+00:13:43,000 --> 00:13:51,000
+That's where it tries to, even if null is a data type here.
+
+118
+00:13:51,000 --> 00:13:54,000
+So I will expand on the null part.
+
+119
+00:13:54,000 --> 00:13:58,000
+So that's how that's when it actually happened, occurred to me.
+
+120
+00:13:58,000 --> 00:14:05,000
+Like, hang on, not only there's more to it, that part is the more essential part.
+
+121
+00:14:05,000 --> 00:14:14,000
+And the rest of it is basically an act like passing it along as a children's story or children's book or children's poem,
+
+122
+00:14:14,000 --> 00:14:17,000
+all those things so that he can publish it in Saunders.
+
+123
+00:14:17,000 --> 00:14:24,000
+But it is so much more for the parent of that child as well as for that child.
+
+124
+00:14:24,000 --> 00:14:29,000
+For me, I was...
+
+125
+00:14:29,000 --> 00:14:32,000
+See, it's not 8 years and 3 months or something.
+
+126
+00:14:32,000 --> 00:14:34,000
+How old are you? 8 years and 3 months?
+
+127
+00:14:34,000 --> 00:14:39,000
+I was 8 years and 3 months when first time reading it.
+
+128
+00:14:40,000 --> 00:14:47,000
+It was weirdly, almost somebody sent a time capsule knowing that,
+
+129
+00:14:47,000 --> 00:14:54,000
+hey, this guy, I need to hit him where it properly...
+
+130
+00:14:54,000 --> 00:14:58,000
+This particular, what do you call that thing? People pinch needles, right?
+
+131
+00:14:58,000 --> 00:15:01,000
+The Chinese acupuncture?
+
+132
+00:15:01,000 --> 00:15:02,000
+Yeah, acupuncture.
+
+133
+00:15:02,000 --> 00:15:06,000
+So it's almost like we need to acupuncture this guy at the exact right spot.
+
+134
+00:15:06,000 --> 00:15:13,000
+So we should hand this book over to this guy and make him read this part when he's 8 years and 3 months old.
+
+135
+00:15:13,000 --> 00:15:16,000
+And read this part and then it hits him.
+
+136
+00:15:16,000 --> 00:15:21,000
+If I did not read those kinds of things, there's some very curious stuff that happens, right?
+
+137
+00:15:21,000 --> 00:15:26,000
+And at that point, is this meant to happen? Is this some kind of destiny?
+
+138
+00:15:26,000 --> 00:15:32,000
+Should I be more concerned, more careful, more focused about exactly what I am...
+
+139
+00:15:33,000 --> 00:15:36,000
+I kind of felt gratitude after that point onward.
+
+140
+00:15:36,000 --> 00:15:41,000
+Like, hey, most people at my time, at my age is not doing this.
+
+141
+00:15:41,000 --> 00:15:43,000
+They're missing out.
+
+142
+00:15:43,000 --> 00:15:46,000
+Don't want to look at it in a very different way.
+
+143
+00:15:46,000 --> 00:15:49,000
+I should be thankful that I can enjoy this.
+
+144
+00:15:49,000 --> 00:15:52,000
+Nothing else. I can read this. I find this funny.
+
+145
+00:15:52,000 --> 00:15:54,000
+I find this enjoyable.
+
+146
+00:15:54,000 --> 00:15:57,000
+I don't need a big meaning or anything else at this point.
+
+147
+00:15:57,000 --> 00:16:03,000
+And I just want to find it interesting and entertaining enough and more like it, essentially.
+
+148
+00:16:03,000 --> 00:16:10,000
+That probably created the bandwidth for which now then I can enjoy Python as comedy.
+
+149
+00:16:10,000 --> 00:16:15,000
+Same or similar, I would say, in a sense, right?
+
+150
+00:16:15,000 --> 00:16:18,000
+We start with something, we end with something.
+
+151
+00:16:18,000 --> 00:16:20,000
+Neither of those things make sense.
+
+152
+00:16:20,000 --> 00:16:24,000
+But overall, it's a social commentary that is objectively funny.
+
+153
+00:16:24,000 --> 00:16:28,000
+And you can project it any different ways you want.
+
+154
+00:16:28,000 --> 00:16:30,000
+All of those ways would be funny.
+
+155
+00:16:30,000 --> 00:16:34,000
+And neither of those would be objected by the author themselves.
+
+156
+00:16:36,000 --> 00:16:40,000
+That was how I was seeing it.
+
+157
+00:16:40,000 --> 00:16:42,000
+I was really bad at...
+
+158
+00:16:42,000 --> 00:16:44,000
+Yeah, go ahead.
+
+159
+00:16:44,000 --> 00:16:47,000
+Sorry, I just wanted to tie back the thing you said about null, right?
+
+160
+00:16:47,000 --> 00:16:52,000
+So nonsense, then the interpretation of it became not as not sensical.
+
+161
+00:16:52,000 --> 00:16:54,000
+It became beyond sense.
+
+162
+00:16:54,000 --> 00:17:02,000
+And however, the question that comes up, then what is the sense that we are talking of in this context?
+
+163
+00:17:02,000 --> 00:17:07,000
+Is it sensory perception beyond the limits of sensory perception?
+
+164
+00:17:07,000 --> 00:17:21,000
+Is it sense as, going back to our maxims, as commonly accepted social principles as the sense that anything that is beyond those commonly accepted social practices,
+
+165
+00:17:21,000 --> 00:17:38,000
+or is it that the sense here is in a way that anything that has meaning and a forceful breaking down, deconstruction of that meaning,
+
+166
+00:17:38,000 --> 00:17:44,000
+so again, in that sense, beyond sense, that what lies beyond sense,
+
+167
+00:17:44,000 --> 00:17:59,000
+so if I throw language beyond the boundary of common usage, if I try to use language beyond the boundaries of perception, of rationality, of societal understanding, of accepted knowledge,
+
+168
+00:17:59,000 --> 00:18:02,000
+what does language become?
+
+169
+00:18:02,000 --> 00:18:16,000
+And that is where I think the fluidity, you know, that playing with the language comes in, because you have then abstracted the concept of the ability to express anything based on certain parallels.
+
+170
+00:18:16,000 --> 00:18:30,000
+So in that sense, that way of application of language is very similar to how generative AI works, that it's just predicting.
+
+171
+00:18:30,000 --> 00:18:41,000
+It's just taking a set of items, converting that into a series of other data type that you just can't understand, and then patch that back.
+
+172
+00:18:41,000 --> 00:18:50,000
+And so I just want to say that what that said, and I think at that, that was also the point I was learning programming seriously in life.
+
+173
+00:18:50,000 --> 00:19:04,000
+And I realized the importance of null. And I realized how much of a pain the null pointer exceptions were, how much was the undefined behavior that acted,
+
+174
+00:19:04,000 --> 00:19:21,000
+but in all, I think it has still stayed that I still look at null as this concept of a nonsense, like a beyond sense, beyond definition, and nothing really cemented that concept in me as strong as Shukumar guy's writing has.
+
+175
+00:19:21,000 --> 00:19:41,000
+Because in a sense, null is a conscious choice. It's not that something failed. Null is a conscious choice of the developer to keep it that way from everything else, like undefined can be different thing.
+
+176
+00:19:41,000 --> 00:19:53,000
+Zero can be different. When it's null, that means the developer shows it to be null. It doesn't happen like out of the blue.
+
+177
+00:19:53,000 --> 00:20:05,000
+I think one of the ways to put it would be think of a jigsaw puzzle, like lots of pieces, right? The puzzle that hasn't been solved yet, a new thing.
+
+178
+00:20:05,000 --> 00:20:17,000
+When you're pushing the boundary, a new layer of the land, you haven't mapped it out yet. So you have a jigsaw puzzle where there are pieces, nobody knows what the correct order is.
+
+179
+00:20:17,000 --> 00:20:38,000
+Now, there's a playful entity going ahead and creating Bokochop or Hansjaru out of that, because nobody knows what the right answer is. The sense has not been laid out yet.
+
+180
+00:20:38,000 --> 00:20:50,000
+Out of all those Bokochops and Hansjarus, there would be eventually discovery would be made. Hey, this is the one that is a solved puzzle.
+
+181
+00:20:50,000 --> 00:20:59,000
+This is the one that is out of all those random trials and errors to some of them are funny, some of them are not funny.
+
+182
+00:20:59,000 --> 00:21:09,000
+This is the one that is for these people who only want the sensical stuff. They would take that and they will run with it.
+
+183
+00:21:09,000 --> 00:21:17,000
+That would be the part when this part is understood, at which point people like Sukumar Rai would not find that domain funny anymore.
+
+184
+00:21:17,000 --> 00:21:27,000
+They would want to push further down the line, because that part of the map is now known map. Now it has been chalked out or mapped out.
+
+185
+00:21:27,000 --> 00:21:49,000
+I saw that anything from a social norm, cultural weirdness to everything else, I forgot the particular story where he goes to Hindukusha Parvatmala finding weird kind of animals and stuff.
+
+186
+00:21:49,000 --> 00:22:00,000
+It critics or criticizes the people like the Western explorers going to Africa and their accounts and how they know it.
+
+187
+00:22:00,000 --> 00:22:13,000
+It is telling a story. It is being funny as well as at the same time it is showing that how absurd does it seem to everybody else if it falls to a normal person's hand.
+
+188
+00:22:13,000 --> 00:22:24,000
+What does it look like or sound like to them? You cannot say this author's writing is good and this author's writing is BS.
+
+189
+00:22:24,000 --> 00:22:34,000
+How do you distinguish, how do you quantify that? You don't know that. At that point both of them are true, both of them are right.
+
+190
+00:22:34,000 --> 00:22:39,000
+You are just assembling the puzzle pieces in different ways.
+
+191
+00:22:39,000 --> 00:22:49,000
+So that is how another way to see the nonsense that I have seen is that not only always it is null, it can also be how many ways can I break the game.
+
+192
+00:22:49,000 --> 00:23:01,000
+And by doing that, finding out this one way the game is not broken, this is the way it is the actual interpretation. Luckily sometimes you end up finding it.
+
+193
+00:23:01,000 --> 00:23:19,000
+Which is where the success of and the departure of nonsense, when that happens for any particular small domain or subset of case, that's when nonsense exits that, no longer my territory.
+
+194
+00:23:19,000 --> 00:23:33,000
+Since I have been found here, now I need to push the boundary through. Anyways, I think, so I have been, so do you have anything else? Otherwise I was going to talk about.
+
+195
+00:23:33,000 --> 00:23:45,000
+So I posted one thing in chat, did you see that? Channel called A-Bong. You are muted, so I cannot hear what you are saying.
+
+196
+00:23:45,000 --> 00:23:49,000
+I thought that was a link for this stream.
+
+197
+00:23:49,000 --> 00:24:02,000
+No, no, no, no, no. So I was trying to go, like start the stream, but it was asking me for, because it's a new channel, it was asking for authentication and enabling streaming, etc., etc., all those things.
+
+198
+00:24:02,000 --> 00:24:18,000
+So I had to go back to the other channel where you already streamed there. It's being streamed there. For the time being, I know that we probably can do a better job at exactly consolidating all those things, but I think it's still possible.
+
+199
+00:24:18,000 --> 00:24:22,000
+But is this the URL where it is, like the channel in which this is streaming now?
+
+200
+00:24:22,000 --> 00:24:38,000
+No, no, no. I cannot. YouTube won't allow me without like, you have to give the mobile phone number, it takes 24 hours to set up, all those things I was not sure. It was not there before. They started it new.
+
+201
+00:24:38,000 --> 00:24:54,000
+So I started, like I tried to stream there, and it said that no can do today. So you said that it would be better if we record, so at least the new, like the stream is being recorded, so that's that.
+
+202
+00:24:54,000 --> 00:25:11,000
+But that channel would be the one where I'm thinking of publishing, starting with Abol Tabol, like the abriti. So I'm doing something, I'm doing something, so that seemed like the lowest hanging fruit.
+
+203
+00:25:11,000 --> 00:25:31,000
+Going forward, we'll keep on adding more stuff. It's not really only Sukumar Rai or anything. The idea is Bengali literature has not found as much online exposure in this kind of media.
+
+204
+00:25:31,000 --> 00:25:52,000
+Or maybe I just want to see how much exposure, whether this kind of exposure actually works. I don't want that for kids part. I don't want to make it for kids. I want to make it for adults, for people like the post teenage and then some.
+
+205
+00:25:52,000 --> 00:26:12,000
+So the people who are trying to now rediscover themselves, for them to grab onto content that are not only somebody else's language content, but their own language content, which it has a rich history. Why not use that?
+
+206
+00:26:12,000 --> 00:26:34,000
+So that way, but along with that, so all those, all those things will be like Ebong Satyajit, Ebong Sukumar, Ebong Robi Thakur, Ebong Adda. So I was thinking of like, if we can make this or this thing more generic, general purpose, and just post it as like Ebong Adda, or maybe we can use a different branding.
+
+207
+00:26:34,000 --> 00:26:51,000
+Ebong Adda sounds right to me, like as in okay to me. It's like a huge spectrum, like it can go anywhere pretty much. We are open to discuss pretty much anything. So and then maybe have guest, maybe not have guest, maybe we just go on about it, whatever we want to discuss anyway.
+
+208
+00:26:51,000 --> 00:27:11,000
+And have that as a repository for that, that we can round back to, that is as a live stream. Sounds good? Yep. Any changes that you'd want to make as in as a conceptual, concept wise?
+
+209
+00:27:11,000 --> 00:27:40,000
+Not really. But something that occurred to me, just to like bring up in this context, right, that we are talking of Satyajit Rai in the context of that Chhoto Dergol for children's literature. And the one thing I have always felt, and I guess a lot of people feel, but then forget as they grow old, is this contempt for grownups, that why does there need to be a separate children's edition, which is jingly, colourful.
+
+210
+00:27:40,000 --> 00:28:09,000
+And then should get as grim as you grow older. I was the kid who liked less colours, brighter colours bothered me. So I was like, am I already a grownup? Because I like those grim themed things. But the one thing about Shukumarai's work, and in that sense, I guess it's also shaped how I see, you know, the human consciousness in that sense is the child stage is just a vastly,
+
+211
+00:28:10,000 --> 00:28:37,000
+fast learning version of the same self. It's almost like the rate of learning peaks and then slowly grades down. And there are psychological analysis to back that up. But I'm seeing the literature or the even the, you know, the way you deal with children, one of my gripe always has been how people do bababacha to kids.
+
+212
+00:28:37,000 --> 00:29:00,000
+And I never do that. To me, that's an individual to me, or whether part of a collective or not, but that person deserves a certain amount of respect, because who am I to suddenly think that I know better than this person that I have certain new, I know everything that this mind can think of and most of the time it turns out not.
+
+213
+00:29:00,000 --> 00:29:25,000
+Because again, a young mind is more capable of thinking in nonsensical terms, because it has got lesser amount of sense to unlearn to get there. So the ability for an author or to for somebody to, you know, maintain that level, I mean, yeah, I understand that there are certain things that can be hazardous that, okay, somebody has not learned something.
+
+214
+00:29:31,000 --> 00:29:38,000
+That would you go and give warp technology to somebody who's just invented metals?
+
+215
+00:29:38,000 --> 00:29:49,000
+And the answer is, yes, you can. But the probability of mishaps go like proportionately higher.
+
+216
+00:29:49,000 --> 00:30:06,000
+Yeah, but then there is that same infantilizing in our narrative of history, especially of anthropology, when we look back at the Bronze Age, at least the way we would, at least the way I was taught in school, it was as if they were infantile humans.
+
+217
+00:30:06,000 --> 00:30:17,000
+And slowly we became adolescent humans. Now we are grown up humans. So if I was born at that age, I would have considered right now. Yeah, the best.
+
+218
+00:30:17,000 --> 00:30:28,000
+We are the best. We are the best. We are done. We are done developing. We're done growing up. Right. That is the part that gets me and it makes me really mad. Like, I am with you so far.
+
+219
+00:30:28,000 --> 00:30:53,000
+Right. So, okay, we were very underdeveloped and all these things. But to consider that now we got this and now there is no part. That is the part where to ground back to your point, what you are saying is that the crystallization of self or identity or even the concept of reality itself, the crystallization is what growing up traditionally has been.
+
+220
+00:30:53,000 --> 00:31:16,000
+Growing up is nothing else than the crystallization to lack the fluidity. So the reason we are a little bit mad about the whole thing is because we have retained that neoteny of flexibility, that fluidity among ourselves, within ourselves.
+
+221
+00:31:16,000 --> 00:31:29,000
+And we prefer to keep it that way, which is why it was not beaten out of us in the right amount of time. We kind of have been able to retain that during that period.
+
+222
+00:31:29,000 --> 00:31:45,000
+So, which is why now we have more stronger will to continue that because we can see the benefit of it. Think of the, like, the alternative timeline where it has been during the school age has been beaten out of us.
+
+223
+00:31:45,000 --> 00:31:55,000
+And we don't even know what you are missing out that neoteny. Our identity is strong and we're like, no, this is the best we can ever be. There is nothing else to learn.
+
+224
+00:31:55,000 --> 00:32:06,000
+Everyone else who says anything else about what doesn't match with our understanding, they're just plain wrong and they should be put in jail or something like that.
+
+225
+00:32:06,000 --> 00:32:20,000
+Anyways, point here is that's exactly what death of childhood is. To me, childhood is not just one individual identity that should be respected.
+
+226
+00:32:20,000 --> 00:32:37,000
+The concept of childhood itself should be respected the same way and retained as much as possible because once you lose that, you fail to see what you what you're missing out.
+
+227
+00:32:37,000 --> 00:32:48,000
+So I'll give it back to you for the part that you are saying that why you think that children's books, the separation of that, you're not okay with that. Please continue on that part.
+
+228
+00:32:48,000 --> 00:32:52,000
+I don't think you finished that part.
+
+229
+00:32:52,000 --> 00:33:16,000
+I mean, I had finished that. But the point, the thing I was talking, trying to point out is this concept of linear evolution and the concept of linear evolution being applied to human history, being applied to education, being applied to the growth of an individual within a society, being applied to a carrier progression everywhere.
+
+230
+00:33:16,000 --> 00:33:27,000
+It's that linear time is easier to understand. It's easier to understand key in the past we were conquered and now we are free.
+
+231
+00:33:27,000 --> 00:33:35,000
+Like, yeah, in the past, we were conquered by various invasive forces who right now we are free.
+
+232
+00:33:35,000 --> 00:34:01,000
+Well, but then on the other hand, the specific part about children's literature that really bothers me is it assumes a certain level, a certain step after step of learning that as if somebody is going to learn these concepts about even let's say, what is a biological sex?
+
+233
+00:34:01,000 --> 00:34:17,000
+What is gender? What? How do you actually reproduce to how do you then build a society? How does this like who's to say in what order somebody is able to understand that?
+
+234
+00:34:17,000 --> 00:34:37,000
+And for example, as a child growing up, I found that I understood maths faster than I understood literature. But I was not allowed access to higher order mathematics, which means that in class four, I was solving the maths books of my cousins who were in class 10.
+
+235
+00:34:37,000 --> 00:34:47,000
+And they thought I was showing off. At the same time, I could not give a literary analysis.
+
+236
+00:34:47,000 --> 00:35:12,000
+What are the most stupidest questions? Like, I was not good at bullshitting. So I was I was good at those kind of questions. Like, yeah, bring bring that. Do you know the right answer? Like, has the did the author talk? If they haven't spoken anything about this? So whatever I say, you cannot say no.
+
+237
+00:35:13,000 --> 00:35:35,000
+Yeah, I mean, what I'm trying to say is that see, a lot of push in educational reform today is also around bringing a more inclusive education to the current generation. And I'm talking of outside the mainstream education.
+
+238
+00:35:35,000 --> 00:35:56,000
+And my partner works in that a bunch of people I know work in that area. And one of the common themes I keep on hearing is empower the learner. Let the learner create their own curriculum, where the educator is simply the safeguard, as well as the facilitator, the safeguard for the boundary.
+
+239
+00:35:56,000 --> 00:36:22,000
+So basically, the very strong prime directive in the Star Trek prime directive in the form of non interference needs to apply for the healthy growth of an individual. And from that part, what I want to say is that anything that I think we say, the issue with censorship is that it, again, I'm probably starting to sound like Zizek at this point.
+
+240
+00:36:22,000 --> 00:36:35,000
+But yeah, praise be Zizek. What I'm trying to say is that the censorship really is this higher moral ground of this holier than thou attitude that I know what is better for you in exactly this order.
+
+241
+00:36:35,000 --> 00:36:58,000
+Till you cross that threshold, you are not allowed to experiment with this. But suddenly after that, you must. Like suddenly after the age of 18, you must vote in one day, you need to understand what is politics, who is the right candidate to choose. You're not allowed to drive till 16 or 18, depending on where you are.
+
+242
+00:36:58,000 --> 00:37:02,000
+17 years, 360 days.
+
+243
+00:37:02,000 --> 00:37:04,000
+Yes.
+
+244
+00:37:04,000 --> 00:37:28,000
+And that's like, what this cuts across is in my work, I do not distinguish based on the age. I always distinguish based on, it's like the prerequisites can be almost said in form of a software dependency. Do you have this, this, this and this? That is what you need in order to run this because that's sort of the library I'm drawing from.
+
+245
+00:37:28,000 --> 00:37:34,000
+Unless you know that, you won't be able to understand, which is again a knowledge graph.
+
+246
+00:37:34,000 --> 00:37:53,000
+This is one of the most important or interesting topics to me. There are only a handful of few topics that I am very much invested, I want to do something about it to the point, there are things that I know that this is important, somebody should do something about.
+
+247
+00:37:53,000 --> 00:37:59,000
+This is one of the topics like the education system, like reformation of education system.
+
+248
+00:37:59,000 --> 00:38:12,000
+I don't know, I don't have all the answers, but I know enough of those things that seem absurd, and there needs to be like, there are easier solutions there than the ones that are being employed.
+
+249
+00:38:12,000 --> 00:38:27,000
+I know that part, and what I am pining for essentially is people with similar kind of mentality, and there's another challenge there is that handling a child is an ethical concern.
+
+250
+00:38:27,000 --> 00:38:36,000
+Whose child are you giving those values and how they are turning out to be, it basically becomes your responsibility.
+
+251
+00:38:36,000 --> 00:38:52,000
+And even though you are very sure that what you are doing is a bona fide, like your good faith basis you are doing, trying to do the right thing or best thing that you think you can do, but truth is a shared understanding.
+
+252
+00:38:52,000 --> 00:38:59,000
+If everybody says that's wrong, then you're wrong, you will be tried for malpractice.
+
+253
+00:38:59,000 --> 00:39:02,000
+So how do we change that layer of the land?
+
+254
+00:39:02,000 --> 00:39:31,000
+So before we get to actually like giving curriculum to kids or facilitating that, a lot of groundwork needs to happen to make that a norm, like this alternative mechanism as a norm, and some bold parents to actually stand up and to do that, like to contribute to that and show that as like, hey, see, this is the results that we are getting out of these practices.
+
+255
+00:39:31,000 --> 00:39:44,000
+Which will take another generation or something in order to start, like best case scenario, but it has to start there, it has to start somewhere.
+
+256
+00:39:44,000 --> 00:40:03,000
+I just don't know how exactly, like, there's a reason I probably should not slack off on like meeting Sharon, like speaking to her about these topics. I think I should prioritize that.
+
+257
+00:40:03,000 --> 00:40:30,000
+In fact, she's gone to Bangalore for a related, she's doing a course which is in related educational field, and this is like a field study trip. But the one thing I just want to point out here, see, the good news is that a lot of work has happened already, and there is substantial ground for this to be considered a viable alternate.
+
+258
+00:40:30,000 --> 00:40:50,000
+I mean, even if you want to demean that and call it alternative, what I mean by demeaning is it's like saying that the mainstream is still the truth, and these are all truths. But there is a fundamental difference, and I see a very strong, very strong parallel in software engineering to it.
+
+259
+00:40:50,000 --> 00:41:10,000
+And I keep on drawing this line. So again, if any of them seem too far-fetched, feel free to stop me. There's a big focus of this kind of education system where you are empowering the learner. One is you don't necessarily, your only criteria rather is not the learner's age.
+
+260
+00:41:10,000 --> 00:41:25,000
+Your criteria is the learner's abilities and lack of abilities. Based on that, a lot of effort, the education is geared towards helping the learner build the curriculum, a sort of service discovery.
+
+261
+00:41:25,000 --> 00:41:42,000
+That in the software design paradigms, do you design services which explicitly know each other, or do you build a system that acts as service discovery? And then you plug in the different services, let the services discover each other based on the common thing.
+
+262
+00:41:42,000 --> 00:42:02,000
+So they're doing something very similar in education, that they are putting a lot of effort into helping the child learn, let curiosity lead the way, being one of the foundational principles with the facilitator guiding across. And again, I am not the expert here. I am giving you an external perspective into what I have observed.
+
+263
+00:42:02,000 --> 00:42:18,000
+But what this boils down to is the fact that you are not starting with a fixed curriculum. You have a certain set of milestones you would like to achieve, and the progression of everyone would not be the same.
+
+264
+00:42:18,000 --> 00:42:43,000
+So then a standard evaluation technique does not apply anymore. Your evaluation grows more towards a research oriented, so then kids don't give exams, kids write research papers, they choose a topic, they want to build something. You fix some aspects, you know, just like in service definition, you fix that, okay, this is the service discovery URL, this is the protocol it speaks, that part needs to be fixed.
+
+265
+00:42:43,000 --> 00:43:04,000
+So there is a lot of protocol design work that is happening in this sector right now. And a lot of new organizations are coming up. In fact, specifically, if you've heard of Teach for India, the one thing I know through Sharon, the founders of Teach for India have started something called the Circle Incubation, the Circle India something.
+
+266
+00:43:04,000 --> 00:43:21,000
+And what they are doing is acting as an incubator in the very way that we are familiar with in the startup world of incubating, you know, startups, except they're incubating educators of the next generation. They're incubating people who are building alternate education principles.
+
+267
+00:43:21,000 --> 00:43:46,000
+And this is happening in India. And the beauty is that there is a lot more scope within India to do this because of the variety, because of the diversity, because you can't just speak one language, you can't enforce one framework, but you have to build the discovery oriented learning and a research oriented evaluation into things, which is again not new.
+
+268
+00:43:46,000 --> 00:44:01,000
+You know, in our academic curriculum, we reach that only in like masters or postgrad or in PhD. But suddenly, I mean, I was made to believe that a PhD is this very difficult thing because you have to research.
+
+269
+00:44:01,000 --> 00:44:15,000
+You don't get a textbook that you mug up and go and write. You have to find what you want to learn, then you have to try to find how you can learn, then you have to learn that and prove that you have learned it. Everything is on you.
+
+270
+00:44:15,000 --> 00:44:38,000
+So, you know, it's not that these things did not exist. But the point is we break the age barrier, break the learner's basic, like the role of the teacher changes to being that Adi Guru version to like if there was such an Adi Guru, then that Adi Guru would be an encyclopedia.
+
+271
+00:44:38,000 --> 00:44:41,000
+That would also guide you.
+
+272
+00:44:41,000 --> 00:45:05,000
+And finally, the one tragedy, the other tragedy that I find very curious, I've been rewatching, rather I've been watching the original Star Trek, you know, greeting through the sexist metaphors, the racial metaphors that exist, but trying to look at what was being done, trying to look at it in the context of 1962 through 67 or 69, what it was.
+
+273
+00:45:05,000 --> 00:45:18,000
+That what was really going on that it has to be compared at par with what was and the new things that it says, and something still fall in place, which you see TNG kind of trying to rectify.
+
+274
+00:45:18,000 --> 00:45:27,000
+One of those things, I mean, prime directive is probably mentioned somewhere in season two, late in season two, till then it was called the non-interference directive.
+
+275
+00:45:27,000 --> 00:45:41,000
+And the directive is the prime directive is simply that a higher order civilization should not influence or contaminate development of a lower order civilization.
+
+276
+00:45:41,000 --> 00:45:47,000
+And the non-interference to be practiced as the prime goal.
+
+277
+00:45:47,000 --> 00:46:04,000
+And I think that prime directive applies very strongly to education, to the way we run our political systems, to the way we run our any like even at a family level, you know, that where does that leave you?
+
+278
+00:46:04,000 --> 00:46:17,000
+Because the prime directive also has scopes where you would override it, where you see constantly Jean-Luc Picard throws prime directive to the air every now and then that they are overriding their judgment.
+
+279
+00:46:17,000 --> 00:46:24,000
+So that is kind of a facilitator stepping in and saying that, okay, you might have said non-interference, but this is not safe.
+
+280
+00:46:24,000 --> 00:46:47,000
+There is also a judgment call, but just tying that together, the education aspect of things also need to be treated from the perspective of a discovery and the ability to explore what is beyond the sensical world that the learner knows already, because what else are you exposing them to otherwise?
+
+281
+00:46:47,000 --> 00:47:03,000
+But I think what's interesting too, what I don't have is an experiment in progress, which you have, like that you said, the bringing up a child as the ethical dilemma that at which point do you throw that in? What do you balance? And I think that's another perspective that I'm interested in.
+
+282
+00:47:03,000 --> 00:47:17,000
+So that's another topic I was not thinking that we can discuss today, but I'm happy to discuss that. So I actually had a couple of hypothesis in my mind.
+
+283
+00:47:17,000 --> 00:47:32,000
+One of the things that you said that you learn to speak later in your life as in like two and a half, two, two and a half. So what I found is that, okay, this discussion is a bit longer or like a larger context. Let me establish the context, right?
+
+284
+00:47:32,000 --> 00:47:54,000
+So I was never convinced that intellect is the like from Alpha to Omega of what people's capabilities are. There needs to be, there is, there are more things to it than what IQ measures.
+
+285
+00:47:54,000 --> 00:48:21,000
+What are those things? Is there a comprehensive, like, like, can you map it out? Can you chalk it out? What are those things that one mind can handle? You are employing your neurons to do, and sometimes your neurons can decide, I am not good at this, or rather, I don't want to be good at this. I want to be good at this other thing.
+
+286
+00:48:21,000 --> 00:48:36,000
+Right? So it always struck me as a choice. And I have seen that most of the time, people would choose some or the other at the cost of some other things.
+
+287
+00:48:36,000 --> 00:48:58,000
+People who are really good at reasoning, problem solving, like the visual, like, or ordering of stuff, those are the traditional IQs. They would also have, most of the time, they would not have too many other things, but sometimes they would be good linguists as well.
+
+288
+00:48:58,000 --> 00:49:14,000
+If they are good linguists as well as good, like, higher IQ, they might even be in an autistic spectrum where they have really poor social interactions and stuff. Good at language, but poor at communicating.
+
+289
+00:49:14,000 --> 00:49:29,000
+There are people who are good at communicating, good at communicating, would stand up there on stage and speak very well, but then small talks will get completely fumbled.
+
+290
+00:49:29,000 --> 00:49:50,000
+So what I'm trying to say is that there are lots of different aspects to it. All those things are basically your brain deciding, I want to reshape myself in a way, this becomes, this XYZ becomes my first path, and those other things, I am not really interested so much about it.
+
+291
+00:49:50,000 --> 00:50:06,000
+The moment your brain decides that, it will start reshaping itself in that manner, to the point it will re-optimize itself over and over and over, to the point I am bad at maths, nobody starts being bad at maths.
+
+292
+00:50:06,000 --> 00:50:26,000
+Somebody at childhood deciding that I want to use those neurons differently, eventually finding that I can't really use those neurons anymore, they help me read somebody's facial expression better and understand whether they are in pain, are they hiding something, etc.
+
+293
+00:50:26,000 --> 00:50:42,000
+So I'm just, it's not the exact one-inch-to-one relationship, what I'm trying to say is that we, brain is a very highly flexible machine, the computer, and we can decide whether to crypto-mine with it or get more frames on a video game.
+
+294
+00:50:42,000 --> 00:51:06,000
+You can choose, you cannot do both at the same time, you get to choose. Now that was the hypothesis, which was fueled by, I got more fuel on that hypothesis while Rai was born around that time, so there is a thing called cognitive trade-off hypothesis, I think I talked about this a little bit.
+
+295
+00:51:06,000 --> 00:51:35,000
+So some shims can identify, like they have very highly visual persistence, so if you show for a one-tenth of a second, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 on the screen, and then you wrap them up with just dots, and they understand the concept of, over the time of practice, they know which one is the order, like 1, then 2, then 3, they will just go and touch-screen, go through all those things.
+
+296
+00:51:35,000 --> 00:51:45,000
+After that, near-perfection, not near-perfection, perfection, I haven't seen them make that mistake, they do that very well.
+
+297
+00:51:45,000 --> 00:52:06,000
+So humans can't. You will have to be like, if I show you 10 numbers on a screen, random places, for 10 seconds, and then wrap it up with white markers, then you probably will be able to find up to 5 or 6 or 7 after practice.
+
+298
+00:52:06,000 --> 00:52:28,000
+And it's not your shortcoming. The point is, the point that they're trying to make is that we abstract too hard in our brain. It does not make sense for us to have that consolidated, static information like that, and recognize that as is.
+
+299
+00:52:28,000 --> 00:52:37,000
+But we had that. We have had that ability. We chose to drop it. We're trading it off for a higher level of abstraction.
+
+300
+00:52:37,000 --> 00:52:56,000
+So when you're trying to communicate somebody, there were 10 dogs chasing me, like half a kilometer behind there, I need your help, you're trying to communicate that information, the exact positions of those dogs are not really as important anymore.
+
+301
+00:52:57,000 --> 00:53:08,000
+What is more important, how do I very succinctly transfer that information to you, so that now you get to help me, and we can together drive off those dogs.
+
+302
+00:53:08,000 --> 00:53:17,000
+But if I was solo, I would have benefit of knowing exactly how many of those are right behind me.
+
+303
+00:53:18,000 --> 00:53:25,000
+So those critical bits of crystallized details are not really important anymore.
+
+304
+00:53:25,000 --> 00:53:37,000
+What I'm trying to say in a roundabout way is that we create more and more higher level of abstraction, and by doing so, we trade off our superhuman traits.
+
+305
+00:53:37,000 --> 00:53:43,000
+If somebody can do those number-clicking as fast, we'll call that person superhuman ability.
+
+306
+00:53:43,000 --> 00:53:58,000
+Some people do that. Some people who are autistic but have savant-like abilities can tell you exactly 1969 to 2nd April which weekday was it.
+
+307
+00:53:59,000 --> 00:54:13,000
+Those people are hyper-using, utilizing their part of the brain to do just that, whereas trading off something else, maybe their social life is struggling, suffering, or maybe...
+
+308
+00:54:14,000 --> 00:54:32,000
+So my point was, can I create a situation where it seems like autism, and does that allow bandwidth for something else?
+
+309
+00:54:33,000 --> 00:54:43,000
+So I intentionally, I don't know whether you have seen that, so when she was 6 plus, no sorry, almost 8, she was starting to speak.
+
+310
+00:54:43,000 --> 00:54:58,000
+I took that, that she can take instruction, ta ta ta da da da, whatever I'm saying that she's saying back, so I took a video of that recording as a proof that she can speak, and she can follow the instruction.
+
+311
+00:54:58,000 --> 00:55:10,000
+If I'm asking her to say some specific thing, she'll say that, but then I completely cut her off from focalizing things like learning language, I completely cut her off from that.
+
+312
+00:55:10,000 --> 00:55:26,000
+What happened is that, so my idea was, most people, if we are trying to learn language, basically, visual processing, language processing, those two things take up huge amount of processing power of our brain.
+
+313
+00:55:26,000 --> 00:55:43,000
+And if we ground up at the very childhood, we overburden ourselves with those things, I cannot tie her eyes, but if I can make sure that the need for language is reduced, then how else does it manifest?
+
+314
+00:55:43,000 --> 00:55:50,000
+Because it's a very flexible machine, it will find out other things to process, if you don't give something to process.
+
+315
+00:55:50,000 --> 00:56:07,000
+So turns out, she is good problem solver and conscientious, all those things, as well as something that is completely oddball opposite end of it, she is also very good impact.
+
+316
+00:56:07,000 --> 00:56:16,000
+And those two things happened, she would not be able to explain how or why or what, but she will know somebody needs coming down.
+
+317
+00:56:16,000 --> 00:56:27,000
+She is better than both me and her mother combined on that aspect, and has been since as long as you can remember pretty much.
+
+318
+00:56:27,000 --> 00:56:35,000
+So she understands human better, she understands problem solution, those things better.
+
+319
+00:56:35,000 --> 00:56:46,000
+And the cost that we needed to pay is that up to three years old, she didn't speak in complete sentences anymore.
+
+320
+00:56:46,000 --> 00:56:51,000
+After that, we're like, okay, now you're time to get back on track.
+
+321
+00:56:51,000 --> 00:57:04,000
+Now, she understands only one language well enough to form proper sentences that is English, she uses English, like writing and reading and speaking all those things are normally Bangladesh.
+
+322
+00:57:04,000 --> 00:57:14,000
+She probably will expose her to that eventually.
+
+323
+00:57:14,000 --> 00:57:20,000
+The point is, you need to sacrifice something in order to get understanding of other things.
+
+324
+00:57:20,000 --> 00:57:23,000
+This was an experiment.
+
+325
+00:57:23,000 --> 00:57:29,000
+Now, I don't I would don't want to subject this experiment somebody else's kids to this.
+
+326
+00:57:30,000 --> 00:57:35,000
+But I wanted to take that risk and see exactly how does that manifest.
+
+327
+00:57:35,000 --> 00:57:40,000
+Probably someday she will blame me for the way it turns out.
+
+328
+00:57:40,000 --> 00:57:44,000
+There will be always everything has a good side and a bad side.
+
+329
+00:57:44,000 --> 00:57:47,000
+So probably she will find out a reason to be mad at me.
+
+330
+00:57:47,000 --> 00:57:53,000
+But I'm kind of I'm not too mad at myself for trying this out or figuring that part out.
+
+331
+00:57:53,000 --> 00:57:56,000
+She's still like I'm still running things.
+
+332
+00:57:56,000 --> 00:58:02,000
+I hopefully none of those things like would put her in a massive disadvantage in her life.
+
+333
+00:58:02,000 --> 00:58:06,000
+But yeah, that's pretty much where I draw the boundary.
+
+334
+00:58:06,000 --> 00:58:11,000
+Would I is it something that can be compensated after.
+
+335
+00:58:11,000 --> 00:58:15,000
+So that's how it has been so far.
+
+336
+00:58:15,000 --> 00:58:18,000
+Yeah, go ahead.
+
+337
+00:58:18,000 --> 00:58:22,000
+If you have some questions.
+
+338
+00:58:22,000 --> 00:58:25,000
+Just just some parallel observations, but that can wait.
+
+339
+00:58:25,000 --> 00:58:30,000
+OK, so I like so the entire ethical dilemma.
+
+340
+00:58:30,000 --> 00:58:33,000
+I understand that. I don't know how else to put it.
+
+341
+00:58:33,000 --> 00:58:37,000
+And I don't know how else to like I can let it go.
+
+342
+00:58:37,000 --> 00:58:39,000
+I can not run an experiment.
+
+343
+00:58:39,000 --> 00:58:42,000
+Nobody would be better for it.
+
+344
+00:58:42,000 --> 00:58:49,000
+So I don't know whether there's one good answer there.
+
+345
+00:58:49,000 --> 00:58:58,000
+With that said, it does seem like if you can't delay your language processing as well as visual processing,
+
+346
+00:58:58,000 --> 00:59:04,000
+and I did work on that as well, visual processing is not like tying up your eyes,
+
+347
+00:59:04,000 --> 00:59:10,000
+but the number of abstraction layers on visual processing like D and B,
+
+348
+00:59:10,000 --> 00:59:15,000
+the mirror ring identifying them as different.
+
+349
+00:59:15,000 --> 00:59:18,000
+If you can delay those kind of abstractions as well,
+
+350
+00:59:18,000 --> 00:59:23,000
+you actually have more bandwidth to process like learn other things faster.
+
+351
+00:59:23,000 --> 00:59:25,000
+You will eventually like learn that as well.
+
+352
+00:59:25,000 --> 00:59:34,000
+But what will happen is that more core neurons would be involved into like forming the baseline of the realities
+
+353
+00:59:34,000 --> 00:59:41,000
+and the baseline principles itself than just remembering solid facts, which is what ends up happening.
+
+354
+00:59:41,000 --> 00:59:47,000
+And once that ends up happening, like so what I mean by the core neurons,
+
+355
+00:59:47,000 --> 00:59:51,000
+so you see the hippocampus, the midbrain part, right?
+
+356
+00:59:51,000 --> 00:59:55,000
+So how do I go on about this much longer discussion?
+
+357
+00:59:55,000 --> 01:00:00,000
+OK, so if you consider in a very short form, there are three parts to our brain,
+
+358
+01:00:00,000 --> 01:00:04,000
+the reptile brain, the mammalian brain and the homo sapiens brain,
+
+359
+01:00:04,000 --> 01:00:08,000
+like the wrinkly part, the neocortex and stuff.
+
+360
+01:00:08,000 --> 01:00:15,000
+So the reptile brain, that part understands pain and fear,
+
+361
+01:00:15,000 --> 01:00:23,000
+disgust, sorry, not disgust, pain and fear and pleasure and like what's the opposite of pain?
+
+362
+01:00:23,000 --> 01:00:25,000
+Play, play, sorry, that's pleasure.
+
+363
+01:00:25,000 --> 01:00:29,000
+And what's the opposite of fear?
+
+364
+01:00:29,000 --> 01:00:35,000
+I forgot, but courage, courage.
+
+365
+01:00:35,000 --> 01:00:39,000
+I mean, it's like an absence of the drive, yeah, the drive essentially.
+
+366
+01:00:39,000 --> 01:00:47,000
+So that part is essentially most of the most of it is and the body functions,
+
+367
+01:00:47,000 --> 01:00:51,000
+like running heart at the right pace, et cetera, et cetera, breathing at the right.
+
+368
+01:00:51,000 --> 01:00:56,000
+Those things are happening from that small brain side of things, right?
+
+369
+01:00:56,000 --> 01:01:02,000
+The midbrain is the one that the hippocampus and the how do I show this?
+
+370
+01:01:02,000 --> 01:01:07,000
+Like somewhere around this, like if we cross that through or maybe look up the hippocampus,
+
+371
+01:01:07,000 --> 01:01:13,000
+the shape of it, we end up using it as a memory storage.
+
+372
+01:01:13,000 --> 01:01:17,000
+But it's not really a memory storage.
+
+373
+01:01:17,000 --> 01:01:22,000
+It is actually the map reduce section of the brain.
+
+374
+01:01:22,000 --> 01:01:25,000
+You can use it in a multiple different ways.
+
+375
+01:01:25,000 --> 01:01:35,000
+Anything that goes, you can put it as like map and reduce the actual the programmatic way of doing it.
+
+376
+01:01:35,000 --> 01:01:37,000
+Hippocampus will do that.
+
+377
+01:01:37,000 --> 01:01:46,000
+So you can not only remember facts, you can also remember methodologies itself or concepts itself.
+
+378
+01:01:46,000 --> 01:01:55,000
+So when we say why somebody is really good at a factory worker, right?
+
+379
+01:01:55,000 --> 01:01:59,000
+A factory worker, what would be their skill?
+
+380
+01:01:59,000 --> 01:02:10,000
+That hippocampus would be really good at doing that one thing over and over the particular move they are making to make more of the one thing that they can do.
+
+381
+01:02:10,000 --> 01:02:17,000
+And it will it will figure out a way to release dopamine and endorphin for doing that.
+
+382
+01:02:17,000 --> 01:02:23,000
+It will figure it will figure out to seek pleasure out of doing that thing over and over.
+
+383
+01:02:23,000 --> 01:02:26,000
+But for some people, that would not be the case for them.
+
+384
+01:02:26,000 --> 01:02:28,000
+They would figure out, I see.
+
+385
+01:02:28,000 --> 01:02:39,000
+So if I have these many people in this particular section of the factory that is just barely optimal amount of people that I need for that.
+
+386
+01:02:39,000 --> 01:02:44,000
+So if I put some of those people that are not really into it, they're causing more problems.
+
+387
+01:02:44,000 --> 01:02:54,000
+But put them into the like overseer role that might actually overall improve my output because now they're not problem of trouble makers.
+
+388
+01:02:54,000 --> 01:02:57,000
+They are now. So what will happen end up happening?
+
+389
+01:02:57,000 --> 01:03:04,000
+That guy will end up becoming the manager of the people who run the company or run the factory, those kind of ways.
+
+390
+01:03:04,000 --> 01:03:07,000
+That's what kind of ends up happening.
+
+391
+01:03:07,000 --> 01:03:10,000
+People who see more concepts and stuff.
+
+392
+01:03:10,000 --> 01:03:12,000
+How do you map, reduce and put them?
+
+393
+01:03:12,000 --> 01:03:14,000
+Some people in London tracks drivers.
+
+394
+01:03:14,000 --> 01:03:20,000
+For them, it's the spatial geospatial location itself is the thing that they need to store.
+
+395
+01:03:20,000 --> 01:03:23,000
+So all those things actually basically go are going into the hippocampus.
+
+396
+01:03:27,000 --> 01:03:32,000
+The reason I'm trying to say this is that memory, you can trade off on memory as well.
+
+397
+01:03:32,000 --> 01:03:34,000
+If you don't want to.
+
+398
+01:03:34,000 --> 01:03:39,000
+So hippocampus is like the processor of your computer in a sense.
+
+399
+01:03:39,000 --> 01:03:46,000
+It can have higher resolution, but lower number of and lower frequency of data.
+
+400
+01:03:46,000 --> 01:03:49,000
+So your brain waves.
+
+401
+01:03:49,000 --> 01:03:57,000
+That's the reason memory constellation happen when you're sleeping is because it's actually running the neurons through the exact set of drums.
+
+402
+01:03:57,000 --> 01:04:02,000
+That will happen in order to recall that memory.
+
+403
+01:04:02,000 --> 01:04:07,000
+So brain waves are basically the clock signals for your brain.
+
+404
+01:04:07,000 --> 01:04:09,000
+They're happening all the time.
+
+405
+01:04:09,000 --> 01:04:16,000
+And if you want to recall something, you're basically training your brain as a particular set of dance to recall that information back.
+
+406
+01:04:16,000 --> 01:04:24,000
+While you're sleeping, your hippocampus and the midbrain part of things, they're basically consolidating that dance to associate with something.
+
+407
+01:04:24,000 --> 01:04:27,000
+It doesn't mean the older things are lost.
+
+408
+01:04:27,000 --> 01:04:37,000
+It's basically you're overriding, overwriting sometimes, which is why sometimes in the dissociative set, you can find out memories that are that you didn't think even existed anymore.
+
+409
+01:04:37,000 --> 01:04:49,000
+So anyways, whereas the front, this part of the brain is better at lower resolution, high frequency, like the systolic array, kind of like basically the tensor processors.
+
+410
+01:04:49,000 --> 01:04:51,000
+Right.
+
+411
+01:04:51,000 --> 01:04:53,000
+Like GPUs are tensor processors.
+
+412
+01:04:53,000 --> 01:05:02,000
+It's doing more processing, but it does not have the precision level is basically like eight bit, not 32, not 64.
+
+413
+01:05:02,000 --> 01:05:16,000
+Whereas the internal part that is 64, which brings me back to the initial topic that I was trying to say is that if you end up using those high precision neurons for just about remembering location data,
+
+414
+01:05:16,000 --> 01:05:28,000
+just about remembering old memories, et cetera, then they're being spent like they're being spent for something that that's not the highest potential that you can use them for.
+
+415
+01:05:28,000 --> 01:05:36,000
+Now, it is not that easy to either reshape or repurpose those memories.
+
+416
+01:05:36,000 --> 01:05:42,000
+You have to actually actively have to start forgetting things in order to train them or bring them up.
+
+417
+01:05:42,000 --> 01:05:45,000
+I don't need to remember the console, like stop solid details.
+
+418
+01:05:45,000 --> 01:05:50,000
+I just need to know the level of abstractions that goes on top of it.
+
+419
+01:05:50,000 --> 01:05:54,000
+And what is the fundamental theory that holds all of those together?
+
+420
+01:05:54,000 --> 01:06:05,000
+If you can now remember that you can put more of those things and it creates the fundamental layer that if a child from the childhood, if you if somebody starts starts doing that.
+
+421
+01:06:05,000 --> 01:06:08,000
+And if that becomes optimization factor, by the way,
+
+422
+01:06:08,000 --> 01:06:17,000
+it is insane how well you can teach your own brain to seek pleasure in doing something that it decided that it's pleasurable.
+
+423
+01:06:17,000 --> 01:06:19,000
+Like it decided it's pleasurable.
+
+424
+01:06:19,000 --> 01:06:21,000
+Now, it will decide when that happens.
+
+425
+01:06:21,000 --> 01:06:30,000
+I need to release endorphin to dopamine to seek it and endorphin when that happens.
+
+426
+01:06:30,000 --> 01:06:35,000
+If that happens, anything in the world can be pleasurable to us, too.
+
+427
+01:06:35,000 --> 01:06:48,000
+So for somebody who finds interest in doing maths as a class four student of higher education, there's nothing holding you back.
+
+428
+01:06:48,000 --> 01:06:52,000
+You can basically at that point, you're becoming a math machine.
+
+429
+01:06:52,000 --> 01:07:02,000
+Like if you have the right books and basically the pointers in front of you, you can start breaking grounds.
+
+430
+01:07:02,000 --> 01:07:05,000
+Usually that's where the blocker comes in.
+
+431
+01:07:05,000 --> 01:07:07,000
+Usually you're not allowed to.
+
+432
+01:07:07,000 --> 01:07:11,000
+Usually there's no like preset ways to go on about it.
+
+433
+01:07:11,000 --> 01:07:13,000
+Most people do not even try.
+
+434
+01:07:13,000 --> 01:07:15,000
+We want to be a more rounded person.
+
+435
+01:07:15,000 --> 01:07:17,000
+People, I don't see the problem.
+
+436
+01:07:17,000 --> 01:07:26,000
+The point is, if we start recognizing those factors and allow people who are like who already have figured out most of the times what you're talking about,
+
+437
+01:07:26,000 --> 01:07:32,000
+like allowing kids to build their own curriculum, allowing like letting them figure out what they're interested about, etc.
+
+438
+01:07:32,000 --> 01:07:35,000
+Sometimes kids do find that out.
+
+439
+01:07:35,000 --> 01:07:37,000
+Somebody wants to draw.
+
+440
+01:07:37,000 --> 01:07:38,000
+Somebody wants to do maths.
+
+441
+01:07:38,000 --> 01:07:41,000
+Somebody wants to translate books, whatever.
+
+442
+01:07:41,000 --> 01:07:42,000
+I don't know.
+
+443
+01:07:42,000 --> 01:07:43,000
+That's not the point.
+
+444
+01:07:43,000 --> 01:07:49,000
+The point is, if somebody has that interest, use that, utilize that as the driving factor.
+
+445
+01:07:49,000 --> 01:07:55,000
+In fact, you can use that as something as a treat.
+
+446
+01:07:55,000 --> 01:08:01,000
+Hey, I want to create you a more rounded person anyway, so you have to do the other thing as well.
+
+447
+01:08:01,000 --> 01:08:04,000
+But if you do this, you know what?
+
+448
+01:08:04,000 --> 01:08:08,000
+At evening, you get to do more maths.
+
+449
+01:08:08,000 --> 01:08:10,000
+I'll give you a class 11's book.
+
+450
+01:08:10,000 --> 01:08:14,000
+Now, it's a win-win condition in both ways.
+
+451
+01:08:14,000 --> 01:08:24,000
+We are really bad at, like traditional academic, like entire schooling mechanism is really, really, really bad at doing just that.
+
+452
+01:08:24,000 --> 01:08:28,000
+In fact, it works the opposite way.
+
+453
+01:08:28,000 --> 01:08:37,000
+It doesn't allow the learner to decide what they want to learn, like at all.
+
+454
+01:08:37,000 --> 01:08:40,000
+Yeah, sorry, rant over.
+
+455
+01:08:40,000 --> 01:08:42,000
+No, it wasn't a rant. It was beautiful.
+
+456
+01:08:42,000 --> 01:08:53,000
+In fact, like what I meant when you said I showed this, I was like, that's the amount of time I have so you can continue.
+
+457
+01:08:53,000 --> 01:08:59,000
+And again, I mean, this is what happens when we discuss.
+
+458
+01:08:59,000 --> 01:09:07,000
+So talking of the endorphin and things like right now, my brain has always identified that discussions with you are pleasurable.
+
+459
+01:09:07,000 --> 01:09:10,000
+So it tries to optimize for that situation.
+
+460
+01:09:10,000 --> 01:09:17,000
+When that happens, I went into this discussion today and feeling low because, you know, I will be alone.
+
+461
+01:09:17,000 --> 01:09:21,000
+I knew that once I step into it, it's going to work out.
+
+462
+01:09:21,000 --> 01:09:27,000
+I sat with trying to write the topics, trying to do some pre-work as like it's OK, we'll figure it out.
+
+463
+01:09:27,000 --> 01:09:34,000
+So that's like the brain saying that do not, do not give up on this.
+
+464
+01:09:34,000 --> 01:09:42,000
+But at the risk of validating everything you said so far, especially in the context of Rai,
+
+465
+01:09:42,000 --> 01:09:49,000
+If you I mean, I'd like to go into a few things here, mostly relating to my experience around this.
+
+466
+01:09:49,000 --> 01:09:51,000
+Do you think we can afford to have the time?
+
+467
+01:09:51,000 --> 01:09:53,000
+I have time.
+
+468
+01:09:53,000 --> 01:10:03,000
+So I had a very peculiar childhood in that sense.
+
+469
+01:10:03,000 --> 01:10:08,000
+It was a very big mixed bag, except I did not have this.
+
+470
+01:10:08,000 --> 01:10:16,000
+I did not have parents who looked at bringing somebody up in this way.
+
+471
+01:10:16,000 --> 01:10:21,000
+So a lot of these are take a shaker for me.
+
+472
+01:10:21,000 --> 01:10:29,000
+But that take a shaker, like when I look back, I realized that these are the boundaries that they did not need to be strict.
+
+473
+01:10:29,000 --> 01:10:38,000
+The areas where they were strict, the areas where I was not allowed to do certain things, that just these factors moved around.
+
+474
+01:10:38,000 --> 01:10:46,000
+So, you know, when I said that I learned to speak late, I don't remember I having a problem with that.
+
+475
+01:10:46,000 --> 01:10:52,000
+I remember everybody else around me having a problem with that.
+
+476
+01:10:53,000 --> 01:10:59,000
+But so what I'm trying to say is that me growing up, I was this utterly confused kid.
+
+477
+01:10:59,000 --> 01:11:09,000
+Because conflicting expectations from parents, from neighbors, from school and certain places where I did well from their excessive expectation.
+
+478
+01:11:09,000 --> 01:11:12,000
+So they were all blurred up.
+
+479
+01:11:12,000 --> 01:11:19,000
+But if I have to go back and redo, I would want to redo it in exactly the same way that you talked of.
+
+480
+01:11:19,000 --> 01:11:22,000
+Like I would rather that my parents knew this, you know.
+
+481
+01:11:22,000 --> 01:11:31,000
+So that's what I meant that at the risk of validating you, if I was the child, the pain of my childhood that I carry on.
+
+482
+01:11:31,000 --> 01:11:39,000
+I see myself feeling calm about the process that you talked of bringing up right.
+
+483
+01:11:39,000 --> 01:11:43,000
+And that is what I meant by the risk of validating you.
+
+484
+01:11:43,000 --> 01:11:54,000
+Because if I felt physically calm, if I were to place myself in that situation and feel that, OK, I don't see a friction because I did tradeoffs.
+
+485
+01:11:54,000 --> 01:11:57,000
+And that is what I wanted to come to, that I did tradeoffs.
+
+486
+01:11:57,000 --> 01:12:04,000
+And one of my earliest tradeoffs was, I guess, you know, we keep on coming back to maxims.
+
+487
+01:12:04,000 --> 01:12:08,000
+One of my earliest maxims in life was it's OK to forget.
+
+488
+01:12:08,000 --> 01:12:12,000
+It's never OK to stop thinking, to stop analyzing.
+
+489
+01:12:13,000 --> 01:12:18,000
+And so true. Yeah, 100 percent.
+
+490
+01:12:18,000 --> 01:12:21,000
+I'd rather forget and recalculate.
+
+491
+01:12:21,000 --> 01:12:33,000
+So I was that kid who would finish exercise copies after exercise copies of maths at a certain point, like the age of I think class two to five ish.
+
+492
+01:12:33,000 --> 01:12:36,000
+Something happened after class five. I'll tell you that later.
+
+493
+01:12:37,000 --> 01:12:47,000
+But the two to five, I finished exercise book after exercise book and I never remembered where I kept them because I did not need them because I was never going to look back at them.
+
+494
+01:12:47,000 --> 01:12:51,000
+What was important is at that moment, I had solved something.
+
+495
+01:12:51,000 --> 01:12:52,000
+I can solve it.
+
+496
+01:12:52,000 --> 01:12:53,000
+I can solve it.
+
+497
+01:12:53,000 --> 01:12:57,000
+Another time, five times it comes, I can solve it.
+
+498
+01:12:57,000 --> 01:12:59,000
+Like with a high amount of certainty. That's what matters.
+
+499
+01:12:59,000 --> 01:13:02,000
+Why do you have to remember anyway in that case?
+
+500
+01:13:02,000 --> 01:13:05,000
+And my favorite kind of maths were proving the formulas.
+
+501
+01:13:08,000 --> 01:13:18,000
+Like where I was like, OK, this is how people had come to this formula, especially in algebra that we were taught at that point, the classic case in our text.
+
+502
+01:13:18,000 --> 01:13:21,000
+And like, OK, this is what is happening.
+
+503
+01:13:21,000 --> 01:13:30,000
+And just going back at it, it was almost like rereading a story, seeing the characters form, even though you know what happens in the end.
+
+504
+01:13:30,000 --> 01:13:43,000
+The formula for me was like knowing what happens at the end of the story, but I will read it, that story anyway, which is also why I keep on maintaining till date that I am never bothered by spoilers.
+
+505
+01:13:45,000 --> 01:13:58,000
+I am never bothered by spoilers because I know there is a certain end state that you're building up to, certain formulas, so to say, the summarized theorized compressed version of what there can be.
+
+506
+01:14:00,000 --> 01:14:15,000
+Now, very interestingly, that maxim that it's OK to forget has been one of the most conflicting things in my life growing up because everybody around me had the exact opposite view.
+
+507
+01:14:15,000 --> 01:14:30,000
+So I criminalized myself. I went into, so this is where you know the conflicts in personality kind of emerge, that I was constantly trying to be that boy that everybody else wanted me to be.
+
+508
+01:14:30,000 --> 01:14:38,000
+Whereas behind the scenes, I was always forgetting things. So what did I cope with? How did I cope with that? I built knowledge systems.
+
+509
+01:14:38,000 --> 01:14:57,000
+I was like, guess what? I can forget, but I can write down my notes in a way that I can get back to that. And of course, Einstein's that famous story, whether true or not, validated it, that my driver, like Einstein's driver saying that even my driver can answer that, that I don't need to remember facts.
+
+510
+01:14:57,000 --> 01:15:08,000
+I used to think that it's a great big thing, but it's that in truth, I could never come out to anybody and say that I forget. It was not acceptable.
+
+511
+01:15:08,000 --> 01:15:26,000
+This makes me really sad because not only that this is the case for one kid where this has happened, this is happening at a large scale, at a mass scale.
+
+512
+01:15:26,000 --> 01:15:39,000
+A lot of those people, a lot of those kids would be so broken that they would not even be able to recall it the way that you are doing. They will be that far broken.
+
+513
+01:15:39,000 --> 01:15:57,000
+Yeah, so then that maxim evolved to it's okay to forget. It's never okay to stop thinking and analyzing, but it's critically important to remember certain things so as not to repeat the same things again.
+
+514
+01:15:57,000 --> 01:16:06,000
+When that happened, that was the knowledge base forming part. And I have a very interesting...
+
+515
+01:16:06,000 --> 01:16:15,000
+By the way, before that, maxims are the opposite spectrum of memory itself, like the solid memory that I was talking about.
+
+516
+01:16:15,000 --> 01:16:16,000
+It is, it is.
+
+517
+01:16:16,000 --> 01:16:21,000
+So once you start remembering the maxims, that's when you don't want to remember the details.
+
+518
+01:16:22,000 --> 01:16:33,000
+So again, which is why I cannot back this up with specific instances always. In very rare cases, I can give a specific anecdote, but in mostly this is the reason I speak big.
+
+519
+01:16:33,000 --> 01:16:43,000
+And I have had partners, I have had friends who have told me that everything you say seems like a lie, seems made up. It is made up.
+
+520
+01:16:43,000 --> 01:16:45,000
+That's the sensor problem.
+
+521
+01:16:45,000 --> 01:16:47,000
+It's not lie. It is made up.
+
+522
+01:16:47,000 --> 01:16:54,000
+Sensors want solid proof with receipt to show up.
+
+523
+01:16:54,000 --> 01:17:03,000
+The world has enough resolution that you cannot, can never capture it to the highest amount of fullest resolution.
+
+524
+01:17:03,000 --> 01:17:06,000
+You don't have enough memory for it. Nobody does.
+
+525
+01:17:06,000 --> 01:17:18,000
+So if by trying to remember things, you're subjecting yourself to a shallow view of the world or reality or only a part that you can bring or keep the receipts off.
+
+526
+01:17:18,000 --> 01:17:34,000
+Whereas if you start building the maxims, you can apply the principles like exactly the way you can apply operators on particular kind of equations, a gamma function, how a gamma function is solved.
+
+527
+01:17:34,000 --> 01:17:40,000
+You can say that if I can do it this way, I can just say that, OK, this is just half tea and your salt.
+
+528
+01:17:40,000 --> 01:17:44,000
+I don't have to do it all over again. I don't have to show the steps.
+
+529
+01:17:44,000 --> 01:17:49,000
+If you do this, the concept boils down to this.
+
+530
+01:17:49,000 --> 01:18:07,000
+And that concept is when but it makes a lot of people very, very uncomfortable, uneasy, the ones who are good at and have learned in that system to remember solid details with the receipts.
+
+531
+01:18:07,000 --> 01:18:11,000
+I have not found a solution to this problem.
+
+532
+01:18:11,000 --> 01:18:23,000
+The only solution that I can think of is just you need to not you need to even I need to like reduce that exposure because that that interaction does not go well.
+
+533
+01:18:23,000 --> 01:18:27,000
+I was coming to that. I was coming to that in many sense.
+
+534
+01:18:27,000 --> 01:18:31,000
+I feel like I'm five years old.
+
+535
+01:18:31,000 --> 01:18:42,000
+So I'm pretty much in some sense like because, you know, of the amount of learning and then the unlearning and then coping with it and then suddenly hitting this.
+
+536
+01:18:42,000 --> 01:18:56,000
+A certain level of clarity where the moment it gets back to that, you know, it's OK to forget as a very tragic aspect in relationships.
+
+537
+01:18:56,000 --> 01:19:04,000
+Because I would then evaluate relationships under the same parameters.
+
+538
+01:19:04,000 --> 01:19:07,000
+And I'm not just talking of romantic relationships.
+
+539
+01:19:07,000 --> 01:19:11,000
+I'm talking of any casual friendship. I'm talking of hooking up with somebody.
+
+540
+01:19:11,000 --> 01:19:16,000
+I'm talking of a teacher. I'm talking of a manager.
+
+541
+01:19:16,000 --> 01:19:25,000
+And I have till date never worked with a manager and never work nicely with a manager who insisted that I remember things.
+
+542
+01:19:25,000 --> 01:19:34,000
+I worked very well with managers who have been to who in who allowed me the space to think.
+
+543
+01:19:34,000 --> 01:19:38,000
+And even even if I have approached something previously, go over it again.
+
+544
+01:19:38,000 --> 01:19:42,000
+But anyway, I was I was trying to talk of something very specific.
+
+545
+01:19:42,000 --> 01:19:48,000
+And I think it's like finally in life, I have that clarity of I feel like that is past.
+
+546
+01:19:48,000 --> 01:19:57,000
+So right now, even though it's it saddens, it is a past thing because I feel like I have understood how can I not fall into that trap again.
+
+547
+01:19:57,000 --> 01:20:01,000
+So sort of becoming your own parent of sorts, allowing building that space.
+
+548
+01:20:01,000 --> 01:20:07,000
+And one of the fundamental aspects of it is reducing exposure.
+
+549
+01:20:07,000 --> 01:20:13,000
+It is choosing very and I always used to think that why am I bad at socializing?
+
+550
+01:20:13,000 --> 01:20:16,000
+Because I always say everybody is supposed to be good at socializing.
+
+551
+01:20:16,000 --> 01:20:21,000
+When I went into the concept of networking, why the hell am I bad at networking?
+
+552
+01:20:21,000 --> 01:20:26,000
+And then before you know it, I have a bunch of people I'm collaborating with.
+
+553
+01:20:26,000 --> 01:20:28,000
+Hang on. Where did this come from?
+
+554
+01:20:28,000 --> 01:20:37,000
+So a lot of that analysis has come together in this very cute childhood memory of my parents insisting that I learn to paint.
+
+555
+01:20:37,000 --> 01:20:42,000
+You know, as every Bengali kid, you have a drawing teacher.
+
+556
+01:20:42,000 --> 01:20:44,000
+I had a drawing teacher.
+
+557
+01:20:44,000 --> 01:20:53,000
+Looking back, I realized that was the only queer, non gender affirming person in the area that I was allowed contact with.
+
+558
+01:20:53,000 --> 01:20:57,000
+And I was shit at drawing.
+
+559
+01:20:57,000 --> 01:20:59,000
+But you enjoyed going there.
+
+560
+01:20:59,000 --> 01:21:07,000
+I enjoyed going there because that person never critiqued exactly.
+
+561
+01:21:07,000 --> 01:21:10,000
+My trees looked like lollipops.
+
+562
+01:21:13,000 --> 01:21:16,000
+Hang on a second. I might actually have just the thing.
+
+563
+01:21:16,000 --> 01:21:19,000
+Okay, go on. It will take me a while to find out.
+
+564
+01:21:19,000 --> 01:21:23,000
+So there was something happening.
+
+565
+01:21:23,000 --> 01:21:25,000
+My parents were very upset with that teacher.
+
+566
+01:21:25,000 --> 01:21:30,000
+You can't learn anything. What is your son doing? What is happening?
+
+567
+01:21:30,000 --> 01:21:33,000
+I go to a drawing competition.
+
+568
+01:21:33,000 --> 01:21:36,000
+I think I had told you that was one of my favorite anecdotes.
+
+569
+01:21:37,000 --> 01:21:39,000
+I draw a mango.
+
+570
+01:21:39,000 --> 01:21:41,000
+Okay, I'm like four or five years old.
+
+571
+01:21:41,000 --> 01:21:43,000
+I'm sitting on the floor.
+
+572
+01:21:43,000 --> 01:21:46,000
+My whole body is shaking.
+
+573
+01:21:46,000 --> 01:21:49,000
+I'm drawing there.
+
+574
+01:21:49,000 --> 01:21:51,000
+I've been drawing for half an hour.
+
+575
+01:21:51,000 --> 01:21:53,000
+What does it mean?
+
+576
+01:21:53,000 --> 01:21:58,000
+I'm like, this is conceptually a mango.
+
+577
+01:21:58,000 --> 01:22:01,000
+So what does one do?
+
+578
+01:22:01,000 --> 01:22:07,000
+The brilliant mind in me labeled it M-A-N-G-O.
+
+579
+01:22:07,000 --> 01:22:10,000
+Just in case you don't know, this is a mango.
+
+580
+01:22:10,000 --> 01:22:17,000
+So what happened as a result of that was I realized that why I liked going,
+
+581
+01:22:17,000 --> 01:22:19,000
+this is looking back of course,
+
+582
+01:22:19,000 --> 01:22:28,000
+that why I liked the drawing class while I was in there was I am a terribly visual thinker.
+
+583
+01:22:29,000 --> 01:22:35,000
+But my concepts, my visual concepts don't align with the real world.
+
+584
+01:22:35,000 --> 01:22:40,000
+They are at best gross approximations because unless very important,
+
+585
+01:22:40,000 --> 01:22:44,000
+I do not care about the final details.
+
+586
+01:22:44,000 --> 01:22:49,000
+Because to me, it seems that the lollipop is sufficiently a tree to me.
+
+587
+01:22:49,000 --> 01:22:54,000
+It can convey the tree-ness of a concept.
+
+588
+01:22:55,000 --> 01:22:58,000
+In fact, that's the concept of stick figure.
+
+589
+01:22:58,000 --> 01:23:02,000
+People who do not enjoy stick figure commons.
+
+590
+01:23:02,000 --> 01:23:08,000
+That's why when I hit flowchart, computing books,
+
+591
+01:23:08,000 --> 01:23:11,000
+these people don't know how to draw, but they're drawing.
+
+592
+01:23:11,000 --> 01:23:13,000
+They're drawing everything.
+
+593
+01:23:13,000 --> 01:23:15,000
+And they're like, this means decision.
+
+594
+01:23:15,000 --> 01:23:17,000
+This means storage.
+
+595
+01:23:17,000 --> 01:23:20,000
+No storage looks like this.
+
+596
+01:23:20,000 --> 01:23:23,000
+Tell me where a storage looks like this, right?
+
+597
+01:23:23,000 --> 01:23:24,000
+Exactly.
+
+598
+01:23:24,000 --> 01:23:26,000
+Where does the decision do this?
+
+599
+01:23:26,000 --> 01:23:31,000
+They just mean this side, this side, this side, this side, this side.
+
+600
+01:23:31,000 --> 01:23:34,000
+That's the utility of it.
+
+601
+01:23:34,000 --> 01:23:37,000
+And it's like, this is how I was drawing all along.
+
+602
+01:23:37,000 --> 01:23:38,000
+So let me just draw.
+
+603
+01:23:38,000 --> 01:23:41,000
+And since then, I think in flowcharts.
+
+604
+01:23:41,000 --> 01:23:44,000
+I conceptualize using flowcharts.
+
+605
+01:23:44,000 --> 01:23:48,000
+And I draw the most weirdest drawings.
+
+606
+01:23:48,000 --> 01:23:51,000
+But they still convey enough information to me.
+
+607
+01:23:51,000 --> 01:23:54,000
+So there are two things that you're saying.
+
+608
+01:23:54,000 --> 01:24:01,000
+But what I'm trying to connect back to is I chose that lack of granularity
+
+609
+01:24:01,000 --> 01:24:05,000
+at a very early age over choosing for the abstraction,
+
+610
+01:24:05,000 --> 01:24:09,000
+deciding to focus at an abstract level.
+
+611
+01:24:09,000 --> 01:24:13,000
+But also, in many ways, it's like going at warp speed.
+
+612
+01:24:13,000 --> 01:24:15,000
+I chose my destination.
+
+613
+01:24:15,000 --> 01:24:17,000
+My destination was kind of far.
+
+614
+01:24:17,000 --> 01:24:22,000
+So my option was beyond impulse drive, reach there in 200 years,
+
+615
+01:24:22,000 --> 01:24:28,000
+observe everything that is in the path, or go there at warp speed,
+
+616
+01:24:28,000 --> 01:24:30,000
+at which point the stars are just zooming past,
+
+617
+01:24:30,000 --> 01:24:33,000
+but the zooming past of stars that field itself is such a brilliant view to me.
+
+618
+01:24:33,000 --> 01:24:40,000
+So very recently, I had to convince somebody of a particular analogy
+
+619
+01:24:41,000 --> 01:24:49,000
+about this particular, as in the trade of how you make it.
+
+620
+01:24:49,000 --> 01:24:53,000
+The person was asking the question.
+
+621
+01:24:53,000 --> 01:24:56,000
+The guy is super smart.
+
+622
+01:24:56,000 --> 01:25:04,000
+But that sensory has to be solid sensory receipt for me to grab on to,
+
+623
+01:25:04,000 --> 01:25:09,000
+otherwise I'm at a loss of, I cannot go into the nebulous territory.
+
+624
+01:25:09,000 --> 01:25:12,000
+That kind of thing, right?
+
+625
+01:25:12,000 --> 01:25:16,000
+So when I make some predictions,
+
+626
+01:25:16,000 --> 01:25:22,000
+I'm saying that something like this kind of thing is going to happen.
+
+627
+01:25:22,000 --> 01:25:25,000
+Their problem is like, how can you know?
+
+628
+01:25:25,000 --> 01:25:27,000
+How can you possibly know?
+
+629
+01:25:27,000 --> 01:25:31,000
+There is no way to know that.
+
+630
+01:25:31,000 --> 01:25:37,000
+And my point was that is because you enjoy being in the midst.
+
+631
+01:25:37,000 --> 01:25:43,000
+You enjoy solving the maze as a player playing the maze.
+
+632
+01:25:43,000 --> 01:25:48,000
+What you're not understanding, not realizing is that
+
+633
+01:25:48,000 --> 01:25:52,000
+when stuck with the exact situation, when it hits me,
+
+634
+01:25:52,000 --> 01:25:57,000
+I immediately disqualify myself as a player,
+
+635
+01:25:57,000 --> 01:26:00,000
+take myself off to a bird's eye view,
+
+636
+01:26:00,000 --> 01:26:05,000
+and now that how you possibly know is not a question to me anymore.
+
+637
+01:26:05,000 --> 01:26:06,000
+What did it cost?
+
+638
+01:26:06,000 --> 01:26:08,000
+Everything. I'm not a player anymore.
+
+639
+01:26:08,000 --> 01:26:11,000
+I cannot get the same enjoyment of solving the problem
+
+640
+01:26:11,000 --> 01:26:15,000
+the way you would do the sense of element of surprise,
+
+641
+01:26:15,000 --> 01:26:17,000
+whether I should go this way or that way.
+
+642
+01:26:17,000 --> 01:26:19,000
+That element of surprise goes away.
+
+643
+01:26:19,000 --> 01:26:23,000
+But this is not confusing to me anymore.
+
+644
+01:26:23,000 --> 01:26:25,000
+Now I can clearly see.
+
+645
+01:26:25,000 --> 01:26:28,000
+In fact, that's what I'm good at.
+
+646
+01:26:28,000 --> 01:26:30,000
+That's exactly what I'm good at.
+
+647
+01:26:30,000 --> 01:26:34,000
+It took me quite a while to explain the concept like this,
+
+648
+01:26:34,000 --> 01:26:37,000
+because if you see that explanation itself is a nameless concept.
+
+649
+01:26:37,000 --> 01:26:39,000
+I am not physically moving up.
+
+650
+01:26:39,000 --> 01:26:41,000
+I'm just trying to convince the person that,
+
+651
+01:26:41,000 --> 01:26:45,000
+hey, there are different ways to look at it.
+
+652
+01:26:47,000 --> 01:26:50,000
+Sometimes communicating that becomes really, really difficult,
+
+653
+01:26:50,000 --> 01:26:52,000
+really, really hard,
+
+654
+01:26:52,000 --> 01:26:57,000
+and the challenge there is over 90% people
+
+655
+01:26:57,000 --> 01:27:01,000
+only wants to see the world that
+
+656
+01:27:01,000 --> 01:27:08,000
+the rest 10% are usually weird, awkward, secluded introverts
+
+657
+01:27:08,000 --> 01:27:13,000
+that you have to go and find out to make that friendship.
+
+658
+01:27:13,000 --> 01:27:16,000
+Otherwise, you cannot find them out.
+
+659
+01:27:16,000 --> 01:27:18,000
+They would exist in some shadows,
+
+660
+01:27:18,000 --> 01:27:22,000
+knowing that nobody else is like me, nobody else understands me.
+
+661
+01:27:22,000 --> 01:27:25,000
+But that's what struck me that,
+
+662
+01:27:25,000 --> 01:27:28,000
+hey, the world is run by people who are really, really smart,
+
+663
+01:27:28,000 --> 01:27:29,000
+but they have...
+
+664
+01:27:29,000 --> 01:27:35,000
+So Star Trek had an episode about people who have exactly this kind of...
+
+665
+01:27:35,000 --> 01:27:39,000
+So Shaka, when the towers, when the walls fell...
+
+666
+01:27:39,000 --> 01:27:41,000
+Shaka, when the walls fell.
+
+667
+01:27:41,000 --> 01:27:44,000
+Right? So if you think about that, what is it?
+
+668
+01:27:44,000 --> 01:27:48,000
+That is still date marked as one of my most favorite Star Trek episodes ever.
+
+669
+01:27:48,000 --> 01:27:50,000
+And on that episode,
+
+670
+01:27:50,000 --> 01:27:54,000
+I have shown that episode to pretty much everybody who I would call close friends
+
+671
+01:27:54,000 --> 01:27:56,000
+or even acquaintances, even dates.
+
+672
+01:27:56,000 --> 01:27:58,000
+And the response is that...
+
+673
+01:27:58,000 --> 01:28:03,000
+The response is the elicit, tells, leaps and bounds,
+
+674
+01:28:03,000 --> 01:28:06,000
+at least the information that is relevant to me about them.
+
+675
+01:28:06,000 --> 01:28:08,000
+So I kind of use that episode as an acid test.
+
+676
+01:28:08,000 --> 01:28:11,000
+I was like, let me categorize you, you know?
+
+677
+01:28:11,000 --> 01:28:16,000
+And your response to Timba, his arms wide,
+
+678
+01:28:16,000 --> 01:28:19,000
+people laugh, those who are laughing.
+
+679
+01:28:19,000 --> 01:28:22,000
+And of course, it can be humorous, I can appreciate that.
+
+680
+01:28:22,000 --> 01:28:27,000
+I mean, you have to understand that it is speaking to the other end.
+
+681
+01:28:27,000 --> 01:28:31,000
+It is for the people who do not speak the way,
+
+682
+01:28:31,000 --> 01:28:36,000
+only for the people who do understand the symbolism aspect of things.
+
+683
+01:28:36,000 --> 01:28:38,000
+For them, you don't need to go into the details.
+
+684
+01:28:38,000 --> 01:28:42,000
+It doesn't have to mean exactly...
+
+685
+01:28:42,000 --> 01:28:46,000
+The other set of people immediately take to it.
+
+686
+01:28:46,000 --> 01:28:49,000
+The next day they are like, Timba, his arms wide.
+
+687
+01:28:50,000 --> 01:28:53,000
+So that is the reason. I don't remember a whole lot of things.
+
+688
+01:28:53,000 --> 01:28:56,000
+I cannot tell you a whole lot of deals from Star Trek.
+
+689
+01:28:56,000 --> 01:28:58,000
+This I do remember.
+
+690
+01:28:58,000 --> 01:29:00,000
+Oh, it is because I rewatched this episode.
+
+691
+01:29:00,000 --> 01:29:02,000
+No, no, it is even for me.
+
+692
+01:29:02,000 --> 01:29:04,000
+Last was two weeks back.
+
+693
+01:29:04,000 --> 01:29:06,000
+I see, I see.
+
+694
+01:29:08,000 --> 01:29:11,000
+Completely understood, but that goes to show,
+
+695
+01:29:11,000 --> 01:29:14,000
+I am, of course, I don't want to remember a lot of things.
+
+696
+01:29:14,000 --> 01:29:16,000
+But this, I do remember.
+
+697
+01:29:16,000 --> 01:29:18,000
+I don't have an option, I don't have a choice.
+
+698
+01:29:18,000 --> 01:29:24,000
+This represents so much of me that it is worth remembering as is, right?
+
+699
+01:29:24,000 --> 01:29:27,000
+Because as you said, it works as a litmus test
+
+700
+01:29:27,000 --> 01:29:29,000
+to find out that exact set of people.
+
+701
+01:29:29,000 --> 01:29:32,000
+Either they already know or when they are first exposed to it,
+
+702
+01:29:32,000 --> 01:29:36,000
+would be like, oh yes, this is it.
+
+703
+01:29:36,000 --> 01:29:41,000
+So in either of the cases, the point that I was trying to make is that
+
+704
+01:29:41,000 --> 01:29:45,000
+that difference, the contrast is really stark.
+
+705
+01:29:46,000 --> 01:29:52,000
+And even though in that particular, in Star Trek,
+
+706
+01:29:52,000 --> 01:29:59,000
+there was a somewhat of a closure, somewhat of a resolution,
+
+707
+01:29:59,000 --> 01:30:03,000
+in real world, there actually isn't as much.
+
+708
+01:30:03,000 --> 01:30:10,000
+One side would turn the other side as clumsy and stupid and move on.
+
+709
+01:30:10,000 --> 01:30:15,000
+That's practically what is there to it.
+
+710
+01:30:15,000 --> 01:30:24,000
+And I guess what I'm trying to say is that I kind of relate to that other species.
+
+711
+01:30:24,000 --> 01:30:28,000
+And the initial, like in that same episode,
+
+712
+01:30:28,000 --> 01:30:31,000
+like until Picard actually figures that out,
+
+713
+01:30:31,000 --> 01:30:36,000
+others dismissing that we can't ever translate this language,
+
+714
+01:30:36,000 --> 01:30:38,000
+even with our sophisticated tooling,
+
+715
+01:30:38,000 --> 01:30:43,000
+is the response that I have gotten from society when I spoke in abstracts.
+
+716
+01:30:44,000 --> 01:30:47,000
+Which is why I always thought,
+
+717
+01:30:47,000 --> 01:30:52,000
+like instead of associating myself with that species,
+
+718
+01:30:52,000 --> 01:30:55,000
+I always try to associate myself with Picard
+
+719
+01:30:55,000 --> 01:31:01,000
+because it is fundamentally, if I do understand that, good.
+
+720
+01:31:01,000 --> 01:31:05,000
+But if I don't have the intent to understand that,
+
+721
+01:31:05,000 --> 01:31:10,000
+if I completely live in a denial of this cannot be understood,
+
+722
+01:31:10,000 --> 01:31:14,000
+then that's not the life I would want.
+
+723
+01:31:14,000 --> 01:31:20,000
+I would want the prospect of knowing the things that I don't know yet.
+
+724
+01:31:20,000 --> 01:31:22,000
+Sometimes, at some level,
+
+725
+01:31:22,000 --> 01:31:26,000
+I would be the people who do not understand or speak that exact kind of symbolism,
+
+726
+01:31:26,000 --> 01:31:30,000
+at which point I would want to have a mind open enough
+
+727
+01:31:30,000 --> 01:31:35,000
+for me to be allowed to download that thing.
+
+728
+01:31:35,000 --> 01:31:37,000
+Anyways, where I was going with this?
+
+729
+01:31:37,000 --> 01:31:40,000
+I was going with, yeah,
+
+730
+01:31:40,000 --> 01:31:47,000
+the percentages are really stacked up against that kind of communication.
+
+731
+01:31:50,000 --> 01:31:55,000
+It would be, this is one of those things that I would want to solve as well.
+
+732
+01:31:56,000 --> 01:32:02,000
+Find more people around me who can see this and understand this
+
+733
+01:32:02,000 --> 01:32:06,000
+and understand that, okay, we have a,
+
+734
+01:32:06,000 --> 01:32:12,000
+that person is not one of island because that's how it manifests.
+
+735
+01:32:12,000 --> 01:32:16,000
+Until you find somebody else like you on those kind of things,
+
+736
+01:32:16,000 --> 01:32:18,000
+for a better part of your life,
+
+737
+01:32:18,000 --> 01:32:20,000
+you basically don't know anybody else.
+
+738
+01:32:20,000 --> 01:32:24,000
+You just end up thinking that you are screwed up in some certain way,
+
+739
+01:32:24,000 --> 01:32:26,000
+which was my case as well.
+
+740
+01:32:26,000 --> 01:32:29,000
+And that has been a very,
+
+741
+01:32:29,000 --> 01:32:34,000
+I think in many a sense, low days still reinforce that.
+
+742
+01:32:34,000 --> 01:32:37,000
+It has been practiced for so long
+
+743
+01:32:37,000 --> 01:32:41,000
+that basically depressive spells just reinforce that thought.
+
+744
+01:32:41,000 --> 01:32:44,000
+But somehow now, coming out of depression,
+
+745
+01:32:44,000 --> 01:32:46,000
+the phases when they come out of depression, that goes away.
+
+746
+01:32:46,000 --> 01:32:49,000
+So it tells me that it's an acquired trait.
+
+747
+01:32:50,000 --> 01:32:57,000
+But I think one of the things that I,
+
+748
+01:32:57,000 --> 01:33:01,000
+hearing your story, that story is what I understand is that
+
+749
+01:33:01,000 --> 01:33:06,000
+you actually valued the people around you or surrounding you
+
+750
+01:33:06,000 --> 01:33:09,000
+a lot more, their opinion and their perspective
+
+751
+01:33:09,000 --> 01:33:12,000
+and whether they understand you or not.
+
+752
+01:33:12,000 --> 01:33:16,000
+I think that's a lot of part of your pain.
+
+753
+01:33:17,000 --> 01:33:19,000
+It is.
+
+754
+01:33:19,000 --> 01:33:23,000
+And I think that is why the conscious choice
+
+755
+01:33:23,000 --> 01:33:27,000
+to then reduce exposure kind of came to,
+
+756
+01:33:27,000 --> 01:33:32,000
+because I operate on this obsessive learner mode.
+
+757
+01:33:32,000 --> 01:33:36,000
+And to me, there was enough to learn from everyone
+
+758
+01:33:36,000 --> 01:33:38,000
+and everything around me.
+
+759
+01:33:38,000 --> 01:33:40,000
+I might be learning something different.
+
+760
+01:33:40,000 --> 01:33:42,000
+So I saw different worlds.
+
+761
+01:33:42,000 --> 01:33:44,000
+I saw different worlds in my family, in the neighbors' families,
+
+762
+01:33:44,000 --> 01:33:46,000
+in my cousins' family, in school,
+
+763
+01:33:46,000 --> 01:33:49,000
+in the families of my other schoolmates.
+
+764
+01:33:49,000 --> 01:33:52,000
+And I saw that there was enough to learn from all of these.
+
+765
+01:33:52,000 --> 01:33:55,000
+And I looked at it as it's up to me to assimilate
+
+766
+01:33:55,000 --> 01:33:59,000
+and make what I must out of those.
+
+767
+01:33:59,000 --> 01:34:05,000
+And the downside of that was I was opening myself wide
+
+768
+01:34:05,000 --> 01:34:10,000
+to even the drudge of the system,
+
+769
+01:34:10,000 --> 01:34:14,000
+not realizing that at which point I have started
+
+770
+01:34:14,000 --> 01:34:17,000
+mimicking the same things that those people are telling me.
+
+771
+01:34:17,000 --> 01:34:20,000
+Instead of being that observer,
+
+772
+01:34:20,000 --> 01:34:24,000
+I have now become the person living that.
+
+773
+01:34:24,000 --> 01:34:26,000
+So that is fair.
+
+774
+01:34:26,000 --> 01:34:30,000
+That is the kind of thing which needs either a full dissociation.
+
+775
+01:34:30,000 --> 01:34:32,000
+So that was my mental state at that point,
+
+776
+01:34:32,000 --> 01:34:35,000
+that why did my brain go into dissociation?
+
+777
+01:34:35,000 --> 01:34:39,000
+It needed some place to think quietly outside all of this.
+
+778
+01:34:39,000 --> 01:34:43,000
+Now I realize how important that is in life
+
+779
+01:34:43,000 --> 01:34:45,000
+to actually distance myself.
+
+780
+01:34:45,000 --> 01:34:49,000
+I was like, okay, let's deconstruct life,
+
+781
+01:34:49,000 --> 01:34:51,000
+deconstruct to the point where there is nothing,
+
+782
+01:34:51,000 --> 01:34:55,000
+and then build back from that and see what is it that I want to add.
+
+783
+01:34:55,000 --> 01:34:58,000
+And that has worked out pretty well so far.
+
+784
+01:34:58,000 --> 01:35:02,000
+So which is why I said that my life experience
+
+785
+01:35:02,000 --> 01:35:06,000
+would actually be validating the approach you are taking towards.
+
+786
+01:35:06,000 --> 01:35:09,000
+And it is simply that I had to choose that
+
+787
+01:35:09,000 --> 01:35:12,000
+in the face of many other obstacles,
+
+788
+01:35:12,000 --> 01:35:14,000
+and I would have very much preferred if those obstacles
+
+789
+01:35:14,000 --> 01:35:17,000
+were not put in the first place.
+
+790
+01:35:17,000 --> 01:35:20,000
+So what I am trying to say is that you might find
+
+791
+01:35:20,000 --> 01:35:25,000
+just saying that I felt like I understood English better
+
+792
+01:35:25,000 --> 01:35:27,000
+after I learned programming,
+
+793
+01:35:27,000 --> 01:35:29,000
+because I understood logic,
+
+794
+01:35:29,000 --> 01:35:32,000
+and I could apply logic in that way.
+
+795
+01:35:32,000 --> 01:35:35,000
+But at the same time, one of the things I felt like
+
+796
+01:35:35,000 --> 01:35:39,000
+I would be good at, but I have never made the time
+
+797
+01:35:39,000 --> 01:35:41,000
+to go into is sign language,
+
+798
+01:35:41,000 --> 01:35:43,000
+because I have trouble.
+
+799
+01:35:43,000 --> 01:35:48,000
+I know it is a conscious drain of my energy
+
+800
+01:35:48,000 --> 01:35:50,000
+when I am verbalizing.
+
+801
+01:35:50,000 --> 01:35:53,000
+So choosing to do these long conversations
+
+802
+01:35:53,000 --> 01:35:54,000
+are a conscious choice.
+
+803
+01:35:54,000 --> 01:35:56,000
+I know that is how much I am draining.
+
+804
+01:35:56,000 --> 01:35:58,000
+So I am consciously aware of that.
+
+805
+01:35:58,000 --> 01:36:01,000
+So that just makes me think that if somebody like Rai
+
+806
+01:36:01,000 --> 01:36:05,000
+would be more open to understanding a sign language,
+
+807
+01:36:05,000 --> 01:36:06,000
+not needing to verbalize,
+
+808
+01:36:06,000 --> 01:36:09,000
+not needing to work with things,
+
+809
+01:36:09,000 --> 01:36:12,000
+and maybe just get better at that,
+
+810
+01:36:12,000 --> 01:36:14,000
+just another form of expression,
+
+811
+01:36:14,000 --> 01:36:15,000
+and it doesn't hurt.
+
+812
+01:36:15,000 --> 01:36:18,000
+You can learn any other language later.
+
+813
+01:36:18,000 --> 01:36:22,000
+There is that much more value behind it.
+
+814
+01:36:22,000 --> 01:36:24,000
+But why I am saying why sign language?
+
+815
+01:36:24,000 --> 01:36:26,000
+It is not just the vocal processing.
+
+816
+01:36:26,000 --> 01:36:30,000
+It is that sign language makes you think in certain abstractions,
+
+817
+01:36:30,000 --> 01:36:32,000
+certain other categories of abstractions,
+
+818
+01:36:32,000 --> 01:36:36,000
+which don't directly map to your spoken language.
+
+819
+01:36:36,000 --> 01:36:39,000
+Right.
+
+820
+01:36:39,000 --> 01:36:43,000
+I think the influence right now,
+
+821
+01:36:43,000 --> 01:36:46,000
+she has blank slate in front of her.
+
+822
+01:36:46,000 --> 01:36:50,000
+We don't restrict her from doing anything practically speaking.
+
+823
+01:36:50,000 --> 01:36:53,000
+She can do pretty much anything we just observe.
+
+824
+01:36:53,000 --> 01:36:58,000
+What happens is that the form of entertainment she is consuming
+
+825
+01:36:58,000 --> 01:37:01,000
+kind of dictates where she is going,
+
+826
+01:37:01,000 --> 01:37:03,000
+or things that she is practicing, etc.
+
+827
+01:37:03,000 --> 01:37:07,000
+So Nakamo as like a girly Nakamo,
+
+828
+01:37:07,000 --> 01:37:12,000
+those kind of things she picks up now.
+
+829
+01:37:12,000 --> 01:37:15,000
+So again, that's a weird, longer story.
+
+830
+01:37:15,000 --> 01:37:18,000
+The gender norm gets imposed on essentially.
+
+831
+01:37:18,000 --> 01:37:21,000
+We are trying to keep it as fluidic as possible.
+
+832
+01:37:21,000 --> 01:37:25,000
+Like, okay, we are never going to tell you who you actually are
+
+833
+01:37:25,000 --> 01:37:27,000
+until unless you figure that part out.
+
+834
+01:37:27,000 --> 01:37:28,000
+Right.
+
+835
+01:37:28,000 --> 01:37:31,000
+So what ended up happening is that at the playground,
+
+836
+01:37:31,000 --> 01:37:36,000
+she had to assume a gender in order to proceed forward
+
+837
+01:37:36,000 --> 01:37:38,000
+because the kids did not know how to treat.
+
+838
+01:37:38,000 --> 01:37:43,000
+And the kids were given that from their parents and all.
+
+839
+01:37:43,000 --> 01:37:49,000
+So basically, it had to be applied on in order to proceed forward.
+
+840
+01:37:49,000 --> 01:37:50,000
+It was becoming a blocker.
+
+841
+01:37:50,000 --> 01:37:52,000
+It still is a blocker.
+
+842
+01:37:52,000 --> 01:37:54,000
+I don't understand why that is the case.
+
+843
+01:37:54,000 --> 01:37:55,000
+But that is the case.
+
+844
+01:37:55,000 --> 01:38:01,000
+I was trying to find out where does that gender identity come from?
+
+845
+01:38:01,000 --> 01:38:05,000
+How do you end up deciding that you are one or not the other?
+
+846
+01:38:05,000 --> 01:38:08,000
+I can share my experience here.
+
+847
+01:38:08,000 --> 01:38:11,000
+And again, maybe this would be parallel a lot,
+
+848
+01:38:11,000 --> 01:38:17,000
+at least if not parallel that some use case, let's say case studies.
+
+849
+01:38:17,000 --> 01:38:20,000
+So the way I have come to understand gender,
+
+850
+01:38:20,000 --> 01:38:22,000
+I have always been this confused kid, right?
+
+851
+01:38:22,000 --> 01:38:27,000
+Because something that I feel was very different from what others told of me.
+
+852
+01:38:27,000 --> 01:38:29,000
+And I have gone through phases.
+
+853
+01:38:29,000 --> 01:38:34,000
+I've gone through my genderable phase where I was like, I'm strongly trans.
+
+854
+01:38:34,000 --> 01:38:39,000
+Then I went through and that was like my late teenage.
+
+855
+01:38:39,000 --> 01:38:45,000
+Then it was like, oh, no, I have to identify as this cis man
+
+856
+01:38:45,000 --> 01:38:48,000
+in order to be accepted into the society.
+
+857
+01:38:48,000 --> 01:38:50,000
+And again, went into fuck that.
+
+858
+01:38:50,000 --> 01:38:55,000
+But at that fuck that, I mean, in between was this trying really,
+
+859
+01:38:55,000 --> 01:39:00,000
+really hard to play the game by the rules to see for once.
+
+860
+01:39:00,000 --> 01:39:03,000
+I mean, that was like my college days.
+
+861
+01:39:03,000 --> 01:39:04,000
+That's what I'm saying.
+
+862
+01:39:04,000 --> 01:39:06,000
+You trust the system way too much.
+
+863
+01:39:06,000 --> 01:39:07,000
+No, no, no, no.
+
+864
+01:39:07,000 --> 01:39:09,000
+I don't trust it now.
+
+865
+01:39:09,000 --> 01:39:13,000
+I'm just saying at that point, it was like, OK, it looks like my way is not working.
+
+866
+01:39:13,000 --> 01:39:14,000
+I'm clearly not getting across.
+
+867
+01:39:14,000 --> 01:39:16,000
+I'm just causing more confusion.
+
+868
+01:39:17,000 --> 01:39:21,000
+And then my college days were like, let's play by the rules.
+
+869
+01:39:21,000 --> 01:39:24,000
+And I realized that I got tired of that very quick.
+
+870
+01:39:24,000 --> 01:39:26,000
+That's not working out.
+
+871
+01:39:26,000 --> 01:39:35,000
+But how I describe my understanding of gender now is that it's a function.
+
+872
+01:39:35,000 --> 01:39:39,000
+It's just like I think of morality that it's a computed function.
+
+873
+01:39:39,000 --> 01:39:40,000
+You throw in parameters.
+
+874
+01:39:40,000 --> 01:39:42,000
+I'm going to give you an output.
+
+875
+01:39:42,000 --> 01:39:48,000
+So my favorite way of saying is that my gender today or my gender now is this,
+
+876
+01:39:48,000 --> 01:39:50,000
+like a bouncing volleyball.
+
+877
+01:39:50,000 --> 01:39:51,000
+That's it.
+
+878
+01:39:51,000 --> 01:39:56,000
+But what I'm trying to say is that that, however, hit a roadblock, that approach.
+
+879
+01:39:56,000 --> 01:40:00,000
+And I realized that there is a certain value in templatizing,
+
+880
+01:40:00,000 --> 01:40:05,000
+templatizing to my nearest possible accepted thing.
+
+881
+01:40:05,000 --> 01:40:10,000
+It's kind of like having avatars, you know, like in a game you have created a certain avatar.
+
+882
+01:40:10,000 --> 01:40:14,000
+And I'm like, OK, in this scenario, this is how I represent.
+
+883
+01:40:14,000 --> 01:40:19,000
+So now how I represent my gender is I consider myself non-binary.
+
+884
+01:40:19,000 --> 01:40:26,000
+And I consider myself non-binary from the very fact that I believe in breaking down binaries unless it is computing.
+
+885
+01:40:28,000 --> 01:40:34,000
+So in that sense, binary is just a matter of solidified state.
+
+886
+01:40:34,000 --> 01:40:36,000
+Is there an influx?
+
+887
+01:40:36,000 --> 01:40:42,000
+But then if you break down the binary, binary is the most bare basic solid form, the crystal.
+
+888
+01:40:42,000 --> 01:40:45,000
+Yeah. So my stupid person can understand.
+
+889
+01:40:45,000 --> 01:40:49,000
+So basically, that's why it helps to keep it that way.
+
+890
+01:40:49,000 --> 01:40:56,000
+Yeah. So in this sense, I'm just tying this back that this ties back to my understanding of nonsense that I said at the beginning of this discussion.
+
+891
+01:40:56,000 --> 01:40:59,000
+Right. It is beyond sense.
+
+892
+01:40:59,000 --> 01:41:09,000
+So in that sense, when I'm talking of non-binary, it is basically it's not saying that it's not it's not to be interpreted as not to.
+
+893
+01:41:09,000 --> 01:41:16,000
+It is to be interpreted as something that cannot be confined to two because it is beyond that.
+
+894
+01:41:16,000 --> 01:41:21,000
+It is beyond two. OK, so then this is my job.
+
+895
+01:41:21,000 --> 01:41:33,000
+So the way I express my gender now is that I would like to understand the recipient and portray according to that.
+
+896
+01:41:33,000 --> 01:41:37,000
+So there are some thumb rules I go by in terms of pronouns.
+
+897
+01:41:37,000 --> 01:41:48,000
+If it is an English speaking audience, I insist on they them because they're the necessity to break down binaries is that much more important in the usage of pronouns.
+
+898
+01:41:48,000 --> 01:41:56,000
+But when I am talking to a native Bangla speaker and they ask me, what pronouns do you use?
+
+899
+01:41:56,000 --> 01:42:02,000
+My answer to them is anything you want, because my mother tongue does not have a concept of gendered pronouns.
+
+900
+01:42:02,000 --> 01:42:11,000
+So I don't see the value of introducing an artificial thing there because Bangla does not need pronouns.
+
+901
+01:42:12,000 --> 01:42:22,000
+But the moment I'm talking to somebody outside the Bangla thing or outside a language or especially a language that heavily genders the pronouns and like then I would be like, here, just please be conscious of this.
+
+902
+01:42:22,000 --> 01:42:25,000
+But then also there is a matter of presentation.
+
+903
+01:42:25,000 --> 01:42:34,000
+So the gender is an identity. There is a presentation there is as in the internal and the external aspect of it as well.
+
+904
+01:42:34,000 --> 01:42:46,000
+So the presentation part, I realized that there are certain ways of presenting myself in public, like given our current legislation, all my documents carry mail and I am okay with that.
+
+905
+01:42:46,000 --> 01:43:06,000
+I used to be very upset with that, but now I'm okay with that because I am taking this within the confines of this system that in a system that casts me into two buckets, I have to reach the most acceptable form unless I explicitly agree at some point to present myself as trans.
+
+906
+01:43:06,000 --> 01:43:16,000
+But in my daily presentation, and again, this is where I have a beef with most of the queer community, which is also why I never gel well with the queer community and I have tried.
+
+907
+01:43:16,000 --> 01:43:26,000
+The majority of them is I do not have the time to work on my presentation because there is a natural way in which things happen and I let that slide.
+
+908
+01:43:26,000 --> 01:43:31,000
+So at which point my presentation comes off as mostly male.
+
+909
+01:43:31,000 --> 01:43:39,000
+But then when I'm conscious, it again, it's on the audience. So I'm kind of that much. I have built, I have templatized this to the point.
+
+910
+01:43:39,000 --> 01:43:48,000
+So what I'm saying is, it's probably important to explain to Ray that within that context, I don't have the time to work on my presentation.
+
+911
+01:43:48,000 --> 01:43:58,000
+Even if you are choosing to represent yourself as a girl, it's important to remember that it is within that context. Do not identify that with your identity.
+
+912
+01:43:58,000 --> 01:44:08,000
+Yes, yes. So the entire part about is that an immutable part of my identity.
+
+913
+01:44:08,000 --> 01:44:14,000
+We always give her enough time to work on my presentation.
+
+914
+01:44:14,000 --> 01:44:24,000
+So the entire part about is that an immutable part of my identity.
+
+915
+01:44:24,000 --> 01:44:33,000
+We always give her enough solid grasp to hold on to that it isn't if you don't want it.
+
+916
+01:44:33,000 --> 01:44:43,000
+I am not going to shape you in any one way or the other. If you want the binary identity to be yours, be my guess.
+
+917
+01:44:43,000 --> 01:44:52,000
+If you don't want to be, that's also fine. I don't care. I wouldn't I wouldn't give you an weapon in either direction or not.
+
+918
+01:44:52,000 --> 01:45:06,000
+If you ask questions, I'll give you the answer. And yeah, so my personal way of understanding this, like at the way I represent myself is that it's more like a HSL scale.
+
+919
+01:45:07,000 --> 01:45:14,000
+It is. It is. It's kind of like HSL, right? Because the L is the thing that is often overlooked.
+
+920
+01:45:14,000 --> 01:45:29,000
+So I knew that you were going for that as well. That's why I've said this, because not only gender, also for sexuality, I think I can have that much that it's not about the exact which value of the color will you're choosing.
+
+921
+01:45:29,000 --> 01:45:42,000
+It matters a whole lot how the saturation and luminosity affects. What if you are red and you have a very high saturation, but the luminosity is zero?
+
+922
+01:45:42,000 --> 01:45:50,000
+The outward expression would be black. You would not be presented as red. You'd be black in that case, right?
+
+923
+01:45:50,000 --> 01:46:06,000
+So that is where I think my identity falls in. I am very much like I'm in love with that androgynous representation of some like I would I you have probably never seen me project myself as like overly manly man or overly feminine.
+
+924
+01:46:06,000 --> 01:46:19,000
+Like man or something, whatever that is, I don't go. It's not that it's like basically I reject the concept of having that as a strong part. That is not the strong part of my identity.
+
+925
+01:46:19,000 --> 01:46:31,000
+I am various other things. And I would choose any where on the spectrum as long as the luminosity is zero. So it doesn't matter whether I'm red or blue or green.
+
+926
+01:46:32,000 --> 01:46:40,000
+Luminosity is zero means I'm black. And that's the part like that's all you need to know. Move on. Let's talk about something else that I find more interesting.
+
+927
+01:46:40,000 --> 01:46:49,000
+And I'm not saying that this is not interesting. I'm just saying that that's where from childhood since childhood, I never really wanted to put so much value into it.
+
+928
+01:46:49,000 --> 01:46:54,000
+So a lot of people complain that didn't bother me.
+
+929
+01:46:57,000 --> 01:47:06,000
+Eventually, I got daddy go. It's probably a little bit less than the point is like it never was a problem for me.
+
+930
+01:47:07,000 --> 01:47:16,000
+My identity was not like I want to go like I don't know. I don't know. That never really bothered me.
+
+931
+01:47:18,000 --> 01:47:27,000
+Or do I need to like present the presentation part? Do I need to do that in order to present myself some other that also didn't bother.
+
+932
+01:47:27,000 --> 01:47:38,000
+So either of the cases that so I am very comfortable and happy with that null kind of in a way. Right. So and I'm fine with this.
+
+933
+01:47:38,000 --> 01:47:48,000
+So any I I don't think anybody needs anybody else's approval for this matter or even like the what do you call that?
+
+934
+01:47:48,000 --> 01:48:02,000
+Yep. And after like 10, 12 years of trying to identify my gender sexuality and having gone through the pretty much all the possible literature that I have access to, I think you were very right.
+
+935
+01:48:02,000 --> 01:48:14,000
+And I think I usually say no to this, but I have to humble up and accept that a lot of my earlier actions in life have been motivated by pleasing others, pleasing or accepting the people immediately around me.
+
+936
+01:48:14,000 --> 01:48:23,000
+And I don't think I can change it. I don't think I can change it, which means my only option is to choose who's around me.
+
+937
+01:48:23,000 --> 01:48:34,000
+Right. So you remember Mossfest or something in London, there was this thing that Larissa had done this.
+
+938
+01:48:34,000 --> 01:48:41,000
+Larissa had done this. I'm not sure if you were in that session. I think it was one of those London sessions.
+
+939
+01:48:41,000 --> 01:48:50,000
+Robin Boo was there to remember. She got people to stand in a line and there was this take a step forward if you agree or backward if you disagree.
+
+940
+01:48:50,000 --> 01:48:58,000
+And there was this question of if you don't identify as a cishet person or something.
+
+941
+01:48:58,000 --> 01:49:04,000
+And I stepped back and there were people like, what, you?
+
+942
+01:49:04,000 --> 01:49:10,000
+Oh, we thought you were this extroverted, very handsome man.
+
+943
+01:49:10,000 --> 01:49:20,000
+The only thing I'm willing to take from that statement is handsome.
+
+944
+01:49:20,000 --> 01:49:28,000
+I'm willing to take. But see, the point is that I'm just trying to tell you that you have not lost much.
+
+945
+01:49:28,000 --> 01:49:40,000
+My entire study into this, trying to really understand things, because it feels like there is something really big happening here in the way that people are expressing their gender, sexuality, the expression.
+
+946
+01:49:40,000 --> 01:49:46,000
+I love pride. I have been into one or two of those marches. I love that.
+
+947
+01:49:46,000 --> 01:49:52,000
+I love the openness that happens within that, knowing that this is that contextual boundary outside.
+
+948
+01:49:52,000 --> 01:50:03,000
+This is not safe. But the thing that I could not take into account was that there is this understanding.
+
+949
+01:50:03,000 --> 01:50:14,000
+And again, this is a criticism of the majority of the people I have come across that you got to show it, that you got to flash it and you got to celebrate it.
+
+950
+01:50:14,000 --> 01:50:22,000
+And I do, because I do. But here is what this process is taking a very small is running on low priority.
+
+951
+01:50:22,000 --> 01:50:25,000
+There is a thread running. Yeah, it is keeping a check.
+
+952
+01:50:25,000 --> 01:50:31,000
+Exactly. I'm very weird. It gets weird to how do I project it.
+
+953
+01:50:31,000 --> 01:50:42,000
+But I 100% agree what you're saying here is that from a priority-wise perspective, there are all the other things that I'm very much more interested about than this.
+
+954
+01:50:42,000 --> 01:50:50,000
+I have no disrespect for it. I understand, but I'd rather put that in the back of my head.
+
+955
+01:50:50,000 --> 01:51:00,000
+Then look at that. I'm just talking. Why does my color schemes when I design something go to red and black?
+
+956
+01:51:00,000 --> 01:51:14,000
+There is a reason. And the reason is this. I want to choose the luminosity level based on the interaction, based on the person, based on the subject at hand or the situation at hand.
+
+957
+01:51:14,000 --> 01:51:21,000
+If I want to show you the colors as they are at that point, all I got to do, boss, is increase the luminosity slider.
+
+958
+01:51:21,000 --> 01:51:33,000
+But first I need to verify that you are worth it or that I am feeling I like dark. I like the lack of light. It helps me think there is there are many, many variations.
+
+959
+01:51:33,000 --> 01:51:44,000
+So if you want to plot the gender on a certain spectrum, also include my willingness to divulge that or to take that as a primary topic.
+
+960
+01:51:44,000 --> 01:51:55,000
+But here I am discussing gender in a way that I typically would bypass. I have learned that I don't need to educate others.
+
+961
+01:51:56,000 --> 01:52:06,000
+I also went through this phase where I was this vocal proponent and something was not right. And what was not right, it felt like being an anchor for Republic TV.
+
+962
+01:52:06,000 --> 01:52:21,000
+I mean, yeah, I am on the news. Yeah, I am shouting. But is this worth the news? I mean, yeah, it appeals to a lot of people. But is this worth the news?
+
+963
+01:52:21,000 --> 01:52:31,000
+So in that sense, the worthiness, remember last session, we had this discussion what is worth doing on that worthiness scale.
+
+964
+01:52:31,000 --> 01:52:40,000
+This is not something to ignore. It is something to prepare and let it stay. It will step in. It is a bounding function.
+
+965
+01:52:40,000 --> 01:52:46,000
+It will step in if that part gets over like somebody forces something out.
+
+966
+01:52:46,000 --> 01:53:08,000
+Yeah, I think one of the good analogies, at least to me, in my mind, it sounds like a good analogy, is that some people need being told over and over, I love you, as in a form of like, hey, to make it hit home and constant reminder of like, hey, you are loved, somebody else loves you, essentially.
+
+967
+01:53:08,000 --> 01:53:17,000
+For them, it is necessary in that way. For me, it doesn't seem necessary. It does not mean that love is not there.
+
+968
+01:53:17,000 --> 01:53:29,000
+Right? It is the same way. Celebration is the exact same way. I don't need to be reminded or remind anyone for that thing to be exactly that same way.
+
+969
+01:53:29,000 --> 01:53:47,000
+It is just that I don't have to celebrate it or put it forward for everybody else. I don't need that. It is inside my head. Whether you approve of it or disapprove of it, it doesn't matter. I couldn't care either way, which was the point I was getting to. I really didn't care what others think.
+
+970
+01:53:47,000 --> 01:54:00,000
+And that, my friend, is the fundamental difference, which is why I said that I better own up to this, because there is no other way of understanding the differences in your and my approach.
+
+971
+01:54:00,000 --> 01:54:20,000
+Yeah, I care very less about what others thought about. And I think the credit goes to my dad, essentially. Because when you are a kid, your worldview is forming as if there is the ideal high state of some kind.
+
+972
+01:54:20,000 --> 01:54:30,000
+Somebody you are trying to idealize. At that point, if that somebody actively breaks it down to you, that idealism is a play you should.
+
+973
+01:54:30,000 --> 01:54:44,000
+In a way, if you want more bandwidth, you start being skeptical. And at the void of all of it, after being skeptical and trying all different ways to question that thing, you still wouldn't break it.
+
+974
+01:54:44,000 --> 01:54:53,000
+That's a pretty good thing. Then it's worth being a fan of. But everything eventually breaks down at some point.
+
+975
+01:54:53,000 --> 01:55:00,000
+The point is, I do make mistakes. That was my dad's thing. I do make mistakes.
+
+976
+01:55:00,000 --> 01:55:14,000
+So when that was like, I want to idealize this person, this person is somebody I can idealize more than anybody else that I can see. But this person is actively going out of their way to prove that they also make mistakes.
+
+977
+01:55:14,000 --> 01:55:28,000
+Then how much others do. And at that point, can I take anybody's any words for granted? Everything is basically nebulous until proven. I'm not gonna, this is not something that I'm committing to.
+
+978
+01:55:29,000 --> 01:55:46,000
+I heard what you were saying. I'll come back to it in three days, maybe. In between, I'll ask around. So in that way, never nobody said to me was immediately committed, I felt good or bad or anything. It didn't really matter.
+
+979
+01:55:46,000 --> 01:56:02,000
+Most of the time it's like, okay, that was yet another stupid thing. For the lack of a better resolution. That is true in most cases, only when you take that as an assumption, that's only when.
+
+980
+01:56:02,000 --> 01:56:14,000
+And for them, probably that's the baseline. I don't mind. But for me, I now know where does that fall down. So in that way, I never cared about that included teacher and everybody else.
+
+981
+01:56:14,000 --> 01:56:22,000
+My point, my problem ended up becoming, am I a pathological, like I am, am I like, what are my personality?
+
+982
+01:56:22,000 --> 01:56:23,000
+The perfect sociopath.
+
+983
+01:56:23,000 --> 01:56:38,000
+Yeah. So how much of a sociopath am I? And the point is, that I cannot discuss with anybody. I had to go on out of my way to find out books and resources about what are the traits of a psychopath? What are the, how?
+
+984
+01:56:38,000 --> 01:56:48,000
+And then what I eventually realized is that, again, if you go by executive functions, there are lots of psychopathic tendency in various different people.
+
+985
+01:56:48,000 --> 01:57:10,000
+What ended up happening, I understood very early in my life, like 12, 13, around that time, is that good faith, as in not trying to act as if you are trying to harm somebody, is one of the best thing that you can do to not become the monster that you don't want to be.
+
+986
+01:57:11,000 --> 01:57:22,000
+And that was pretty much, that was pretty much it. Like once that was the understanding that one of the, one of the baseline like maxim or assumptions that knowingly.
+
+987
+01:57:22,000 --> 01:57:31,000
+So I, my interpretation was, I wouldn't do something that I cannot, with pride, explain to my grandkids.
+
+988
+01:57:31,000 --> 01:57:40,000
+So if I'm doing something, anything, if I cannot take pride in doing that, to explain to my grandkids, because a lot of stupid things I will do.
+
+989
+01:57:40,000 --> 01:57:49,000
+And as long as I'm able to laugh at that end, like at the end part of my life. So this is, this is a stupid, not malicious, right?
+
+990
+01:57:49,000 --> 01:57:55,000
+So even if I do stupid things, that's fine. Malicious, not fine. I shouldn't do that.
+
+991
+01:57:55,000 --> 01:58:02,000
+And that was my cut-off. If I cannot explain that with pride to my grandkids, that's what I don't do.
+
+992
+01:58:02,000 --> 01:58:12,000
+That defined a lot of things that I have or haven't done in my life, but that's what, that's what it boiled down to in my understanding of, the understanding of bona fide, like understanding of good faith.
+
+993
+01:58:12,000 --> 01:58:20,000
+I did not know that by that term or understanding or knowledge. I just understood that sometimes people end up doing things that are way too selfish.
+
+994
+01:58:20,000 --> 01:58:28,000
+And they know that they just would create justification for it, weave justification for it in order to absolve themselves of that.
+
+995
+01:58:28,000 --> 01:58:35,000
+I wanted to know that, hey, I am actively making a mistake here. So that's the part that only helped me.
+
+996
+01:58:36,000 --> 01:58:45,000
+Yeah, I think last 20 years almost has been just like not a lot of other things, just trying to understand myself better and better and better.
+
+997
+01:58:45,000 --> 01:58:53,000
+Yeah, like I said, if I'm five years old, that was the counter, like that was the limit I hit in life.
+
+998
+01:58:53,000 --> 01:59:00,000
+And you know what? This calls for a complete reset. It seems like certain things were working and things broke very badly.
+
+999
+01:59:00,000 --> 01:59:10,000
+And now there is a need for a complete reset because there is this underlying hunch that something I'm not paying attention to.
+
+1000
+01:59:10,000 --> 01:59:20,000
+And the something I was not paying attention to was this constant voice that I was suppressing in order to what I thought adapting to the environment.
+
+1001
+01:59:21,000 --> 01:59:35,000
+Yeah, anyhow, this was illuminating in many ways and in many sense, this kind of I guess validates what I thought about you.
+
+1002
+01:59:35,000 --> 01:59:43,000
+And I just looked at the photo that you shared.
+
+1003
+01:59:43,000 --> 01:59:52,000
+Oh, so when you talked about that lollipop trees, that was that was the first watercolors.
+
+1004
+01:59:52,000 --> 01:59:57,000
+That one was and I was forced to put more colors.
+
+1005
+01:59:57,000 --> 02:00:03,000
+It was very faded. I increased the saturation as well.
+
+1006
+02:00:03,000 --> 02:00:11,000
+I was very much I was very much like the saturation was really faded.
+
+1007
+02:00:11,000 --> 02:00:20,000
+And also the tent is tent and the trees are lollipops.
+
+1008
+02:00:20,000 --> 02:00:25,000
+I posted it a long time back when you were talking about that.
+
+1009
+02:00:25,000 --> 02:00:32,000
+I had seen, but then I had seen and parked it. I'll come back to that. But yeah, that is how a brain operates.
+
+1010
+02:00:32,000 --> 02:00:44,000
+So see, I don't know how to tie this back because I don't think there is any point in tying this back as much as taking the complexity of everything that we have been talking of.
+
+1011
+02:00:44,000 --> 02:01:01,000
+And the only valid summary that I guess you can make of everything that we have discussed is kind of boiling down to the fact that what was it that Shukumar Rai really retained in his writing.
+
+1012
+02:01:01,000 --> 02:01:08,000
+It's that childishness, so to say, the ability, the tenacity, the fluidity.
+
+1013
+02:01:08,000 --> 02:01:17,000
+And if I am to expand the maxim that has kind of come at this point from that, it's OK to forget.
+
+1014
+02:01:17,000 --> 02:01:23,000
+It's never OK to stop thinking or analyzing, but it's terribly important to remember certain things.
+
+1015
+02:01:23,000 --> 02:01:36,000
+And at all times, the only principle worth dying for is retaining fluidity, is retaining the ability to change.
+
+1016
+02:01:36,000 --> 02:01:56,000
+Pretty much, pretty much this, right? I see you have a dialectic oscillation. I can just get what you can want to say from the headings.
+
+1017
+02:01:56,000 --> 02:02:04,000
+Pretty much, yes. I was going for this.
+
+1018
+02:02:04,000 --> 02:02:08,000
+Summarize, summarize. That was actually pretty good. Keep, keep going.
+
+1019
+02:02:08,000 --> 02:02:25,000
+And so this has kind of boiled down to this one set of principle that how do I understand the concept of liberty, the concept of justice is also through this lens.
+
+1020
+02:02:25,000 --> 02:02:43,000
+And if you remember me saying that I hold on to this fact that collective human consciousness or collective human memory is spontaneous, that humanity forgets way more often than we want to think we do.
+
+1021
+02:02:43,000 --> 02:02:55,000
+And there is value in that forgetting. That forgetting is just making space for something new to occupy that.
+
+1022
+02:02:55,000 --> 02:03:04,000
+For me, the composting of food materials through fungus into soil is a sort of forgetting.
+
+1023
+02:03:04,000 --> 02:03:24,000
+Through me, death is a form of forgetting. And simultaneously, the ability to analyze, like when I say analyze, I mean, what is it but observe and understand.
+
+1024
+02:03:24,000 --> 02:03:48,000
+And that small, ah, that's what, you know, that ting that goes on. I would like to think it is as primal as, you know, if you ever find yourself in that dark, dark night in a forest where you can't see anything, you don't have a light with you.
+
+1025
+02:03:48,000 --> 02:04:11,000
+The first thing that happens is your other senses get stronger. You sense the wind. At that point, it is okay to not see. It's when the next you encounter light, the light feels blinding to the point that you realize that the majority of the universe is dark.
+
+1026
+02:04:11,000 --> 02:04:37,000
+And it is not dark because there is no light. It is simply dark because we have so far looked at it through this lens of perceiving photonic particles into our eyes, observing them through these certain lenses, which is why the first time an x-ray imaging was taken, people were like, how is there so many things?
+
+1027
+02:04:37,000 --> 02:04:54,000
+And if one thing an astrophysicist will tell you is there are so many different wavelengths to observe the universe in, that was probably, yeah. And there are so many ways we don't know yet.
+
+1028
+02:04:54,000 --> 02:05:14,000
+So what is the one thing that we absolutely must ensure that happens, especially if, let's say, I would like to think that the contribution to the human evolution, like at one point I used to be that very strong classic textbook misanthrope.
+
+1029
+02:05:14,000 --> 02:05:30,000
+I say, like, I got nothing to do with evolution. But now I kind of realize the evolutionary responsibility in a certain different way. There is, of course, procreate, push your genes forward, carry on the human line.
+
+1030
+02:05:30,000 --> 02:05:40,000
+Lucky for me, there are many others doing that. I can choose not to. So again, it's that focus, you know, that it's that trade-off.
+
+1031
+02:05:40,000 --> 02:05:46,000
+Yeah, of course. But the only reason that I chose to, like, I understand exactly what you're saying.
+
+1032
+02:05:46,000 --> 02:06:00,000
+No, again, I am the one thing I was very glad is that you chose to have a kid because I like here a specimen like me has chosen so experimental conditions available without having to invest.
+
+1033
+02:06:00,000 --> 02:06:19,000
+Which I just want to point out, this is the value of a collective upbringing, that the reason why communities, kids who grow up in communities tend to be that much more well-rounded emotionally or empathically,
+
+1034
+02:06:19,000 --> 02:06:37,000
+the sharp edges that we have had to smoothen out over our lifetimes that we will continue to and we will never reach the sort of smoothness that let's say your kid is going to go into never having that sharp edge in the first place because it began with that well-roundedness.
+
+1035
+02:06:37,000 --> 02:06:49,000
+Right. Is that the evolutionary responsibility is also to carry on this knowledge that change is essential.
+
+1036
+02:06:49,000 --> 02:07:06,000
+Yeah. And if you are to sum up that whole maxim that I told about the life, it boils down to this, that change is essential at every point, ensure that change is possible, no matter however written in stone.
+
+1037
+02:07:06,000 --> 02:07:10,000
+If anything is written in stone, make sure you have something to break that stone down.
+
+1038
+02:07:10,000 --> 02:07:22,000
+Yeah. It's okay to write in stone. It's okay. Why is it okay to write in stone is you want something to last longer, longer than other relatively other things which take relatively lesser time.
+
+1039
+02:07:22,000 --> 02:07:39,000
+But as long as we are bound by time, as long as we are bound by this moving towards the entropy state, we are still bound by certain finite conditions and one of them is that you cannot stop change.
+
+1040
+02:07:39,000 --> 02:07:47,000
+So why fight it? Which is why the best way it's not about swimming upstream or downstream.
+
+1041
+02:07:47,000 --> 02:08:00,000
+It is completely about do you have the fucking boat and then something might happen because of which the stream reverses.
+
+1042
+02:08:00,000 --> 02:08:20,000
+Can you respond to that change? If you were very strongly going upstream, upstream, upstream, the moon starts rotating the other way around, the earth starts spinning the other way around, gravity flips, another earth comes on top of the earth and suddenly your stream goes upstream.
+
+1043
+02:08:20,000 --> 02:08:34,000
+The point is this, why is it okay to forget? It's okay to forget because the only way to allow change within a finite state machine that is our brain is to free up circuits for change.
+
+1044
+02:08:34,000 --> 02:08:41,000
+The reason it is not okay to stop thinking and analyzing is because situations may change.
+
+1045
+02:08:41,000 --> 02:08:50,000
+You cannot take something that was true or known to be true earlier if you face that again you've got to re-evaluate even if you come to the same answer.
+
+1046
+02:08:50,000 --> 02:08:58,000
+You keep on re-evaluating, might not be looking at it fine enough that you spot the finer decimal points.
+
+1047
+02:08:58,000 --> 02:09:16,000
+Why is it absolutely critical to remember certain things? It's absolutely necessary to remember how did you bring about change the last time you encountered something like this.
+
+1048
+02:09:16,000 --> 02:09:28,000
+Which again boils down to the final part that fluidity. So if you then take this, apply it to gender, it means that fluidity is of paramount importance.
+
+1049
+02:09:28,000 --> 02:09:41,000
+You apply it to justice, it means the ability to reinterpret and reinterpret that fast enough so that by then the situations have not changed under which things had come in.
+
+1050
+02:09:41,000 --> 02:09:47,000
+That a process of justice that takes too long is an outdated process.
+
+1051
+02:09:47,000 --> 02:09:54,000
+Exactly the challenge with the justice system is right now. The world moves too fast for it to be caught up.
+
+1052
+02:09:54,000 --> 02:10:05,000
+But that does not mean that you compromise on your variables and arrive at a simpler form of justice. It does not mean that justice has to be handed out right then.
+
+1053
+02:10:05,000 --> 02:10:13,000
+What I'm saying is increase your computation power, increase the ability to parallely process multiple things.
+
+1054
+02:10:13,000 --> 02:10:31,000
+And it is this ability to parallel process that again ties back to why brains like mine or probably yours and many other people like us tend to ignore the finer details of life in favor of acquiring, observing the complexity.
+
+1055
+02:10:31,000 --> 02:10:43,000
+The only way to observe the complexity is to distance yourself to be able to broaden your field of vision or rather to get more things into your field of vision.
+
+1056
+02:10:43,000 --> 02:10:49,000
+Yeah, I think that's the only way that I can sum up what we got.
+
+1057
+02:10:49,000 --> 02:11:05,000
+Yeah, so that's fantastic by the way. The one only reason I was bringing out that document is because part of it about what we are saying that what the childishness, the neoteny.
+
+1058
+02:11:05,000 --> 02:11:14,000
+Yeah, one, the antithesis of the will to power is will to play.
+
+1059
+02:11:14,000 --> 02:11:25,000
+I was showing in that section is that how will to power, will to power and will to play are not so.
+
+1060
+02:11:25,000 --> 02:11:34,000
+Shukumar Rai is basically celebrating that will to play in a very rough sense.
+
+1061
+02:11:34,000 --> 02:11:44,000
+My point was they are not, they basically access like where those are two different extremes.
+
+1062
+02:11:44,000 --> 02:12:00,000
+But actually they live on a balance. Both need to be there. The will to power and the will to play. Both need to be there because what is will to power is the exercise to play.
+
+1063
+02:12:00,000 --> 02:12:11,000
+So exercise of power is the will to play. If you want to play that means what? You are capable of and allowed to play.
+
+1064
+02:12:11,000 --> 02:12:21,000
+So similarly what is will to power? The intent to play. Why would you want to act like am as power?
+
+1065
+02:12:21,000 --> 02:12:35,000
+Is that you want to see some certain thing to happen that is your play and because you see the threat in it like I am not allowed to do that, how do I ensure that I am allowed to play?
+
+1066
+02:12:35,000 --> 02:12:57,000
+Is that how you go on about it, the will to power? So anyways that is the part I was trying to show is that the relationship between those two things, the necessity for one or the other even though at its core, at my core I am very much of a will to power kind of person like at a pathological level.
+
+1067
+02:12:57,000 --> 02:13:20,000
+The exposure to Sukumar Rai opened me up to seeing that other side where the will to play is necessary. It is not one dimensional. The dimensionality of it, the spectrum, I need to see that and I need to position myself well enough not to become an extremist of either of the sides.
+
+1068
+02:13:20,000 --> 02:13:49,000
+Because that is what ends up happening. All the dictatorship, all the authoritative approaches to life as well as to state, to company, to governing anything basically boils down to people seeing it in a very one dimensional way and not having enough understanding of the will to play part.
+
+1069
+02:13:49,000 --> 02:14:04,000
+So I think for anybody in a leadership role they should be exposed to this will to play in their own languages but to meet Sukumar Rai helped in that sense. That is the part that I was trying to bring back up.
+
+1070
+02:14:04,000 --> 02:14:15,000
+So it had other parts as well, the oscillation part of things. I wanted to discuss that but I think we are too late for this. Let us push it back to the next week.
+
+1071
+02:14:15,000 --> 02:14:17,000
+I do not mind.
+
+1072
+02:14:17,000 --> 02:14:23,000
+No, it is okay. I do not want to associate this discussion with a sense of exhaustion.
+
+1073
+02:14:23,000 --> 02:14:28,000
+I think I am like five hours away from exhaustion.
+
+1074
+02:14:28,000 --> 02:14:38,000
+That is okay. Let us break it off here and let us look forward to the next one.
+
+1075
+02:14:38,000 --> 02:15:00,000
+So the next one is where I would want to talk about the concept of thesis-antithesis synthesis and how it is missing one parameter, the hypothesis and why that is necessary.
+
+1076
+02:15:00,000 --> 02:15:18,000
+Why it is somewhat incomplete without and why having it is actually really really more complete from a scientific or technological perspective. That is the analogy that I am going to bring it down to essentially.
+
+1077
+02:15:18,000 --> 02:15:25,000
+So let us look at it next week.
+
+1078
+02:15:25,000 --> 02:15:32,000
+So that is it for this week. Let us catch back up next week. I am going to stop this.
+

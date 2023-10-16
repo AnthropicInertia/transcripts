@@ -1,0 +1,3360 @@
+1
+00:00:00,000 --> 00:00:03,000
+Today is 7th.
+
+2
+00:00:03,000 --> 00:00:04,000
+7th?
+
+3
+00:00:04,000 --> 00:00:05,000
+Oh, shit.
+
+4
+00:00:05,000 --> 00:00:06,000
+Okay.
+
+5
+00:00:06,000 --> 00:00:07,000
+I'll change the...
+
+6
+00:00:07,000 --> 00:00:08,000
+Okay.
+
+7
+00:00:08,000 --> 00:00:09,000
+Stream is live.
+
+8
+00:00:09,000 --> 00:00:10,000
+Change the date.
+
+9
+00:00:10,000 --> 00:00:11,000
+7th.
+
+10
+00:00:11,000 --> 00:00:14,000
+So, I started recording.
+
+11
+00:00:14,000 --> 00:00:17,000
+My bad.
+
+12
+00:00:18,000 --> 00:00:20,000
+So, hey.
+
+13
+00:00:20,000 --> 00:00:21,000
+Welcome to the stream.
+
+14
+00:00:21,000 --> 00:00:25,000
+We already started talking about something and then realized that we haven't been streaming.
+
+15
+00:00:25,000 --> 00:00:27,000
+And I have been recording instead.
+
+16
+00:00:27,000 --> 00:00:29,000
+So, let me quickly correct that mistake.
+
+17
+00:00:29,000 --> 00:00:36,000
+And so, now that you go live, we were talking about how do we want to approach the format
+
+18
+00:00:36,000 --> 00:00:38,000
+and the medium and the brand.
+
+19
+00:00:38,000 --> 00:00:40,000
+So, let me quickly correct that mistake.
+
+20
+00:00:40,000 --> 00:00:46,000
+And so, now that you go live, we were talking about how do we want to approach the format
+
+21
+00:00:46,000 --> 00:00:51,000
+and the medium and the brand, et cetera, et cetera, and what are the things that drives
+
+22
+00:00:51,000 --> 00:00:55,000
+the momentum as well as what are the things that gives us more energy to continue forward
+
+23
+00:00:55,000 --> 00:00:59,000
+doing the same thing as in things that we enjoy.
+
+24
+00:00:59,000 --> 00:01:04,000
+So, with that said, with that brief context, I don't want to dig too deep into that because
+
+25
+00:01:04,000 --> 00:01:08,000
+we were in the middle of our conversation.
+
+26
+00:01:08,000 --> 00:01:12,000
+I'll hand it over to Kosta who was speaking at the last moment.
+
+27
+00:01:12,000 --> 00:01:14,000
+Go ahead, Kosta.
+
+28
+00:01:15,000 --> 00:01:22,000
+The question was that how do we use the things that we have now to kind of build, you know,
+
+29
+00:01:22,000 --> 00:01:29,000
+not to call it a content pipeline as much as different areas of work that we want to get to.
+
+30
+00:01:29,000 --> 00:01:37,000
+And the core of it is that there are a bunch of ideas floating around that is probably
+
+31
+00:01:37,000 --> 00:01:42,000
+valuable to audiences beyond just the two of us.
+
+32
+00:01:42,000 --> 00:01:48,000
+And what we would like to do is maybe take them into forms of blog posts as a podcast,
+
+33
+00:01:48,000 --> 00:01:53,000
+eventually building onto some software, some, you know, usable things.
+
+34
+00:01:53,000 --> 00:01:58,000
+But then instead of looking at these things as separate things that we have to produce,
+
+35
+00:01:58,000 --> 00:02:03,000
+like not to be in a stage where, you know, hey, write 10 blog posts this month,
+
+36
+00:02:03,000 --> 00:02:07,000
+two podcasts this month, and I don't think either of us wants to get into this.
+
+37
+00:02:07,000 --> 00:02:12,000
+So instead, one of the suggestions was that why don't we use these weekly discussions
+
+38
+00:02:12,000 --> 00:02:21,000
+as stage zero, which is the most malleable part of the entire initiative.
+
+39
+00:02:21,000 --> 00:02:26,000
+Over three to four such iterations in a month, we would have three to four such sessions,
+
+40
+00:02:26,000 --> 00:02:31,000
+which brings us to stage one, at which point distil or extract the information
+
+41
+00:02:31,000 --> 00:02:35,000
+and categorize the information that has been created in these discussions,
+
+42
+00:02:35,000 --> 00:02:39,000
+which then goes on to build blog posts, goes on to inform podcasts,
+
+43
+00:02:39,000 --> 00:02:44,000
+but then and any other forms that come in.
+
+44
+00:02:44,000 --> 00:02:51,000
+But for any audience member, anybody listening in, the part that I was just saying last
+
+45
+00:02:51,000 --> 00:02:56,000
+and I guess there would have something different or addition to say here is I see different
+
+46
+00:02:56,000 --> 00:03:00,000
+levels of engagement as different levels of what we were talking about the orbit model in
+
+47
+00:03:01,000 --> 00:03:07,000
+and how that kind of changes the concept of looking at communities as a funnel
+
+48
+00:03:07,000 --> 00:03:12,000
+that you get community members at the top of the funnel, they slowly filter down.
+
+49
+00:03:12,000 --> 00:03:18,000
+Instead of that, look at communities as objects orbiting around the central body.
+
+50
+00:03:18,000 --> 00:03:23,000
+The central body of that solar system, so to say, would be the initiative
+
+51
+00:03:23,000 --> 00:03:26,000
+or the project that you are building people around.
+
+52
+00:03:26,000 --> 00:03:30,000
+So in that sense, these stages are sort of the inner workings.
+
+53
+00:03:30,000 --> 00:03:35,000
+So these are very inner layers of the orbit.
+
+54
+00:03:35,000 --> 00:03:41,000
+And then like blog posts and all you can get to how much more malleable that form is
+
+55
+00:03:41,000 --> 00:03:44,000
+for us to maybe act on any feedback that comes in.
+
+56
+00:03:44,000 --> 00:03:47,000
+So that's probably a bit vague.
+
+57
+00:03:47,000 --> 00:03:54,000
+But the idea is that we start with this and roll out anything new that comes off of this data.
+
+58
+00:03:56,000 --> 00:03:58,000
+How does that sound?
+
+59
+00:03:58,000 --> 00:04:02,000
+Yeah, that sounds good.
+
+60
+00:04:02,000 --> 00:04:04,000
+Right.
+
+61
+00:04:04,000 --> 00:04:11,000
+To put my focus back into the part that you started with, not to call it a content pipeline,
+
+62
+00:04:11,000 --> 00:04:13,000
+but the stages.
+
+63
+00:04:13,000 --> 00:04:19,000
+How about I kind of lay down those like stages as they're coming into my head
+
+64
+00:04:19,000 --> 00:04:21,000
+and then figure that part out.
+
+65
+00:04:21,000 --> 00:04:25,000
+So say, for example, the first initial part would be thinking out loud,
+
+66
+00:04:25,000 --> 00:04:27,000
+which is what we are doing.
+
+67
+00:04:27,000 --> 00:04:31,000
+So first audience is us, like you and me, essentially, right?
+
+68
+00:04:31,000 --> 00:04:34,000
+So basically, we are thinking ourselves out loud.
+
+69
+00:04:34,000 --> 00:04:40,000
+And we are doing so through this streaming thingy.
+
+70
+00:04:40,000 --> 00:04:46,000
+So some people might want to watch this live and participate in that process.
+
+71
+00:04:46,000 --> 00:04:49,000
+They would pose the question live.
+
+72
+00:04:49,000 --> 00:04:51,000
+I'm not talking about right now.
+
+73
+00:04:51,000 --> 00:04:54,000
+I'm talking about in its more mature stage.
+
+74
+00:04:54,000 --> 00:04:58,000
+So they would want to come along for the journey, essentially,
+
+75
+00:04:58,000 --> 00:05:01,000
+and be live participants of what is being discussed.
+
+76
+00:05:01,000 --> 00:05:03,000
+That's stage one.
+
+77
+00:05:03,000 --> 00:05:05,000
+We are the stage zero.
+
+78
+00:05:05,000 --> 00:05:07,000
+That is stage one.
+
+79
+00:05:07,000 --> 00:05:12,000
+The next ones would be the people who watch the world next day.
+
+80
+00:05:12,000 --> 00:05:16,000
+Another layer would be people who hang out on our Discord server or something like that,
+
+81
+00:05:16,000 --> 00:05:19,000
+something of that kind, like more real-time community support.
+
+82
+00:05:19,000 --> 00:05:21,000
+I'm not saying Discord has to be it.
+
+83
+00:05:21,000 --> 00:05:22,000
+It can be Slack. It can be Discord.
+
+84
+00:05:22,000 --> 00:05:26,000
+It can be some other more decentralized or federated mechanism, metrics.
+
+85
+00:05:26,000 --> 00:05:28,000
+That's not the point.
+
+86
+00:05:28,000 --> 00:05:35,000
+The point is like real-time communication, more of a real-time communication platform,
+
+87
+00:05:35,000 --> 00:05:39,000
+where they can post questions, have discussions on that.
+
+88
+00:05:39,000 --> 00:05:43,000
+So it basically becomes a community, like another layer of community.
+
+89
+00:05:43,000 --> 00:05:48,000
+And the layer above that becomes the ones who read the blog posts or newsletters,
+
+90
+00:05:48,000 --> 00:05:54,000
+whatever you want to call it, on a particular time basis.
+
+91
+00:05:54,000 --> 00:05:58,000
+Or maybe there will be a level below that,
+
+92
+00:05:58,000 --> 00:06:06,000
+people who see the curated posts on different mediums we share it on,
+
+93
+00:06:06,000 --> 00:06:10,000
+Twitter or LinkedIn or other places where it gets shared.
+
+94
+00:06:10,000 --> 00:06:11,000
+They read about it.
+
+95
+00:06:11,000 --> 00:06:15,000
+Okay, they understand that there are these people doing something called Anthropoceneershare
+
+96
+00:06:15,000 --> 00:06:16,000
+or something like that.
+
+97
+00:06:16,000 --> 00:06:21,000
+And then the layer above that is people who subscribe to the channels or blog posts
+
+98
+00:06:21,000 --> 00:06:25,000
+and watch the video when they're published on a monthly basis or something like that.
+
+99
+00:06:25,000 --> 00:06:27,000
+So these can be the things.
+
+100
+00:06:27,000 --> 00:06:29,000
+I may have missed some things.
+
+101
+00:06:29,000 --> 00:06:34,000
+If you give it some time and figure out maybe we can document this whole thing together
+
+102
+00:06:34,000 --> 00:06:38,000
+and pack together, then we have a more complete picture of how to go about it.
+
+103
+00:06:39,000 --> 00:06:47,000
+And I think that's already a reasonably good distribution.
+
+104
+00:06:47,000 --> 00:06:52,000
+And in all of these cases, like you said, it's also the level of engagement,
+
+105
+00:06:52,000 --> 00:06:56,000
+which is what I called as malleability of the project under the hood.
+
+106
+00:06:56,000 --> 00:06:59,000
+Because at this stage, any question coming in, we can respond to that,
+
+107
+00:06:59,000 --> 00:07:02,000
+which will influence the course of the discussion.
+
+108
+00:07:02,000 --> 00:07:07,000
+Over time, anything that happens in the community can influence the course of discussion
+
+109
+00:07:07,000 --> 00:07:10,000
+in the next iteration.
+
+110
+00:07:10,000 --> 00:07:14,000
+Anything that comes up through the blog posts will probably improve that blog post
+
+111
+00:07:14,000 --> 00:07:16,000
+and potentially improve something that we write next.
+
+112
+00:07:16,000 --> 00:07:21,000
+So, you know, like how malleable, it's like your distance from the center.
+
+113
+00:07:21,000 --> 00:07:25,000
+So that's what I'm saying. This is a good way of you have basically adopted that orbit
+
+114
+00:07:25,000 --> 00:07:27,000
+of thinking into this.
+
+115
+00:07:27,000 --> 00:07:28,000
+I love that model though.
+
+116
+00:07:28,000 --> 00:07:29,000
+Yeah.
+
+117
+00:07:29,000 --> 00:07:30,000
+I love that model.
+
+118
+00:07:30,000 --> 00:07:31,000
+Yeah.
+
+119
+00:07:31,000 --> 00:07:36,000
+Cool. So that kind of that kind of like so basically we are aligned there.
+
+120
+00:07:37,000 --> 00:07:40,000
+Would you say like or do we have any kind of decoherence there?
+
+121
+00:07:40,000 --> 00:07:44,000
+Because I would love to like those are the points more important to me than
+
+122
+00:07:44,000 --> 00:07:50,000
+like setting up the base correct is more important to me than the particular topic of this month
+
+123
+00:07:50,000 --> 00:07:52,000
+or topic of this day, essentially.
+
+124
+00:07:52,000 --> 00:07:53,000
+That's what I'm saying.
+
+125
+00:07:53,000 --> 00:07:59,000
+Because unless we figure out a way to sustainably do this for a long course of time, right?
+
+126
+00:08:00,000 --> 00:08:07,000
+Doing a magic trick for a day is not what is going to get us further.
+
+127
+00:08:07,000 --> 00:08:09,000
+Anyways, that's why I was getting it.
+
+128
+00:08:09,000 --> 00:08:14,000
+Cool. So with that said, we were talking about the future of software
+
+129
+00:08:14,000 --> 00:08:19,000
+and you were talking about scoping this out so that it's valuable for people you are talking about.
+
+130
+00:08:19,000 --> 00:08:28,000
+So with this new light, I can say that let's not think about it in terms of what would be the scope
+
+131
+00:08:28,000 --> 00:08:29,000
+that would be valuable.
+
+132
+00:08:29,000 --> 00:08:31,000
+Let's talk about the whole thing.
+
+133
+00:08:31,000 --> 00:08:33,000
+And then in retrospect, we can choose that.
+
+134
+00:08:33,000 --> 00:08:35,000
+Hey, this is the part that.
+
+135
+00:08:35,000 --> 00:08:45,000
+So do you think in your organization the practices that you're following is effective by doing X, Y and Z?
+
+136
+00:08:45,000 --> 00:08:49,000
+What if I can show you that's not the case and you could do this instead?
+
+137
+00:08:49,000 --> 00:08:54,000
+What if like which kind of teams should use flow based programming?
+
+138
+00:08:55,000 --> 00:08:58,000
+Or rather same thing about are you a hardware organization
+
+139
+00:08:58,000 --> 00:09:02,000
+and you're following the software practices of build fast, break fast kind of approach?
+
+140
+00:09:02,000 --> 00:09:07,000
+Do you know that in hardware that doesn't work so well as it does for software?
+
+141
+00:09:07,000 --> 00:09:08,000
+And they're not the same thing.
+
+142
+00:09:08,000 --> 00:09:11,000
+Hardware, you should plan more better in those kind of ways.
+
+143
+00:09:11,000 --> 00:09:17,000
+Like the concepts that we kind of take readily, but not necessarily are true for.
+
+144
+00:09:17,000 --> 00:09:21,000
+It doesn't apply everywhere or new light that can be shed on something.
+
+145
+00:09:21,000 --> 00:09:30,000
+We can then pick those topics out and put them on a funnel for like can be presented better in a sense,
+
+146
+00:09:30,000 --> 00:09:33,000
+not part of the only the real time discussion that we had.
+
+147
+00:09:33,000 --> 00:09:41,000
+So with that said, there doesn't need to be in my mind a certain kind of boundary that we need to follow or maintain here.
+
+148
+00:09:41,000 --> 00:09:50,000
+This can be extreme raw stream of thoughts, as long as it's not something that is a boundary bordering on illegal or something.
+
+149
+00:09:50,000 --> 00:09:53,000
+I don't think there's any problem with that.
+
+150
+00:09:53,000 --> 00:09:55,000
+Even that's a restriction.
+
+151
+00:09:55,000 --> 00:10:00,000
+I would eventually want to get lifted, but not possible now.
+
+152
+00:10:00,000 --> 00:10:04,000
+So I'm sticking with it.
+
+153
+00:10:04,000 --> 00:10:11,000
+So I think I want to double down back on the build fast, break fast.
+
+154
+00:10:11,000 --> 00:10:13,000
+Is that what you said?
+
+155
+00:10:13,000 --> 00:10:16,000
+So that is like fast iteration approach, right?
+
+156
+00:10:16,000 --> 00:10:18,000
+So it doesn't have to be perfect.
+
+157
+00:10:18,000 --> 00:10:19,000
+Build something.
+
+158
+00:10:19,000 --> 00:10:25,000
+Let's see how well does it work if something doesn't put another layer of bandaid on top of it.
+
+159
+00:10:25,000 --> 00:10:26,000
+And now it does.
+
+160
+00:10:26,000 --> 00:10:28,000
+And now it's better.
+
+161
+00:10:28,000 --> 00:10:30,000
+Yeah, we can say that.
+
+162
+00:10:30,000 --> 00:10:36,000
+So I want to start there because I feel like it's something that talks very close to my heart.
+
+163
+00:10:36,000 --> 00:10:41,000
+As in the issue that I lost your video.
+
+164
+00:10:41,000 --> 00:10:43,000
+No, it's fine.
+
+165
+00:10:43,000 --> 00:10:46,000
+I'm just switching. Sorry about that.
+
+166
+00:10:46,000 --> 00:10:47,000
+No worries.
+
+167
+00:10:47,000 --> 00:11:00,000
+So the build fast, break fast or like ship quick and every other such phrases that software development has gathered.
+
+168
+00:11:00,000 --> 00:11:01,000
+Yeah.
+
+169
+00:11:01,000 --> 00:11:06,000
+And there is one fundamental issue with those approaches.
+
+170
+00:11:07,000 --> 00:11:13,000
+And this is way more overlooked than I would like to have.
+
+171
+00:11:13,000 --> 00:11:16,000
+So that's I guess just one area that I wanted to begin with.
+
+172
+00:11:16,000 --> 00:11:24,000
+And just to pick on why build the base, like spend time building the base is important, even though it looks like you are building very slow.
+
+173
+00:11:24,000 --> 00:11:26,000
+You're not shipping at all.
+
+174
+00:11:27,000 --> 00:11:38,000
+The difference between the two is if you chart to build fast and break fast sort of iteration, you get from zero to ten very fast.
+
+175
+00:11:38,000 --> 00:11:40,000
+You can do that. Right.
+
+176
+00:11:40,000 --> 00:11:47,000
+But in the process, what slows down as your breakages happen?
+
+177
+00:11:47,000 --> 00:11:57,000
+Because you're breaking your like what build fast break fast kind of translates to is where you don't worry about backwards compatibility of a project because you're like I am shipping it.
+
+178
+00:11:57,000 --> 00:11:59,000
+I can ship all client instances.
+
+179
+00:11:59,000 --> 00:12:06,000
+Everybody will be on the same version and things would go perfectly like as if you've solved the distribution problem.
+
+180
+00:12:06,000 --> 00:12:08,000
+So this is one facet of it.
+
+181
+00:12:08,000 --> 00:12:12,000
+But the other facet of it is as your patches come in.
+
+182
+00:12:12,000 --> 00:12:18,000
+As more and more patches come in, your builds become slower and slower and slower.
+
+183
+00:12:18,000 --> 00:12:21,000
+So you are breaking fast, but you're not building fast enough.
+
+184
+00:12:21,000 --> 00:12:26,000
+And over time, the rate of your iteration slows down.
+
+185
+00:12:26,000 --> 00:12:38,000
+And which means any new feature at some point you make statements like this, that this system was not designed to accommodate those issues in the first place.
+
+186
+00:12:38,000 --> 00:12:40,000
+So you have hit a threshold condition.
+
+187
+00:12:40,000 --> 00:12:47,000
+But most of the time, if we really dissect that issue, what you will find is it's not that the system was not built.
+
+188
+00:12:47,000 --> 00:12:51,000
+It's that the system has had so many patchworks, so many band-aids.
+
+189
+00:12:51,000 --> 00:12:59,000
+It is standing on such a thin edge that any one more, you know, like when the Jenga is like that full last break will collapse it.
+
+190
+00:12:59,000 --> 00:13:02,000
+You know, it kind of gets to that stage.
+
+191
+00:13:02,000 --> 00:13:08,000
+So build fast and break fast essentially slows down your iterative pace over time.
+
+192
+00:13:08,000 --> 00:13:13,000
+So how do you then go back to building a foundation?
+
+193
+00:13:13,000 --> 00:13:15,000
+What should that foundation do for you?
+
+194
+00:13:15,000 --> 00:13:23,000
+If you're starting off a new project, if you're starting as a new software project, you're starting off on a new learning whatever.
+
+195
+00:13:23,000 --> 00:13:27,000
+But let's stick to the software project area right now.
+
+196
+00:13:27,000 --> 00:13:37,000
+If you focus on building out the systems first that help you iterate fast in the future, there is a difference between the two.
+
+197
+00:13:37,000 --> 00:13:41,000
+In build fast and break fast, even though you're saying that we want to iterate fast and ship fast,
+
+198
+00:13:41,000 --> 00:13:49,000
+you're often not taking care of other things that break because you say that this is collateral cost at acceptable to breaking.
+
+199
+00:13:49,000 --> 00:13:55,000
+And in the other format, you are saying that, OK, I know systems will break.
+
+200
+00:13:55,000 --> 00:13:58,000
+Things do software breaks, there are errors.
+
+201
+00:13:58,000 --> 00:14:08,000
+But what I want is to have the ability to iterate very fast, ship out and update very fast, no matter how pervasive the issue may be.
+
+202
+00:14:08,000 --> 00:14:10,000
+Or if I'm building something new, how can I ship on that?
+
+203
+00:14:10,000 --> 00:14:18,000
+Which means as a software team, especially let's say you're building a new SaaS product, build out your platform team first,
+
+204
+00:14:18,000 --> 00:14:24,000
+make your any core runtime, any core technical decisions, lock them in.
+
+205
+00:14:24,000 --> 00:14:29,000
+Make sure that you have evaluated things that you want to work with.
+
+206
+00:14:29,000 --> 00:14:36,000
+So, for example, any standard SaaS, you don't want to bicker about what database to use.
+
+207
+00:14:36,000 --> 00:14:42,000
+You definitely don't want to bicker about how should the schema be structured if you're building a new service.
+
+208
+00:14:43,000 --> 00:14:48,000
+You don't want to bicker about what should be the API standard or that, hey, I want APIs to be built this way,
+
+209
+00:14:48,000 --> 00:14:52,000
+which means there are certain standardization, which is what forms the base.
+
+210
+00:14:52,000 --> 00:15:02,000
+But that is the thing that you tend to first that your first shipment is to your consumer is the internal team,
+
+211
+00:15:02,000 --> 00:15:06,000
+which they can use to then iterate fast on top of it.
+
+212
+00:15:06,000 --> 00:15:16,000
+So, what that does is pretty much the blue line on this chart is it takes you off to a slow start.
+
+213
+00:15:16,000 --> 00:15:24,000
+But then you get to this point of incremental returns where cumulative returns start pushing you broader.
+
+214
+00:15:24,000 --> 00:15:34,000
+And with such a system, the key line can pretty much be open, scalable, community-driven processes,
+
+215
+00:15:34,000 --> 00:15:40,000
+making giant improvements right after that threshold kicks off because you're not stuck in the same loop.
+
+216
+00:15:40,000 --> 00:15:43,000
+You're not breaking as much anymore.
+
+217
+00:15:43,000 --> 00:15:48,000
+Yeah, going gets easier as you get going, essentially.
+
+218
+00:15:48,000 --> 00:15:51,000
+So, the reasons are labeled R and K.
+
+219
+00:15:51,000 --> 00:15:52,000
+And I'll come back to that.
+
+220
+00:15:52,000 --> 00:16:02,000
+There is a very good reason with all that you explained about how putting more time in figuring stuff out works well
+
+221
+00:16:02,000 --> 00:16:07,000
+and why you think so and why I think so, but many people don't.
+
+222
+00:16:07,000 --> 00:16:16,000
+It boils down to a very different theory that they don't seem coherent, but they're absolutely exactly that way,
+
+223
+00:16:16,000 --> 00:16:24,000
+which is why in the hardware industry, if you go for that R selection strategy, you would fail miserably.
+
+224
+00:16:24,000 --> 00:16:25,000
+You have to do K.
+
+225
+00:16:25,000 --> 00:16:26,000
+You have to do K.
+
+226
+00:16:26,000 --> 00:16:34,000
+And in the software industry, the way the gratification is modeled, if you are fast to market,
+
+227
+00:16:34,000 --> 00:16:42,000
+albeit with stupider products, and you got some people subscribed to that IDR model,
+
+228
+00:16:42,000 --> 00:16:46,000
+now when your better version comes out, they already are subscribed to it.
+
+229
+00:16:46,000 --> 00:16:49,000
+So you have more as in thing to play with.
+
+230
+00:16:49,000 --> 00:16:54,000
+And you only can get more people out of that because your product can only get better in a sense.
+
+231
+00:16:54,000 --> 00:17:01,000
+And for anybody new coming in, if they go with the K model, by the time they get to the crossover point,
+
+232
+00:17:01,000 --> 00:17:10,000
+chances are that trend has already surpassed, that entire market has been utilized.
+
+233
+00:17:10,000 --> 00:17:19,000
+Now, that is true and that was true, however, in a time where R and K followed a very different timeline.
+
+234
+00:17:19,000 --> 00:17:25,000
+And the K selection actually needed a long time to actually be competitive.
+
+235
+00:17:25,000 --> 00:17:32,000
+Now, with the new kind of tools, you can make K itself faster.
+
+236
+00:17:32,000 --> 00:17:41,000
+You can plan faster, plan better, and actually cross the limit set points very aggressively than before,
+
+237
+00:17:41,000 --> 00:17:50,000
+whereas R will always get stuck at some point and get like the going will get tough for it as it continues going forward
+
+238
+00:17:50,000 --> 00:17:54,000
+because it didn't start with enough groundwork to sustain that.
+
+239
+00:17:54,000 --> 00:17:56,000
+It becomes a jenga block.
+
+240
+00:17:56,000 --> 00:18:06,000
+So now those two curves follow two different styles of evolution.
+
+241
+00:18:07,000 --> 00:18:16,000
+One is a tortoise laying 500 eggs and basically leaving it be going over.
+
+242
+00:18:16,000 --> 00:18:22,000
+Think of those 500 eggs as 500 different ideas built for breakfast.
+
+243
+00:18:22,000 --> 00:18:26,000
+Half of them would not even make it to the sea for the first time ever.
+
+244
+00:18:26,000 --> 00:18:31,000
+Some of them would, one of them might, but laying more number of eggs
+
+245
+00:18:31,000 --> 00:18:40,000
+gives the opportunity for maximum variance or variable, variabilities to be explored, which one gets selected.
+
+246
+00:18:40,000 --> 00:18:47,000
+So if you're trying to make a selection, like which kind of selection would work better, that works very well in evolution.
+
+247
+00:18:47,000 --> 00:18:50,000
+Lay more eggs. Don't worry much about it.
+
+248
+00:18:50,000 --> 00:18:55,000
+Move on to your life. Next year, come back and lay 500 more eggs.
+
+249
+00:18:55,000 --> 00:18:59,000
+That's it. Life is easy. You don't have to do much.
+
+250
+00:18:59,000 --> 00:19:09,000
+Whereas if you go up the food chain or like the, how do you say, like the success chain of the evolutionary species, what humans do,
+
+251
+00:19:09,000 --> 00:19:14,000
+like we spend our 18 years, first 18 years being kid.
+
+252
+00:19:14,000 --> 00:19:21,000
+Like not only that we have, we like something can things can go wrong.
+
+253
+00:19:21,000 --> 00:19:24,000
+There are other entities will make sure things don't go wrong.
+
+254
+00:19:24,000 --> 00:19:28,000
+They will give you that lower hanging part that you haven't built up yet.
+
+255
+00:19:28,000 --> 00:19:33,000
+They'll give you that will make you get you to that catch up point where you can cross over.
+
+256
+00:19:33,000 --> 00:19:39,000
+Now you are adult. Now go make break boundaries up to you.
+
+257
+00:19:39,000 --> 00:19:49,000
+Right. So that happens only in species who have found out their niche or the selection has already been selected.
+
+258
+00:19:49,000 --> 00:19:53,000
+Say, for example, sharks don't evolve as much as other species.
+
+259
+00:19:53,000 --> 00:19:56,000
+They have been they have been formed before dinosaurs.
+
+260
+00:19:56,000 --> 00:20:00,000
+They're still there. Right.
+
+261
+00:20:00,000 --> 00:20:04,000
+The reason being they have found their niche.
+
+262
+00:20:04,000 --> 00:20:11,000
+Even if you go for a homogenous species, like snakes, for example, two different species of snakes can behave to completely different.
+
+263
+00:20:11,000 --> 00:20:17,000
+A king cobra actually is a viviparous, not viviparous.
+
+264
+00:20:17,000 --> 00:20:22,000
+So it gives birth to baby snakes, which is awkward and weird.
+
+265
+00:20:22,000 --> 00:20:30,000
+It takes care of those baby snakes like is not expected out of snake like their lowest form of reptiles in a sense.
+
+266
+00:20:30,000 --> 00:20:35,000
+Right. Why is that the case? If you think about it, OK, what does it do in a food chain?
+
+267
+00:20:35,000 --> 00:20:39,000
+It eats other snakes is basically breaking that boundary.
+
+268
+00:20:39,000 --> 00:20:44,000
+That green set point is basically transcending over what it is said to be.
+
+269
+00:20:45,000 --> 00:20:49,000
+It's like a ratatouille. You're said to be a mouse, but you have become a chef.
+
+270
+00:20:49,000 --> 00:20:57,000
+It's almost like that way. If you need to break that kind of boundary, if you have to like set any kind of sublime,
+
+271
+00:20:57,000 --> 00:21:03,000
+like become something that other people perceive as sublime, then you have to go the case selection mechanism.
+
+272
+00:21:03,000 --> 00:21:13,000
+You cannot have excellence going by the art selection, but the art selection is what gives you the tools to work with for the case selection.
+
+273
+00:21:13,000 --> 00:21:23,000
+So the entire whole point that I was trying to build is that not one can be thrown out for the sake of the other.
+
+274
+00:21:23,000 --> 00:21:29,000
+However, one needs to find the balance is neither of those things alone is sufficient.
+
+275
+00:21:29,000 --> 00:21:37,000
+If you get too comfortable in your skin in the case selection model, one certain asteroid will come and wipe your entire not only species,
+
+276
+00:21:37,000 --> 00:21:49,000
+but entire ecology out because you are too comfortable being large and big and breathing too much oxygen and cannot burrow under the ground.
+
+277
+00:21:49,000 --> 00:21:57,000
+So that's what ends up happening. So if you want to sustain and survive, you need both.
+
+278
+00:21:57,000 --> 00:22:06,000
+However, you need to pick and choose the balance how much of innovation of art you want and how much planning of key you want.
+
+279
+00:22:06,000 --> 00:22:18,000
+Usually that balance, usually whenever people say something is good, we have a tendency to do only that, like overdo those things.
+
+280
+00:22:18,000 --> 00:22:27,000
+So completely like off the salt, like would never touch salt ever again, that kind of thing.
+
+281
+00:22:27,000 --> 00:22:33,000
+We tend to overdo that. So those kind of practices is where the challenge is like.
+
+282
+00:22:33,000 --> 00:22:38,000
+How do you think? First of all, do you see the point that I was trying to make?
+
+283
+00:22:38,000 --> 00:22:46,000
+Is did I explain it enough or did I like not explaining the screen back?
+
+284
+00:22:46,000 --> 00:22:49,000
+As in you just share it again.
+
+285
+00:22:49,000 --> 00:22:54,000
+Oh, OK. I just I crossed it as in I didn't save it.
+
+286
+00:22:54,000 --> 00:22:56,000
+Didn't save it. OK. Yeah.
+
+287
+00:22:56,000 --> 00:23:01,000
+So anyhow, I was back as in I can.
+
+288
+00:23:02,000 --> 00:23:05,000
+I was showing it back as in I I stopped showing.
+
+289
+00:23:05,000 --> 00:23:08,000
+That's what you mentioned.
+
+290
+00:23:08,000 --> 00:23:10,000
+And if you can share it again. Oh, sorry.
+
+291
+00:23:10,000 --> 00:23:13,000
+No, I like I have to draw it again. Yeah.
+
+292
+00:23:13,000 --> 00:23:20,000
+So the thing that I was trying to get to, and I think you did a very good segue to it is that the time it takes, right?
+
+293
+00:23:20,000 --> 00:23:30,000
+Because one of the things to look at and again, whether the key or the art flow, it depends on what your destination is.
+
+294
+00:23:30,000 --> 00:23:40,000
+Like if you are doing something that is really wrong, then because there are chances that the results of your computation of the information that you need won't be available for a few years.
+
+295
+00:23:40,000 --> 00:23:42,000
+So there is a way to get whatever.
+
+296
+00:23:42,000 --> 00:23:51,000
+So the key curve can take the advantage of varying time, a specific milestone or a specific inflection point to be precise exists.
+
+297
+00:23:52,000 --> 00:24:03,000
+Now, if you want to actually maximize this area, I would have asked you to shade the RK intersection.
+
+298
+00:24:03,000 --> 00:24:13,000
+Yes, because the best way to then combine both because you need the short bursts of acceleration.
+
+299
+00:24:13,000 --> 00:24:22,000
+Again, if you look at agile processes and scrum, you always have this concept of spikes, right, which are your exploratory area.
+
+300
+00:24:22,000 --> 00:24:37,000
+The very interesting pattern that emerges when you chart it this way is you kind of get to a tangential like a diagonal double helix that forms as a result of the constant intersections of the R and K lines.
+
+301
+00:24:37,000 --> 00:24:40,000
+And which is your step function.
+
+302
+00:24:40,000 --> 00:24:41,000
+Tick tock model.
+
+303
+00:24:41,000 --> 00:24:43,000
+It's called tick tock tick tock model.
+
+304
+00:24:43,000 --> 00:24:47,000
+And they've introduced it for their processor generation.
+
+305
+00:24:47,000 --> 00:24:48,000
+One shrinks the die size.
+
+306
+00:24:48,000 --> 00:24:51,000
+One increases the number of processor.
+
+307
+00:24:51,000 --> 00:25:05,000
+And the point I'm trying to say is that the double helical structure exists in nature in exactly these kind of situations that where there is a contention between the energy usage and time.
+
+308
+00:25:05,000 --> 00:25:07,000
+Or efficiency over time.
+
+309
+00:25:07,000 --> 00:25:13,000
+Or there is this constant correlation because there are two things that are time orbiting around each other.
+
+310
+00:25:13,000 --> 00:25:24,000
+So what this would look like if I am to map this to physics, if this would look like a binary star system pacing through the galaxy or through a universe, the route that they will chart.
+
+311
+00:25:24,000 --> 00:25:32,000
+The important thing is that your R and K have bounded like they have attraction towards each other.
+
+312
+00:25:32,000 --> 00:25:40,000
+If your R and K separate, if they diverge, then you at some point would choose a certain way.
+
+313
+00:25:40,000 --> 00:25:41,000
+And that's fine.
+
+314
+00:25:41,000 --> 00:25:45,000
+Like divergence is also good in some areas.
+
+315
+00:25:45,000 --> 00:25:51,000
+Like let's say you have you have hit that area where you know that you found your niche and you want to carry on on the K trajectory.
+
+316
+00:25:51,000 --> 00:25:55,000
+It's OK to then detach from the R trajectory.
+
+317
+00:25:55,000 --> 00:26:03,000
+But what would soon happen is after a while, the same patterns would emerge because again, this is fundamentally a step function.
+
+318
+00:26:03,000 --> 00:26:13,000
+You have to flat line and then you have to climb again, which is why I was saying that the best thing to then do is look at how do you combine innovation?
+
+319
+00:26:13,000 --> 00:26:21,000
+So that if you shared that area between R and K, the reason I was saying that what that is, it's your safety margin.
+
+320
+00:26:22,000 --> 00:26:27,000
+That R cannot exceed a certain boundary before K catching up.
+
+321
+00:26:27,000 --> 00:26:36,000
+So if you then just continue on that front, it it also means that those are stable.
+
+322
+00:26:36,000 --> 00:26:39,000
+When you wrote E here, what was your E?
+
+323
+00:26:39,000 --> 00:26:43,000
+Entropy, but energy fits just fine.
+
+324
+00:26:43,000 --> 00:26:46,000
+OK, I went to energy.
+
+325
+00:26:46,000 --> 00:26:48,000
+I was like something doesn't feel right.
+
+326
+00:26:48,000 --> 00:26:51,000
+So you see what you're saying that, yeah.
+
+327
+00:26:51,000 --> 00:26:55,000
+I am saying the classic dualist philosophy.
+
+328
+00:26:55,000 --> 00:26:57,000
+I got it.
+
+329
+00:26:57,000 --> 00:26:59,000
+I see it that way, by the way.
+
+330
+00:26:59,000 --> 00:27:01,000
+But this is not the first time.
+
+331
+00:27:01,000 --> 00:27:09,000
+So you can go on this double helical process, but the double helical grows over time.
+
+332
+00:27:09,000 --> 00:27:15,000
+What to watch out for is yet if E is entropy, this makes all the more sense.
+
+333
+00:27:15,000 --> 00:27:21,000
+That this curve should kind of be a linear and mildly.
+
+334
+00:27:21,000 --> 00:27:29,000
+If you chart the intersection points of R and K and plot that, it should be nearly linear.
+
+335
+00:27:29,000 --> 00:27:30,000
+Yeah, it would be.
+
+336
+00:27:30,000 --> 00:27:39,000
+In fact, the best equilibrium, you are doing it perfect when it is a perfect 45 degree angle on the E by T chart.
+
+337
+00:27:40,000 --> 00:27:48,000
+This one that is a perfect charting the growth of entropy over time and having some points where you are merging back.
+
+338
+00:27:48,000 --> 00:27:51,000
+So that's quite a lot of theory.
+
+339
+00:27:51,000 --> 00:28:03,000
+But then how does this boil down to what we are talking of building the base that are these discussions are pretty much the R line.
+
+340
+00:28:03,000 --> 00:28:07,000
+That it's the upward curve of the R line.
+
+341
+00:28:07,000 --> 00:28:14,000
+And at some point, if we continue along the R line, we are going to not produce anything that is worthwhile and we are going to flatten out.
+
+342
+00:28:14,000 --> 00:28:16,000
+There won't be newer ideas.
+
+343
+00:28:16,000 --> 00:28:28,000
+The K line here is something that is taking whatever is there, creating that baseline, meeting up to meet like a publishing point.
+
+344
+00:28:28,000 --> 00:28:36,000
+Now, when let's let's mark that as like E1T1 sort of, let's say the first inflection point.
+
+345
+00:28:36,000 --> 00:28:43,000
+First, let me mark this inflection point, this point.
+
+346
+00:28:43,000 --> 00:28:48,000
+Yeah. So this after this first inflection point, something interesting is happening.
+
+347
+00:28:48,000 --> 00:28:57,000
+If you notice, the R is sort of taking a period of recovery where it is catching up.
+
+348
+00:28:57,000 --> 00:29:02,000
+But in that point, the K line actually has a lot to catch up on.
+
+349
+00:29:02,000 --> 00:29:07,000
+So that publishing the feedback and everything comes in some sort of stabilized delivery.
+
+350
+00:29:07,000 --> 00:29:09,000
+Meanwhile, this needs to build up.
+
+351
+00:29:09,000 --> 00:29:13,000
+So one interesting, I mean, this is, of course, hand drawn.
+
+352
+00:29:13,000 --> 00:29:19,000
+But when you plot it, what's going to happen is your R would never dip below its current Y levels.
+
+353
+00:29:19,000 --> 00:29:24,000
+Your R would flatten and then go up again.
+
+354
+00:29:24,000 --> 00:29:32,000
+So these the P here is one of those key inflection release points.
+
+355
+00:29:32,000 --> 00:29:42,000
+Whenever you are at this P, each time you can take a call on whether for further like which direction to go next.
+
+356
+00:29:42,000 --> 00:29:47,000
+Because from there, you can choose key. I want to do another burst of development.
+
+357
+00:29:47,000 --> 00:29:52,000
+But in any case, it ends up looking like a double helical pattern.
+
+358
+00:29:52,000 --> 00:29:59,000
+Which is why I do not promote like personally to go for either one of those approach.
+
+359
+00:29:59,000 --> 00:30:05,000
+And if you notice, we haven't been doing either one of those approach by itself.
+
+360
+00:30:05,000 --> 00:30:09,000
+What we did is that we kept the idea generation factory.
+
+361
+00:30:09,000 --> 00:30:15,000
+This R as it is untouched. Go ahead, do your thing.
+
+362
+00:30:15,000 --> 00:30:18,000
+Right. At some point you will hit a ceiling or something like that.
+
+363
+00:30:18,000 --> 00:30:21,000
+No more ideas coming out. I don't know when that will happen.
+
+364
+00:30:21,000 --> 00:30:26,000
+If that does, but we are not tying it with success of the whole thing to that only.
+
+365
+00:30:26,000 --> 00:30:30,000
+We're saying, you know, let's talk about how do we classify that categorize that?
+
+366
+00:30:30,000 --> 00:30:35,000
+How do you set up the platform in a way that part of the discussion was the case selection.
+
+367
+00:30:35,000 --> 00:30:37,000
+Right. So we did both at the same time.
+
+368
+00:30:37,000 --> 00:30:48,000
+And that is the ideal approach to go on about it is because how at ease both those like the two parts of the double helical structure is with with itself.
+
+369
+00:30:48,000 --> 00:31:00,000
+So the moment when we come to the inflection point where the distribution mechanism is having same amount of success as the idea generation one.
+
+370
+00:31:00,000 --> 00:31:07,000
+So idea generation has told enough and the distribution mechanism has reason enough to come to the point.
+
+371
+00:31:07,000 --> 00:31:17,000
+That's when we have to switch our mindset about, hey, do we need to cover more ground, more areas that we can cover?
+
+372
+00:31:17,000 --> 00:31:23,000
+And this mechanism of distribution that works is just let more subscribers come in.
+
+373
+00:31:23,000 --> 00:31:29,000
+Whatever people were talking about or listening to, let them talk about it, listen to that and think it will keep on going there.
+
+374
+00:31:29,000 --> 00:31:31,000
+It will flatline much later, much after.
+
+375
+00:31:31,000 --> 00:31:36,000
+By that time, let's think about whether there are more ideas to talk about.
+
+376
+00:31:36,000 --> 00:31:40,000
+Right. So that way, it will keep on shifting perspective.
+
+377
+00:31:40,000 --> 00:31:48,000
+We have to put a little more here, a little more effort there, a little more effort there at the cost of putting a little less effort here or there.
+
+378
+00:31:48,000 --> 00:31:51,000
+And that way, like they will go back and forth.
+
+379
+00:31:51,000 --> 00:31:57,000
+But this idea identifying those inflection points is where the actual.
+
+380
+00:31:57,000 --> 00:32:07,000
+So if I had to talk about like how tech CEOs or basically CXOs should think about these kind of things, it would be.
+
+381
+00:32:07,000 --> 00:32:11,000
+Not only them, for anybody for that matter, it makes the same sense.
+
+382
+00:32:11,000 --> 00:32:21,000
+But how do your priorities, the two aspects of it, where do they meet and at which point you should decide that you need to shift gears in either one of those?
+
+383
+00:32:21,000 --> 00:32:24,000
+Because this battle between.
+
+384
+00:32:24,000 --> 00:32:28,000
+Have you watched WALL-E, the movie?
+
+385
+00:32:28,000 --> 00:32:34,000
+There is a space thing where WALL-E and EVA goes in a spiral.
+
+386
+00:32:34,000 --> 00:32:39,000
+That's exactly what it ends up looking if it is not drawn poorly on MS Paint.
+
+387
+00:32:39,000 --> 00:32:42,000
+So that's that's what I was getting at.
+
+388
+00:32:42,000 --> 00:32:45,000
+So that's what it will constantly change and shift.
+
+389
+00:32:45,000 --> 00:32:50,000
+And that is a good good way. No case selection is perfect case selection for forever.
+
+390
+00:32:50,000 --> 00:32:57,000
+The world, the reality, the universe would put blockers in your in front of you that you would need to rethink about it.
+
+391
+00:32:57,000 --> 00:33:04,000
+You need to shift perspective and change up some of the parameters to make it fit better and know our selection is going to be better as well.
+
+392
+00:33:04,000 --> 00:33:11,000
+But yes, by definition, it will flatten out if you don't start to reorganize that.
+
+393
+00:33:11,000 --> 00:33:14,000
+I have so many examples for this. I don't know.
+
+394
+00:33:14,000 --> 00:33:18,000
+Can you name the green plane?
+
+395
+00:33:18,000 --> 00:33:23,000
+So that is how the progress looks like from zoomed out.
+
+396
+00:33:23,000 --> 00:33:26,000
+Put a marker to it so that I can refer to it.
+
+397
+00:33:26,000 --> 00:33:29,000
+So it's P, the progress. I thought P was the point.
+
+398
+00:33:29,000 --> 00:33:33,000
+Oh, OK. So that I should have called the point P as like, OK, wait, infection.
+
+399
+00:33:33,000 --> 00:33:37,000
+So it's it can be I. I don't I don't want to acknowledge the infection.
+
+400
+00:33:37,000 --> 00:33:41,000
+I said just name the name the axis. If that's P, then that's fine.
+
+401
+00:33:41,000 --> 00:33:47,000
+Now, the important thing to remember is why in our discussions,
+
+402
+00:33:47,000 --> 00:33:50,000
+at least some of these places where these things work out,
+
+403
+00:33:50,000 --> 00:33:58,000
+because if you map this to the functioning of a good product and development team in most software organizations,
+
+404
+00:33:58,000 --> 00:34:02,000
+the R is your product management who are going out,
+
+405
+00:34:02,000 --> 00:34:07,000
+exploring possibilities, coming back to you with arguments, the K catches up.
+
+406
+00:34:07,000 --> 00:34:12,000
+Then there is the R going down below the K is the period where product management is
+
+407
+00:34:12,000 --> 00:34:14,000
+gathering feedback for something that has been shipped.
+
+408
+00:34:14,000 --> 00:34:22,000
+Meanwhile, there is a constant thing that is going on, like full pleasure development going on.
+
+409
+00:34:22,000 --> 00:34:28,000
+What's going on? Because by then you are validating at one point that goes and then you again come back out.
+
+410
+00:34:28,000 --> 00:34:35,000
+Right. So the green, what is important in this is if you want to independently
+
+411
+00:34:35,000 --> 00:34:38,000
+control the rate of R and K, you might fail.
+
+412
+00:34:38,000 --> 00:34:41,000
+It might look like it is intuitive that I can, of course, turn.
+
+413
+00:34:41,000 --> 00:34:48,000
+But no, the important thing is the green line, the P plane that wherever you are going,
+
+414
+00:34:48,000 --> 00:34:53,000
+the P plane should target there, which means if you are going somewhere,
+
+415
+00:34:53,000 --> 00:35:02,000
+you don't have a lot of time, your P plane will be far more sloped upwards so that you reach at the end of the point.
+
+416
+00:35:02,000 --> 00:35:06,000
+But what this mainly looks like. Yeah.
+
+417
+00:35:08,000 --> 00:35:14,000
+So it's basically matter and anti-matter in a sense, like how much it goes above the progress line.
+
+418
+00:35:14,000 --> 00:35:18,000
+It also you also have to have that much below the progress.
+
+419
+00:35:18,000 --> 00:35:21,000
+Anyways, yeah, one of the things I want to.
+
+420
+00:35:21,000 --> 00:35:26,000
+The reason I said this is important is I said about the double helical structure.
+
+421
+00:35:26,000 --> 00:35:35,000
+So if you just draw the chart, the distance from the like the delta R with the delta from P at each point,
+
+422
+00:35:35,000 --> 00:35:42,000
+and then you do delta K from P, you should never do R to K as a straight thing.
+
+423
+00:35:42,000 --> 00:35:49,000
+You should always branch off from P. So your P is kind of ideal where I want to go to.
+
+424
+00:35:49,000 --> 00:35:55,000
+So that is if you then look at two stars revolving around each other, running around the galaxy.
+
+425
+00:35:55,000 --> 00:36:00,000
+If you can plot their movement, you will get the orbit of both the suns.
+
+426
+00:36:00,000 --> 00:36:05,000
+Right. Yes. And that is the important factor that where is the thing going?
+
+427
+00:36:05,000 --> 00:36:13,000
+Because the way you nudge this system to go in any other direction is by changing where that green would end up.
+
+428
+00:36:13,000 --> 00:36:23,000
+Right. So basically, the green is the barycenter of those two like two body system is the barycenter where other two things are basically revolving around.
+
+429
+00:36:23,000 --> 00:36:29,000
+So in this setup, over time, it would be considered as access, essentially.
+
+430
+00:36:29,000 --> 00:36:35,000
+Yeah. Now, why this is more important is you need to look at this.
+
+431
+00:36:35,000 --> 00:36:43,000
+It's of course over T. So it's a it's a state machine slash motion snapshot, whatever.
+
+432
+00:36:43,000 --> 00:36:47,000
+The critical thing to know is this is a very simplified version.
+
+433
+00:36:47,000 --> 00:36:53,000
+This is a very simplified version. This is a like simplified in the sense this is a reduced version.
+
+434
+00:36:53,000 --> 00:37:00,000
+In real world, you would have at least three or four such accesses pulling along each other.
+
+435
+00:37:00,000 --> 00:37:04,000
+But you would probably be able to call them as R1, R2 and K1, K2.
+
+436
+00:37:04,000 --> 00:37:09,000
+You can broadly group them in these two opposing forces categories.
+
+437
+00:37:09,000 --> 00:37:14,000
+The reason is it's like imagine all of Jupiter's moons orbiting around Jupiter.
+
+438
+00:37:14,000 --> 00:37:19,000
+What does that look like that you have that many groups like things going on?
+
+439
+00:37:19,000 --> 00:37:23,000
+Right. So one of the common things that comes up in most product,
+
+440
+00:37:23,000 --> 00:37:31,000
+especially the sort of software product who are more tuned to community that they want to take in community feedback,
+
+441
+00:37:31,000 --> 00:37:40,000
+is there is a friction between internally on should I prioritize community feedback or should I prioritize what my CEO wants?
+
+442
+00:37:40,000 --> 00:37:47,000
+And that presents a very weird but very difficult to solve friction as well.
+
+443
+00:37:47,000 --> 00:37:52,000
+And one way to address that is again be true to your T plane.
+
+444
+00:37:52,000 --> 00:38:02,000
+If you have a clear enough idea of where that is, you can just map a community feedback on the distance like chart the delta R from P.
+
+445
+00:38:02,000 --> 00:38:09,000
+See if it is within acceptable range, in which case treat is just as the same as any internal team member has suggested it.
+
+446
+00:38:09,000 --> 00:38:17,000
+Right. That it is on that curve where I see delta R reducing over time till it intersects with K.
+
+447
+00:38:17,000 --> 00:38:21,000
+So we speak maths.
+
+448
+00:38:21,000 --> 00:38:28,000
+Yes. In essence, it's very it will take too many words to explain otherwise.
+
+449
+00:38:28,000 --> 00:38:32,000
+But what I'm trying to say is just map the functions.
+
+450
+00:38:32,000 --> 00:38:37,000
+So you don't want to start with R alone or K alone.
+
+451
+00:38:37,000 --> 00:38:45,000
+Then the part that comes in is once you identify this, you realize the importance of iterations.
+
+452
+00:38:45,000 --> 00:38:54,000
+Fast iterations on this plane would mean more frequent intersections between R and P, R and K.
+
+453
+00:38:54,000 --> 00:39:00,000
+Slower iterations would mean longer durations, but slower iterations have a challenge key.
+
+454
+00:39:00,000 --> 00:39:07,000
+You might have difficulty the longer R and K have diverged, the longer it might take to converge them back.
+
+455
+00:39:07,000 --> 00:39:18,000
+So you want to place a limit limiter function on what is the maximum distance possible for R before the K function triggers an upward curve.
+
+456
+00:39:18,000 --> 00:39:28,000
+Right. For the people listening to this and being a little bit.
+
+457
+00:39:28,000 --> 00:39:31,000
+I don't know what was the right term.
+
+458
+00:39:31,000 --> 00:39:34,000
+I would like to just break this down.
+
+459
+00:39:34,000 --> 00:39:45,000
+I'll give an example, because sometimes I've seen what works out of the exoteric discussions is that an example immediately grabs the attention back.
+
+460
+00:39:45,000 --> 00:39:50,000
+So I will give an example. Chip vendors, right?
+
+461
+00:39:50,000 --> 00:39:53,000
+That's probably it's not a rocket science in that sense.
+
+462
+00:39:53,000 --> 00:39:56,000
+It's actually more complicated than rocket science.
+
+463
+00:39:56,000 --> 00:39:59,000
+It is super complicated stuff.
+
+464
+00:39:59,000 --> 00:40:04,000
+Probably the one of the most complicated things we do as a species is producing chips.
+
+465
+00:40:05,000 --> 00:40:14,000
+Now, there are always a lot more factors that gets into this and creates this to be not as simple as that.
+
+466
+00:40:14,000 --> 00:40:17,000
+This graph, two different factors.
+
+467
+00:40:17,000 --> 00:40:24,000
+But if you try hard enough, you can still always make a multi-body problem into a two-body problem.
+
+468
+00:40:24,000 --> 00:40:39,000
+And this is a model that Intel used to follow and now still now follows is when their odd generation of chipsets like chips, 15th generation, 13th generation, 11th generation also,
+
+469
+00:40:39,000 --> 00:40:47,000
+they follow a particular kind of R and different kind of K or basically the phase shift essentially.
+
+470
+00:40:47,000 --> 00:40:52,000
+What is R here would become K here in that kind of way.
+
+471
+00:40:53,000 --> 00:41:04,000
+So what they do, they have boiled it down to like, we need to do two things in order to give or provide people with more amount of computing power in the same or similar kind of package.
+
+472
+00:41:04,000 --> 00:41:15,000
+We need to do two things. We need to lower the size of the silicon as in the transistors that we have and pack more into the same time.
+
+473
+00:41:15,000 --> 00:41:22,000
+So how about we put more innovation and both those things, they are not two separate things that are happening separately.
+
+474
+00:41:22,000 --> 00:41:32,000
+What is happening is that from the moment of their team is done with 11th generation, that team starts working towards the 13th generation.
+
+475
+00:41:32,000 --> 00:41:42,000
+Their objective can just be how do we pack more chips into that same layout, same size, whatever the LGA size is.
+
+476
+00:41:42,000 --> 00:41:48,000
+And whatever the moment 12th generation are done, they would move to 14th generation.
+
+477
+00:41:48,000 --> 00:41:55,000
+How do I produce as in create the transitions themselves are smaller, right?
+
+478
+00:41:55,000 --> 00:42:08,000
+In that sense, they create double 2x the phase then because if you see about this, this graph eventually comes down and meets somewhere over here.
+
+479
+00:42:08,000 --> 00:42:14,000
+Then when it starts back again, this point and this point are practically the same point.
+
+480
+00:42:14,000 --> 00:42:20,000
+So basically 2x that phase then perceived phase that becomes its original pace.
+
+481
+00:42:20,000 --> 00:42:25,000
+So every two generation, they're doing the exact same thing all over again, starting new going.
+
+482
+00:42:25,000 --> 00:42:31,000
+But for the first part of it, one team is in experimental experimentation mode.
+
+483
+00:42:31,000 --> 00:42:34,000
+The other team is in production mode.
+
+484
+00:42:34,000 --> 00:42:40,000
+The next phase, the other team is in the experimentation mode and this team is in production.
+
+485
+00:42:40,000 --> 00:42:42,000
+And that works so well for them.
+
+486
+00:42:42,000 --> 00:42:43,000
+They're sticking by it.
+
+487
+00:42:43,000 --> 00:42:56,000
+And even though AMD threatened them with a very different kind of innovation where they're like, we don't actually want to even build the whole thing in one day.
+
+488
+00:42:56,000 --> 00:43:01,000
+So to do that, it's much, much easier to build them in smaller pieces and put them back together.
+
+489
+00:43:01,000 --> 00:43:03,000
+So I want to do that chiplet design.
+
+490
+00:43:03,000 --> 00:43:06,000
+So at that point, what do you do?
+
+491
+00:43:06,000 --> 00:43:11,000
+You can just split off like, hey, there's a tick tock model teams that we have.
+
+492
+00:43:11,000 --> 00:43:21,000
+How about if the tick tock model teams as one, R or K, and the chiplet team as R and K, R or K, depending on which phase they are in.
+
+493
+00:43:21,000 --> 00:43:25,000
+So you can make any time any multi-body problem into two-body problem.
+
+494
+00:43:25,000 --> 00:43:29,000
+So one team is going to look into how the chiplets can be made.
+
+495
+00:43:29,000 --> 00:43:36,000
+The other team is going to look like always how I can make the chiplets themselves more denser.
+
+496
+00:43:36,000 --> 00:43:48,000
+So in that sense, what is in the ending up happening is that no matter how complicated the system is, it's not only this does not only apply to a very simple or theoretical only situations.
+
+497
+00:43:48,000 --> 00:43:52,000
+You can make it apply anywhere, wherever you can perceive a duality.
+
+498
+00:43:52,000 --> 00:43:58,000
+You can perceive a pull or push and pull tug of war between two different forces.
+
+499
+00:43:58,000 --> 00:44:01,000
+Do I do this or do I do that?
+
+500
+00:44:01,000 --> 00:44:04,000
+This should actually help you out with that.
+
+501
+00:44:04,000 --> 00:44:06,000
+I lost your video feed.
+
+502
+00:44:06,000 --> 00:44:14,000
+All right.
+
+503
+00:44:14,000 --> 00:44:19,000
+Right. I don't know where else I was going with this.
+
+504
+00:44:19,000 --> 00:44:25,000
+Should I be starting to think about a better analogy or example?
+
+505
+00:44:25,000 --> 00:44:32,000
+I kind of think like the chiplet design or the chip vendor kind of example is not genuine.
+
+506
+00:44:32,000 --> 00:44:36,000
+I think we can just probably follow because we were talking future software development.
+
+507
+00:44:36,000 --> 00:44:41,000
+This is one place to come back to when we were saying that like the base when we went into this discussion.
+
+508
+00:44:41,000 --> 00:44:45,000
+Is there any supplement that follows that?
+
+509
+00:44:45,000 --> 00:44:52,000
+This I don't know, but it's something that is visible and like I'm not saying somebody explicitly follows.
+
+510
+00:44:52,000 --> 00:44:54,000
+I'm not saying that.
+
+511
+00:44:54,000 --> 00:45:05,000
+Yeah. So the only thing to remember is that while you said that you can break down a multi body problem into a two body problem in most cases,
+
+512
+00:45:05,000 --> 00:45:21,000
+but there will be edge cases where you are stuck with a three body problem because you start dividing like decomposing and you end up with three fundamental elements because like the lowest number you can't divide three.
+
+513
+00:45:22,000 --> 00:45:33,000
+So what goes on in that kind of a situation is you are presented with a slightly more chaotic world.
+
+514
+00:45:33,000 --> 00:45:36,000
+The two body world is far more deterministic.
+
+515
+00:45:36,000 --> 00:45:39,000
+The three body world is extremely chaotic.
+
+516
+00:45:39,000 --> 00:45:48,000
+And science fiction, plugway, three body problem and all if you just like just that three body problem itself is one of the things to geek out on.
+
+517
+00:45:48,000 --> 00:45:51,000
+It's such a beautiful mathematical problem and social problem.
+
+518
+00:45:51,000 --> 00:45:53,000
+Anyway, you want to put it right.
+
+519
+00:45:53,000 --> 00:45:57,000
+But what happens is and I think this will come up more.
+
+520
+00:45:57,000 --> 00:46:06,000
+This will become more and more relevant as complexities of software development increase because there are more things riding on it.
+
+521
+00:46:06,000 --> 00:46:10,000
+And I have experienced this in some form.
+
+522
+00:46:10,000 --> 00:46:22,000
+Like I said, it becomes a three body problem because in a traditional software development organization, you cannot always compare things back down to two, especially when you are more community folks.
+
+523
+00:46:22,000 --> 00:46:26,000
+And this is something I've seen happen with the more progressive software organizations.
+
+524
+00:46:27,000 --> 00:46:43,000
+Because in a traditional software org, you have your like product design, development, management, whatever as one function, you have development as a function.
+
+525
+00:46:43,000 --> 00:46:49,000
+So you sort of have two broader sections.
+
+526
+00:46:49,000 --> 00:46:51,000
+But then the moment you bring in.
+
+527
+00:46:51,000 --> 00:46:58,000
+So what these two teams do with user feedback is the user feedback is split into their separate buckets, right?
+
+528
+00:46:58,000 --> 00:47:05,000
+That is how you are breaking down a complex system into a two body system that when user feedback is coming in, you are saying, is this a product feedback?
+
+529
+00:47:05,000 --> 00:47:07,000
+Is this sort of engineering feedback?
+
+530
+00:47:07,000 --> 00:47:09,000
+And it kind of you are channelizing.
+
+531
+00:47:09,000 --> 00:47:16,000
+But what happens when you bring in a community as a first class citizen in this process?
+
+532
+00:47:16,000 --> 00:47:31,000
+And say, for example, the software, the way more of the community focused, even for profit companies, the software, those who, you know, actually take community input seriously.
+
+533
+00:47:31,000 --> 00:47:49,000
+And the reason you see the open source world and especially partially commercial commercial open source worlds be such a tricky minefield to access, also to build and maintain, because at some point you take decisions which are harmful for the community.
+
+534
+00:47:49,000 --> 00:47:56,000
+At some point, the community asks something which is detrimental to the earnings or the sustainability of the project.
+
+535
+00:47:56,000 --> 00:48:00,000
+So then it is still not that difficult.
+
+536
+00:48:00,000 --> 00:48:05,000
+It is just one other access which might have chaotic influence on others.
+
+537
+00:48:05,000 --> 00:48:08,000
+So at that point, you have two choices.
+
+538
+00:48:08,000 --> 00:48:22,000
+Do you want to then merge the community like whenever you start with a three body problems, essentially validating them that if it is not three stars that are orbiting each other, in which case, well, good luck.
+
+539
+00:48:22,000 --> 00:48:27,000
+But if you have some control of the system, you want to merge one towards the other.
+
+540
+00:48:27,000 --> 00:48:30,000
+For example, are your internal stakeholders?
+
+541
+00:48:30,000 --> 00:48:36,000
+In fact, in fact, you just said that screw it if it's stars.
+
+542
+00:48:36,000 --> 00:48:37,000
+Good luck with that.
+
+543
+00:48:37,000 --> 00:48:38,000
+That's exactly what is going to happen.
+
+544
+00:48:38,000 --> 00:48:41,000
+I was just going to come back to giving you the same solution.
+
+545
+00:48:41,000 --> 00:48:43,000
+That's exactly what is going to end up happening.
+
+546
+00:48:43,000 --> 00:48:45,000
+What else do you think is going to end up happening?
+
+547
+00:48:45,000 --> 00:48:51,000
+Yeah, so eventually, I mean, our nearest star neighbors.
+
+548
+00:48:51,000 --> 00:48:56,000
+Yeah, like Centauri system, so Proxima Centauri, so Alpha Centauri.
+
+549
+00:48:56,000 --> 00:48:58,000
+That's a three body problem.
+
+550
+00:48:58,000 --> 00:48:59,000
+Yes.
+
+551
+00:48:59,000 --> 00:49:01,000
+The smaller one and the larger one.
+
+552
+00:49:01,000 --> 00:49:04,000
+So the three body problem series is based on that star system.
+
+553
+00:49:04,000 --> 00:49:05,000
+Oh, I see.
+
+554
+00:49:05,000 --> 00:49:06,000
+I see.
+
+555
+00:49:07,000 --> 00:49:16,000
+So but the very interesting thing that happens is eventually systems coalesce given long enough time.
+
+556
+00:49:16,000 --> 00:49:19,000
+But what if you don't want to give that long enough time?
+
+557
+00:49:19,000 --> 00:49:32,000
+The immediate answer to especially those building software where you want to involve the community is do not keep a distinction between your internal stakeholders and external stakeholders.
+
+558
+00:49:32,000 --> 00:49:35,000
+Everybody is a stakeholder for the thing that has been built.
+
+559
+00:49:35,000 --> 00:49:44,000
+You have the best keywords that are probably on your payroll who are your internal stakeholders.
+
+560
+00:49:44,000 --> 00:49:53,000
+So then you have moved that, you know, the graph of requirements instead of having a CEO to fight and a community to fight.
+
+561
+00:49:53,000 --> 00:49:54,000
+You're like community.
+
+562
+00:49:54,000 --> 00:50:00,000
+CEO is just a community representative or the community is just an extension of my internal team.
+
+563
+00:50:00,000 --> 00:50:03,000
+Now, I want to really push that model.
+
+564
+00:50:03,000 --> 00:50:11,000
+I have not had much success in coalescing those because individual egos kind of still, you know, border.
+
+565
+00:50:11,000 --> 00:50:17,000
+But what would it look like to build an org where you, I mean, what would it look like?
+
+566
+00:50:17,000 --> 00:50:28,000
+We have seen this orgs built, but reducing the chaos in that system, coalescing them better such that the community is a homogeneous entity.
+
+567
+00:50:28,000 --> 00:50:29,000
+Right.
+
+568
+00:50:29,000 --> 00:50:34,000
+So one challenge that I've seen, the part that bothered me the most,
+
+569
+00:50:34,000 --> 00:50:44,000
+which is why I'm trying to put my best foot forward to not piece of people and try to reach people is that most people in position or power,
+
+570
+00:50:44,000 --> 00:50:54,000
+the way our selection worked out for them is that were they very aggressively assertive, were they very conscientious?
+
+571
+00:50:54,000 --> 00:51:02,000
+And so those are the things that things that propelled them forward and put in a position of power are not.
+
+572
+00:51:02,000 --> 00:51:08,000
+Have this put enough thought meditating about a certain topic, validating whether that's correct, true or false?
+
+573
+00:51:08,000 --> 00:51:10,000
+No, not that. Right.
+
+574
+00:51:10,000 --> 00:51:21,000
+So what ends up happening is that the people who needs this kind of help the most are least likely to seek it
+
+575
+00:51:21,000 --> 00:51:26,000
+or least likely to even be open to it if you even if you hand it over to them.
+
+576
+00:51:26,000 --> 00:51:32,000
+So the way I'm starting to think about is that not how do we distribute,
+
+577
+00:51:32,000 --> 00:51:42,000
+but rather finding out who are those people or how do we get those people to put to a place where they would be open to taking these ideas in the first place.
+
+578
+00:51:43,000 --> 00:51:52,000
+Do you think this discussion that we are having, most, many or most people who are running or having a team that they need to run better,
+
+579
+00:51:52,000 --> 00:52:03,000
+they have all the intentions to make it run better, but do they have the intent capacity and the availability or being a position?
+
+580
+00:52:03,000 --> 00:52:04,000
+How do you commit a crime?
+
+581
+00:52:04,000 --> 00:52:09,000
+You need to do three things. You need to be in a place. You need to have the intent and you have to need to have the capability.
+
+582
+00:52:09,000 --> 00:52:14,000
+So I'm saying that can you find the trifecta of people in a mass scale?
+
+583
+00:52:14,000 --> 00:52:22,000
+You don't. You find very rare, few samples and those samples are already kind of jaded out of the system.
+
+584
+00:52:22,000 --> 00:52:24,000
+Take yourself for an example.
+
+585
+00:52:24,000 --> 00:52:33,000
+The only reason you are so motivated to talk about these things is because how much it bothered you when you are or were in the system.
+
+586
+00:52:33,000 --> 00:52:34,000
+Right.
+
+587
+00:52:34,000 --> 00:52:36,000
+How do we find those people?
+
+588
+00:52:36,000 --> 00:52:41,000
+How do we find how those people, instead of being jaded out of the system,
+
+589
+00:52:41,000 --> 00:52:50,000
+how they can actually be part of the system and drive that change from the inside instead of like,
+
+590
+00:52:50,000 --> 00:52:54,000
+I'm out of here instead of that.
+
+591
+00:52:54,000 --> 00:53:02,000
+I think that is probably the best bet that we have got because you cannot make a horse out of an ass.
+
+592
+00:53:02,000 --> 00:53:12,000
+At least I'm open to be proven wrong, but I have tried and I have failed miserably every time I tried to go that route.
+
+593
+00:53:12,000 --> 00:53:16,000
+But it is better. It is more effortful.
+
+594
+00:53:16,000 --> 00:53:19,000
+If sorry, it is more.
+
+595
+00:53:19,000 --> 00:53:30,000
+What do you call that thing? Fulfilling. To find out the horses, even if lower in number and then train them to become the horses that you want them to be.
+
+596
+00:53:30,000 --> 00:53:32,000
+You will get a lot of kicks. That is fine.
+
+597
+00:53:32,000 --> 00:53:37,000
+But eventually it will get to that position and then you will count that as a success.
+
+598
+00:53:37,000 --> 00:53:46,000
+That's much better than spending enormous amount of time pretending this donkey is a horse and can replace a horse.
+
+599
+00:53:46,000 --> 00:53:50,000
+It's not what it was. That's how I think about this whole thing.
+
+600
+00:53:50,000 --> 00:53:54,000
+Who should we talk to about this kind of stuff?
+
+601
+00:53:54,000 --> 00:53:58,000
+That may not be the right answer to the question that you have asked.
+
+602
+00:53:58,000 --> 00:54:02,000
+But if you can touch on the way, how would you want to go on about it?
+
+603
+00:54:02,000 --> 00:54:05,000
+Then I probably can add some more thoughts about it.
+
+604
+00:54:05,000 --> 00:54:14,000
+This was my immediate, very like deep seated or rooted kind of fast, fast answer, essentially, not the nuanced answer.
+
+605
+00:54:14,000 --> 00:54:18,000
+I understand that.
+
+606
+00:54:18,000 --> 00:54:22,000
+The way I want to go about it is.
+
+607
+00:54:22,000 --> 00:54:27,000
+Not by starting to look for.
+
+608
+00:54:27,000 --> 00:54:31,000
+But instead, take these things as frameworks.
+
+609
+00:54:31,000 --> 00:54:35,000
+These can be packaged as frameworks.
+
+610
+00:54:35,000 --> 00:54:41,000
+Anybody who's in a scenario, so let's say this applies.
+
+611
+00:54:41,000 --> 00:54:47,000
+To a certain way of building structuring an org.
+
+612
+00:54:47,000 --> 00:54:50,000
+Then what would those principles be?
+
+613
+00:54:50,000 --> 00:55:01,000
+And I'm kind of drawing in from how the orbit framework went from being just a brilliant, like very beautiful abstract idea to an implementable framework.
+
+614
+00:55:01,000 --> 00:55:12,000
+And the idea, the first thing that you do in any such implementation is you map to existing concepts, which means if I were to take any organization.
+
+615
+00:55:12,000 --> 00:55:15,000
+Produce this chart based on their activities.
+
+616
+00:55:15,000 --> 00:55:17,000
+What does my RNK planes look like?
+
+617
+00:55:17,000 --> 00:55:18,000
+Do they even intersect?
+
+618
+00:55:18,000 --> 00:55:20,000
+Do they even exist?
+
+619
+00:55:20,000 --> 00:55:23,000
+Is one of the first things.
+
+620
+00:55:23,000 --> 00:55:25,000
+So being able to.
+
+621
+00:55:25,000 --> 00:55:30,000
+So I would actually look at this as a framework, publish this as a framework.
+
+622
+00:55:30,000 --> 00:55:36,000
+And with like framework applied to specific scenarios.
+
+623
+00:55:36,000 --> 00:55:42,000
+And just going detailed into some of those maybe that if you are and then speaking to personas, right?
+
+624
+00:55:42,000 --> 00:55:54,000
+That how to apply this if you are a junior software developer, how to apply this if you're a senior developer, how to apply this if you are a new people manager, how to apply this if you are an architect.
+
+625
+00:55:54,000 --> 00:56:03,000
+Because at each position, at each levels of power, there are different areas that somebody can influence in.
+
+626
+00:56:03,000 --> 00:56:10,000
+But the importance of such a framework comes when it gives a handbook for the entire power structure.
+
+627
+00:56:10,000 --> 00:56:18,000
+So that whoever is bringing this in into an organization, let's say they find something which they feel.
+
+628
+00:56:18,000 --> 00:56:24,000
+Let's say me as a manager, as a new people manager, find something that can benefit from.
+
+629
+00:56:24,000 --> 00:56:30,000
+But what happens is when I bring something in, it's also on me to help others learn, others implement.
+
+630
+00:56:30,000 --> 00:56:38,000
+And that becomes one of the burnout points for somebody like me who wants to do good, who wants to build something from the inside.
+
+631
+00:56:38,000 --> 00:56:56,000
+But if I got something which not just told me what it looks like for me, what are the things that I need to do, as much as what does it look like throughout the entire power structure, sort of the framework that helps them see at their views.
+
+632
+00:56:56,000 --> 00:56:59,000
+That immediately becomes a lot more useful.
+
+633
+00:56:59,000 --> 00:57:03,000
+And you then see different levels of adoption.
+
+634
+00:57:03,000 --> 00:57:15,000
+And whatever levels of adoption an org goes through, sometimes the impact stays limited to one team in a larger org, like one team of four or five members or 10 members.
+
+635
+00:57:15,000 --> 00:57:25,000
+Over time, over a few quarters or few iterations, what starts happening is other teams start seeing that this team is doing something different where they have become more stable.
+
+636
+00:57:25,000 --> 00:57:28,000
+They are shipping software better, they are more predictable.
+
+637
+00:57:28,000 --> 00:57:30,000
+So what is it that they are doing?
+
+638
+00:57:30,000 --> 00:57:43,000
+If the answer at that point is not specific people, but a certain way of work that they have been able to adapt, then immediately there is that viral proof based distribution that happens.
+
+639
+00:57:43,000 --> 00:57:56,000
+So what I'm then saying is the way I would like to bring this to the masses is by looking at the layers and seeing what would be that implementation, and maybe even looking at this from a few lenses.
+
+640
+00:57:56,000 --> 00:58:07,000
+For example, let's say the future of software development is one, then building an organization that follows some of those principles being one.
+
+641
+00:58:07,000 --> 00:58:10,000
+I kind of see this as a handbook with use cases.
+
+642
+00:58:10,000 --> 00:58:13,000
+One specific example.
+
+643
+00:58:13,000 --> 00:58:18,000
+Let me see if I can find I'll share with you what I mean.
+
+644
+00:58:18,000 --> 00:58:20,000
+But this is this is the direction.
+
+645
+00:58:20,000 --> 00:58:29,000
+Now, what I mean with this is that with the theoretical framework in place, the people to talk to are those who have tried applying it.
+
+646
+00:58:29,000 --> 00:58:34,000
+Get that feedback and sort of build from there as well.
+
+647
+00:58:34,000 --> 00:58:40,000
+What I'm not sure about is if that is the work that we want to do in mass.
+
+648
+00:58:40,000 --> 00:58:46,000
+Or is this more of a blog post series.
+
+649
+00:58:46,000 --> 00:58:56,000
+I've been trying to match the match the suggestion up with my experience of exact same situation, which has happened.
+
+650
+00:58:56,000 --> 00:59:00,000
+And my expectation was what you said.
+
+651
+00:59:00,000 --> 00:59:09,000
+People see that, hey, some other team are having more success or equal success with different practices or sense more success with sympathy.
+
+652
+00:59:09,000 --> 00:59:12,000
+What is it that that is different about them?
+
+653
+00:59:12,000 --> 00:59:14,000
+And why is it that way?
+
+654
+00:59:14,000 --> 00:59:16,000
+And let's learn from it.
+
+655
+00:59:16,000 --> 00:59:19,000
+Let's implement that.
+
+656
+00:59:19,000 --> 00:59:24,000
+The reality is much more grimmer than what?
+
+657
+00:59:24,000 --> 00:59:28,000
+What would that idealistic viewpoint would suggest?
+
+658
+00:59:28,000 --> 00:59:35,000
+First of all, nobody would go through like want to look into that mirror or acknowledge that that somebody else is doing.
+
+659
+00:59:35,000 --> 00:59:39,000
+So I'll give you a more tangible, actual and real.
+
+660
+00:59:39,000 --> 00:59:48,000
+So a team practicing agile and another team is not one team is completely into procuring.
+
+661
+00:59:48,000 --> 00:59:53,000
+Procuring high quality talents, letting them do whatever they want.
+
+662
+00:59:53,000 --> 01:00:02,000
+And they have a good backlog management of like, hey, here are the things that are a priority for our organization, for the bigger goal of our organization.
+
+663
+01:00:02,000 --> 01:00:05,000
+We need to get all of these things done.
+
+664
+01:00:05,000 --> 01:00:10,000
+You're not bound to do one thing or the other, but whatever you pick and choose.
+
+665
+01:00:10,000 --> 01:00:13,000
+Try to be successful at it, like implement that successfully.
+
+666
+01:00:13,000 --> 01:00:16,000
+Don't leave it at half as way.
+
+667
+01:00:16,000 --> 01:00:22,000
+You will have to produce enough result out of it that we know that you've spent your time with it.
+
+668
+01:00:22,000 --> 01:00:25,000
+Even if you fail and you want to hand it over to somebody else, that's fine.
+
+669
+01:00:25,000 --> 01:00:26,000
+So that's one approach.
+
+670
+01:00:26,000 --> 01:00:30,000
+And the other one is like the normal baseline run of the mill agile.
+
+671
+01:00:30,000 --> 01:00:37,000
+It's not even that the what is the what does the book say kind of is the normal practice of agile.
+
+672
+01:00:37,000 --> 01:00:38,000
+So that's what is happening.
+
+673
+01:00:38,000 --> 01:00:43,000
+Which team do you think is over the course of time producing better result?
+
+674
+01:00:43,000 --> 01:00:45,000
+And I'm not going to give you the answer here.
+
+675
+01:00:45,000 --> 01:00:48,000
+I don't want to sound biased to anybody who is listening.
+
+676
+01:00:48,000 --> 01:00:52,000
+I don't want people to tune out there because it doesn't match up with their expectation.
+
+677
+01:00:52,000 --> 01:01:10,000
+The thing is, after over two years of that happening, one team is doing like sustaining very well at low overhead of operation and having generating very good results overall.
+
+678
+01:01:10,000 --> 01:01:17,000
+But the other team or teams are not really ready to learn from that at all.
+
+679
+01:01:17,000 --> 01:01:32,000
+They don't want to acknowledge that has anything to do with their lack of momentum has anything to do with the practices they're following or rather the time they're ending up spending doing things that may or may not contribute to the overall progress of the organization.
+
+680
+01:01:32,000 --> 01:01:36,000
+They simply would not acknowledge that in the first place.
+
+681
+01:01:36,000 --> 01:01:40,000
+Improvement comes after you acknowledge that, hey, something can be improved.
+
+682
+01:01:40,000 --> 01:01:57,000
+So in that sense, if you take it from there, I would argue you would be the first blocker that you face is convincing them that they need to do something differently because they are not doing it well.
+
+683
+01:01:57,000 --> 01:01:58,000
+Solutions are easier.
+
+684
+01:01:58,000 --> 01:02:03,000
+Accepting you need a solution is the hardest part.
+
+685
+01:02:03,000 --> 01:02:11,000
+Whatever I've seen, and it's kind of heartbreaking like those are the parts that actually I get mad like I'm usually not.
+
+686
+01:02:11,000 --> 01:02:23,000
+I take everything just most of the time, but those are things like real wastage of potential and people choosing to ignore facts, just because their worldview does not align with that.
+
+687
+01:02:23,000 --> 01:02:27,000
+Those are the things that grind my gear very hard, essentially.
+
+688
+01:02:27,000 --> 01:02:36,000
+I'll stop there. I know that I might rant a long while if I just if I'm allowed to get started with this, I'm going to stop there.
+
+689
+01:02:36,000 --> 01:02:40,000
+And, yeah, that's it.
+
+690
+01:02:40,000 --> 01:02:45,000
+I shared the two links there is actually the exit to community.
+
+691
+01:02:45,000 --> 01:02:49,000
+One of those things pretty close to my heart.
+
+692
+01:02:49,000 --> 01:03:01,000
+But the way these people have applied this, it was one of the example that I was trying to show is one of the ways I would like to, you know, work on it.
+
+693
+01:03:01,000 --> 01:03:11,000
+The core idea behind exit to community is how can we build organizations such that they serve the end community that you are using.
+
+694
+01:03:11,000 --> 01:03:24,000
+And then for startup founders or for people building new organizations instead of targeting IPO, which is like the two common forms of exit that you are either acquired or you go IPO.
+
+695
+01:03:24,000 --> 01:03:33,000
+This is a third alternative to that, which is saying you plan for an exit to community and there are a bunch of tools, a bunch of things that you can use.
+
+696
+01:03:33,000 --> 01:03:47,000
+They also have many such organizations, all of them, of course, smaller scale and exit to community focused organizations tend to be niche focused because it's kind of like identifying a niche user base,
+
+697
+01:03:47,000 --> 01:03:55,000
+building for them in the hope that eventually all of them will take ownership of this entire organization.
+
+698
+01:03:55,000 --> 01:04:07,000
+So which fits very well into how you and I think of initiators that for us, a maturity is when it has gotten community acceptance such that we can move on to the next.
+
+699
+01:04:07,000 --> 01:04:09,000
+In fact, spin up multiple side by side.
+
+700
+01:04:09,000 --> 01:04:14,000
+Its existence does not rely on the parents taking care of it on a daily basis.
+
+701
+01:04:14,000 --> 01:04:17,000
+Exactly. Exactly. Like the kids have grown up.
+
+702
+01:04:17,000 --> 01:04:27,000
+But the difference is this produces far more focused, far more impactful work because you are not trying to chase artificial money.
+
+703
+01:04:27,000 --> 01:04:31,000
+You are always focused on sustainability.
+
+704
+01:04:31,000 --> 01:04:36,000
+And that is how things would go. So I gave that as an example.
+
+705
+01:04:37,000 --> 01:04:39,000
+I think this is a fantastic example. I love it.
+
+706
+01:04:39,000 --> 01:04:49,000
+I went to the I went to the links and for the people watching the stream, they would have seen that because that's the one that will be shown there in my screen capture.
+
+707
+01:04:49,000 --> 01:04:52,000
+Right. So they would have seen it already. I went to the base.
+
+708
+01:04:52,000 --> 01:04:57,000
+I didn't share it. I was going through that about browser window.
+
+709
+01:04:58,000 --> 01:05:03,000
+Understood. So that is the idea behind.
+
+710
+01:05:03,000 --> 01:05:11,000
+I mean, in fact, exit to community exhibits this tendency, you know, that you are never moving too far from your green medium.
+
+711
+01:05:11,000 --> 01:05:15,000
+And you are balancing innovation and sustainability.
+
+712
+01:05:15,000 --> 01:05:18,000
+Right. Eventually to a delivery point.
+
+713
+01:05:18,000 --> 01:05:27,000
+No matter how you explain it, the baseline of that is playing that infinite game versus finite game where people are exiting from with money.
+
+714
+01:05:27,000 --> 01:05:30,000
+They're playing a finite game. They have to win somewhere.
+
+715
+01:05:30,000 --> 01:05:34,000
+They have to put it on an objective scale of this much, that much, et cetera.
+
+716
+01:05:34,000 --> 01:05:42,000
+But the moment you're exiting the community, you are ensuring survival of something that is bigger than the support that you can provide.
+
+717
+01:05:42,000 --> 01:05:52,000
+Like, how long can you stay within the game and how long can you, along with a mind share of a whole other multiple layers of people,
+
+718
+01:05:52,000 --> 01:05:58,000
+sticking to that would provide it or give it runway would be completely different.
+
+719
+01:05:58,000 --> 01:06:05,000
+The sustainability would be completely different and make a lot of order of magnitude different or bigger, essentially.
+
+720
+01:06:05,000 --> 01:06:10,000
+So basically you are playing an infinite game and significant a couple of orders of magnitude.
+
+721
+01:06:10,000 --> 01:06:14,000
+You are enabling yourself to do more stuff.
+
+722
+01:06:14,000 --> 01:06:22,000
+That is the moment somebody would understand that from that finite infinite game perspective, you don't have to sell more stuff to it.
+
+723
+01:06:22,000 --> 01:06:26,000
+They immediately know how they want to play it out loud, play it out.
+
+724
+01:06:26,000 --> 01:06:30,000
+But for most people, that's that part is not that obvious.
+
+725
+01:06:30,000 --> 01:06:32,000
+That choice is not that obvious.
+
+726
+01:06:32,000 --> 01:06:38,000
+How do you convince somebody to understand and recognize the difference between the finite and infinite game?
+
+727
+01:06:38,000 --> 01:06:41,000
+Why chasing after simply just for money?
+
+728
+01:06:41,000 --> 01:06:46,000
+It's not like in my mind, it's not too different than the paper clip maximizing, right?
+
+729
+01:06:46,000 --> 01:06:55,000
+The theoretical, the thought experiment of paper clip maximizer, rogue AI that learned, OK, how to make more paper clips out of anything and everything,
+
+730
+01:06:55,000 --> 01:07:01,000
+goes ahead and starts making paper clips out of anything and everything, depletes the resources, natural resources,
+
+731
+01:07:01,000 --> 01:07:03,000
+just makes paper clips because that's what it's trained to do.
+
+732
+01:07:03,000 --> 01:07:07,000
+That's what where it finds its meaning of purpose in life, essentially.
+
+733
+01:07:07,000 --> 01:07:09,000
+Or whatever that that might be.
+
+734
+01:07:09,000 --> 01:07:15,000
+So we by trying to maximize profit, we're being that profit maximizers in the exact same vein.
+
+735
+01:07:15,000 --> 01:07:19,000
+So how do you convince somebody to think of it?
+
+736
+01:07:19,000 --> 01:07:21,000
+Think of it differently.
+
+737
+01:07:21,000 --> 01:07:30,000
+And the good thing is, the reason I pointed out is this entire like the second link that I shared, the PDF, that's the gem.
+
+738
+01:07:30,000 --> 01:07:33,000
+That's something to like print and keep with you.
+
+739
+01:07:33,000 --> 01:07:43,000
+That talks of how different levels of organizations can deal with it, with some case studies, with some ways of thinking.
+
+740
+01:07:43,000 --> 01:07:49,000
+And, of course, unblocking some of those ways of thinking, leaving you with some more things to do.
+
+741
+01:07:49,000 --> 01:07:58,000
+So this is one I was saying this format, like I feel like the output of all of this discussion, if this is if it is that a PDF,
+
+742
+01:07:58,000 --> 01:08:04,000
+really, that people like a book and also to say that you can or a booklet that you can share, publish.
+
+743
+01:08:04,000 --> 01:08:07,000
+I think that itself has value to build.
+
+744
+01:08:07,000 --> 01:08:10,000
+But I wanted to eventually arrive at exit to community.
+
+745
+01:08:10,000 --> 01:08:15,000
+I'm glad I kind of came through this, because again, talking of the future of software development,
+
+746
+01:08:15,000 --> 01:08:24,000
+what we were trying to mention with the build fast, break fast thing, there are two considerations here.
+
+747
+01:08:24,000 --> 01:08:26,000
+And I just touched on them.
+
+748
+01:08:26,000 --> 01:08:27,000
+We can move on.
+
+749
+01:08:27,000 --> 01:08:38,000
+The first is the current set of tooling that we have or that we're evolving to does enable you to build actually faster.
+
+750
+01:08:38,000 --> 01:08:41,000
+So your art cycles can be smaller.
+
+751
+01:08:41,000 --> 01:08:54,000
+Deployment capabilities have increased so much more over the last decade that the maintaining a state of the art deployed system
+
+752
+01:08:54,000 --> 01:08:58,000
+is something that pretty much any small team can do today.
+
+753
+01:08:58,000 --> 01:09:03,000
+And it's not even as crude as Ansible in 2012-13.
+
+754
+01:09:03,000 --> 01:09:06,000
+Even Ansible feels so much better already.
+
+755
+01:09:06,000 --> 01:09:15,000
+But the point I'm trying to say is that they have become better because they have continued on that certain line of democratization of technology.
+
+756
+01:09:15,000 --> 01:09:20,000
+Rather, that's a cliche, but maybe it will give me a catchphrase.
+
+757
+01:09:20,000 --> 01:09:30,000
+But the point is, it's more breaking down technology to make it more available to more and more people.
+
+758
+01:09:30,000 --> 01:09:42,000
+And the current LLM driven AI boom that we are seeing actually introduces a very key element into that equation.
+
+759
+01:09:42,000 --> 01:09:47,000
+That now you do not just build fast when you break fast.
+
+760
+01:09:47,000 --> 01:09:51,000
+Constantly saying break fast and messing with my head.
+
+761
+01:09:51,000 --> 01:09:59,000
+But when you actually break too often, let's say your breakages can be significantly more harmful.
+
+762
+01:09:59,000 --> 01:10:02,000
+Yes, correct.
+
+763
+01:10:02,000 --> 01:10:10,000
+And you cannot continue using these same tools, experimenting and testing in the same way.
+
+764
+01:10:10,000 --> 01:10:12,000
+You need a far more contained.
+
+765
+01:10:12,000 --> 01:10:16,000
+It's like if Sun was like, hey, we need to collide two particles.
+
+766
+01:10:16,000 --> 01:10:19,000
+I just give me any random desert on Earth.
+
+767
+01:10:19,000 --> 01:10:21,000
+Because we used to collide things.
+
+768
+01:10:21,000 --> 01:10:28,000
+See if I used to test cars, I used to mash cars against fast moving cars and test how they broke.
+
+769
+01:10:28,000 --> 01:10:30,000
+You can't do the same with two photons.
+
+770
+01:10:30,000 --> 01:10:33,000
+You can't do the same with two atoms colliding.
+
+771
+01:10:33,000 --> 01:10:45,000
+So what we need, though, is make sure that the breakages, make that breaking a part of your testable framework.
+
+772
+01:10:45,000 --> 01:10:54,000
+Which means you don't optimize build often, break often or build often and disrupt often.
+
+773
+01:10:54,000 --> 01:10:56,000
+Fast iterations.
+
+774
+01:10:57,000 --> 01:11:05,000
+And if you follow that line, so you would want to minimize the gap between the two.
+
+775
+01:11:05,000 --> 01:11:12,000
+You would want the R and K lines again to coalesce as often as possible.
+
+776
+01:11:12,000 --> 01:11:19,000
+But know that what's going to happen with our current set of technology is the double helix.
+
+777
+01:11:20,000 --> 01:11:28,000
+Especially if you have short iterations are going to look like bubbles strained after one another, a chain of bubbles.
+
+778
+01:11:28,000 --> 01:11:33,000
+It's not you're not going to have the gentle curve anymore.
+
+779
+01:11:33,000 --> 01:11:38,000
+And the only reason is you're probably looking at time in a different way.
+
+780
+01:11:38,000 --> 01:11:41,000
+If you expand the time axis, you zoom in, you will again start seeing that curve.
+
+781
+01:11:41,000 --> 01:11:44,000
+But now it is just slightly steeper.
+
+782
+01:11:44,000 --> 01:11:55,000
+So what it means is short iterations, quick tests, immediate feedback is essential with the sort of systems that we are working.
+
+783
+01:11:55,000 --> 01:12:06,000
+Because I mean, think of it as you are a crew member of the USS Discovery, which has just gained sentience.
+
+784
+01:12:06,000 --> 01:12:08,000
+It has just come across emotion.
+
+785
+01:12:08,000 --> 01:12:14,000
+So this started discovery season four, and then it decides to plunge towards the sun.
+
+786
+01:12:14,000 --> 01:12:17,000
+You don't have a lot of time, right?
+
+787
+01:12:17,000 --> 01:12:24,000
+Now, if your systems were more like, hey, take the system down one by one, examine, it's not going to work.
+
+788
+01:12:24,000 --> 01:12:31,000
+Which means your fail saves need to take into account that the R thing can actually suddenly break out.
+
+789
+01:12:31,000 --> 01:12:37,000
+You won't be able to bring it back in that breaking out might be your AI has gained sentience.
+
+790
+01:12:37,000 --> 01:12:47,000
+If you define sentience as just having emotions, however we define, let's just say it's beyond your control and beyond your control.
+
+791
+01:12:47,000 --> 01:12:50,000
+If you look at the two stars orbiting each other, right?
+
+792
+01:12:50,000 --> 01:12:54,000
+In this case, one of them decides to shoot off in another direction.
+
+793
+01:12:54,000 --> 01:12:56,000
+You would then have two choices.
+
+794
+01:12:56,000 --> 01:12:58,000
+Let that go.
+
+795
+01:12:58,000 --> 01:13:10,000
+Like that ship has sailed or try to converge enough, pull it, exert enough influence to then bring that back to a meeting line.
+
+796
+01:13:10,000 --> 01:13:18,000
+And I think this is the point I was trying to get to that why this framework actually applies.
+
+797
+01:13:18,000 --> 01:13:24,000
+It really shows the implications of software development.
+
+798
+01:13:24,000 --> 01:13:28,000
+Yeah, so that was very interesting, actually.
+
+799
+01:13:28,000 --> 01:13:35,000
+So I think I like, OK, how about we keep a particular time?
+
+800
+01:13:35,000 --> 01:13:41,000
+Maybe next week, discuss about the perception of time versus control.
+
+801
+01:13:41,000 --> 01:13:46,000
+How much time you need for which kind of controls, right?
+
+802
+01:13:46,000 --> 01:13:50,000
+On the surface, it might seem like what is there to discuss about it.
+
+803
+01:13:50,000 --> 01:13:54,000
+But trust me, there's a lot to dig in over there.
+
+804
+01:13:54,000 --> 01:13:59,000
+And actually, it can be it can be seen in a multitude of ways.
+
+805
+01:13:59,000 --> 01:14:07,000
+Only part that I'm going to mention right now is that the stoic versus the will to power philosophies that you said that there are only two options.
+
+806
+01:14:07,000 --> 01:14:10,000
+One is.
+
+807
+01:14:10,000 --> 01:14:13,000
+Guess I will die.
+
+808
+01:14:13,000 --> 01:14:16,000
+Otherwise, like I know I might die.
+
+809
+01:14:16,000 --> 01:14:18,000
+If I sit down, I'll still die.
+
+810
+01:14:18,000 --> 01:14:25,000
+Then why not die swinging the sword and try to make align the world to my needs, essentially.
+
+811
+01:14:25,000 --> 01:14:29,000
+So those both those approaches, either of those approaches can work.
+
+812
+01:14:29,000 --> 01:14:36,000
+But depending on the best option that you've got is that never be rushed for time.
+
+813
+01:14:36,000 --> 01:14:46,000
+The best controls that you have got is never the ones that do not rush you towards a particular set of time or time wise delivery, temporal deliveries, essentially.
+
+814
+01:14:46,000 --> 01:14:54,000
+That's that's going to be part of the next that that that episode when you talk about control versus time.
+
+815
+01:14:54,000 --> 01:15:04,000
+At any point, if you feel like you're rushed for time, it only means you haven't established your controls well enough for that.
+
+816
+01:15:04,000 --> 01:15:15,000
+And your concerns are correct on at least the AI front is that that was true for nuclear when we found nuclear weapons and power as well in nuclear energy.
+
+817
+01:15:15,000 --> 01:15:17,000
+We could harness nuclear energy.
+
+818
+01:15:17,000 --> 01:15:20,000
+How would you going to how are you going to harness it?
+
+819
+01:15:20,000 --> 01:15:28,000
+Controlled burn versus explosion that in itself was to the point.
+
+820
+01:15:28,000 --> 01:15:33,000
+In retrospect, looks like much smaller problem that you need a couple of thousand to actually wipe out humanity.
+
+821
+01:15:33,000 --> 01:15:38,000
+So it's not not as readily of a problem.
+
+822
+01:15:38,000 --> 01:15:50,000
+So as we go forward as a species, we are going to cause bigger and bigger of those potential harms that we can cause to ourselves by not being mindful about that are versus scaling.
+
+823
+01:15:50,000 --> 01:15:55,000
+How much planning versus how much exploration can we do?
+
+824
+01:15:55,000 --> 01:15:58,000
+And there's that. I don't think there's an answer to this.
+
+825
+01:15:58,000 --> 01:16:05,000
+It's just that the moment any one of us lose sight over one for the other.
+
+826
+01:16:05,000 --> 01:16:07,000
+That's the moment something bad would happen.
+
+827
+01:16:07,000 --> 01:16:21,000
+Essentially, it's not a question of if but when it becomes the only thing that we need to ensure is that the control and the exploration both basically go hand in hand, going back to the topic of that.
+
+828
+01:16:21,000 --> 01:16:35,000
+So I'll stop there. And I think it's better to close the discussion as well, essentially within the limited amount of time because we need to get into the practice.
+
+829
+01:16:35,000 --> 01:16:44,000
+So I think this, this was with the 10th, maybe we want to go a bit more into specifics in some of those areas and stuff.
+
+830
+01:16:44,000 --> 01:16:52,000
+So I think I can end the stream.
+
+831
+01:16:52,000 --> 01:16:54,000
+So in this case, we can just wrap up.
+
+832
+01:16:54,000 --> 01:16:56,000
+Let's let's wrap it up here.
+
+833
+01:16:56,000 --> 01:16:59,000
+This was pretty good discussion, by the way. Thanks, anybody who's watching.
+
+834
+01:16:59,000 --> 01:17:04,000
+I know Sumit watches it every, every week. At least that's the only feedback that I have so far.
+
+835
+01:17:04,000 --> 01:17:06,000
+Maybe there are other people folks are watching.
+
+836
+01:17:07,000 --> 01:17:12,000
+If you are watching for somebody who is watching, let me or Kostov know that you're watching.
+
+837
+01:17:12,000 --> 01:17:19,000
+What do you think of the stream and we'll try to make that part of the process of our growth of this as well.
+
+838
+01:17:19,000 --> 01:17:24,000
+So with that said, thanks for sticking around and see you next week.
+
+839
+01:17:24,000 --> 01:17:27,000
+Cheers.
+
+840
+01:17:27,000 --> 01:17:30,000
+Cutting words from you now.
+

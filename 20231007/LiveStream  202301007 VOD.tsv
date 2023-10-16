@@ -1,0 +1,841 @@
+start	end	text
+0	3000	Today is 7th.
+3000	4000	7th?
+4000	5000	Oh, shit.
+5000	6000	Okay.
+6000	7000	I'll change the...
+7000	8000	Okay.
+8000	9000	Stream is live.
+9000	10000	Change the date.
+10000	11000	7th.
+11000	14000	So, I started recording.
+14000	17000	My bad.
+18000	20000	So, hey.
+20000	21000	Welcome to the stream.
+21000	25000	We already started talking about something and then realized that we haven't been streaming.
+25000	27000	And I have been recording instead.
+27000	29000	So, let me quickly correct that mistake.
+29000	36000	And so, now that you go live, we were talking about how do we want to approach the format
+36000	38000	and the medium and the brand.
+38000	40000	So, let me quickly correct that mistake.
+40000	46000	And so, now that you go live, we were talking about how do we want to approach the format
+46000	51000	and the medium and the brand, et cetera, et cetera, and what are the things that drives
+51000	55000	the momentum as well as what are the things that gives us more energy to continue forward
+55000	59000	doing the same thing as in things that we enjoy.
+59000	64000	So, with that said, with that brief context, I don't want to dig too deep into that because
+64000	68000	we were in the middle of our conversation.
+68000	72000	I'll hand it over to Kosta who was speaking at the last moment.
+72000	74000	Go ahead, Kosta.
+75000	82000	The question was that how do we use the things that we have now to kind of build, you know,
+82000	89000	not to call it a content pipeline as much as different areas of work that we want to get to.
+89000	97000	And the core of it is that there are a bunch of ideas floating around that is probably
+97000	102000	valuable to audiences beyond just the two of us.
+102000	108000	And what we would like to do is maybe take them into forms of blog posts as a podcast,
+108000	113000	eventually building onto some software, some, you know, usable things.
+113000	118000	But then instead of looking at these things as separate things that we have to produce,
+118000	123000	like not to be in a stage where, you know, hey, write 10 blog posts this month,
+123000	127000	two podcasts this month, and I don't think either of us wants to get into this.
+127000	132000	So instead, one of the suggestions was that why don't we use these weekly discussions
+132000	141000	as stage zero, which is the most malleable part of the entire initiative.
+141000	146000	Over three to four such iterations in a month, we would have three to four such sessions,
+146000	151000	which brings us to stage one, at which point distil or extract the information
+151000	155000	and categorize the information that has been created in these discussions,
+155000	159000	which then goes on to build blog posts, goes on to inform podcasts,
+159000	164000	but then and any other forms that come in.
+164000	171000	But for any audience member, anybody listening in, the part that I was just saying last
+171000	176000	and I guess there would have something different or addition to say here is I see different
+176000	180000	levels of engagement as different levels of what we were talking about the orbit model in
+181000	187000	and how that kind of changes the concept of looking at communities as a funnel
+187000	192000	that you get community members at the top of the funnel, they slowly filter down.
+192000	198000	Instead of that, look at communities as objects orbiting around the central body.
+198000	203000	The central body of that solar system, so to say, would be the initiative
+203000	206000	or the project that you are building people around.
+206000	210000	So in that sense, these stages are sort of the inner workings.
+210000	215000	So these are very inner layers of the orbit.
+215000	221000	And then like blog posts and all you can get to how much more malleable that form is
+221000	224000	for us to maybe act on any feedback that comes in.
+224000	227000	So that's probably a bit vague.
+227000	234000	But the idea is that we start with this and roll out anything new that comes off of this data.
+236000	238000	How does that sound?
+238000	242000	Yeah, that sounds good.
+242000	244000	Right.
+244000	251000	To put my focus back into the part that you started with, not to call it a content pipeline,
+251000	253000	but the stages.
+253000	259000	How about I kind of lay down those like stages as they're coming into my head
+259000	261000	and then figure that part out.
+261000	265000	So say, for example, the first initial part would be thinking out loud,
+265000	267000	which is what we are doing.
+267000	271000	So first audience is us, like you and me, essentially, right?
+271000	274000	So basically, we are thinking ourselves out loud.
+274000	280000	And we are doing so through this streaming thingy.
+280000	286000	So some people might want to watch this live and participate in that process.
+286000	289000	They would pose the question live.
+289000	291000	I'm not talking about right now.
+291000	294000	I'm talking about in its more mature stage.
+294000	298000	So they would want to come along for the journey, essentially,
+298000	301000	and be live participants of what is being discussed.
+301000	303000	That's stage one.
+303000	305000	We are the stage zero.
+305000	307000	That is stage one.
+307000	312000	The next ones would be the people who watch the world next day.
+312000	316000	Another layer would be people who hang out on our Discord server or something like that,
+316000	319000	something of that kind, like more real-time community support.
+319000	321000	I'm not saying Discord has to be it.
+321000	322000	It can be Slack. It can be Discord.
+322000	326000	It can be some other more decentralized or federated mechanism, metrics.
+326000	328000	That's not the point.
+328000	335000	The point is like real-time communication, more of a real-time communication platform,
+335000	339000	where they can post questions, have discussions on that.
+339000	343000	So it basically becomes a community, like another layer of community.
+343000	348000	And the layer above that becomes the ones who read the blog posts or newsletters,
+348000	354000	whatever you want to call it, on a particular time basis.
+354000	358000	Or maybe there will be a level below that,
+358000	366000	people who see the curated posts on different mediums we share it on,
+366000	370000	Twitter or LinkedIn or other places where it gets shared.
+370000	371000	They read about it.
+371000	375000	Okay, they understand that there are these people doing something called Anthropoceneershare
+375000	376000	or something like that.
+376000	381000	And then the layer above that is people who subscribe to the channels or blog posts
+381000	385000	and watch the video when they're published on a monthly basis or something like that.
+385000	387000	So these can be the things.
+387000	389000	I may have missed some things.
+389000	394000	If you give it some time and figure out maybe we can document this whole thing together
+394000	398000	and pack together, then we have a more complete picture of how to go about it.
+399000	407000	And I think that's already a reasonably good distribution.
+407000	412000	And in all of these cases, like you said, it's also the level of engagement,
+412000	416000	which is what I called as malleability of the project under the hood.
+416000	419000	Because at this stage, any question coming in, we can respond to that,
+419000	422000	which will influence the course of the discussion.
+422000	427000	Over time, anything that happens in the community can influence the course of discussion
+427000	430000	in the next iteration.
+430000	434000	Anything that comes up through the blog posts will probably improve that blog post
+434000	436000	and potentially improve something that we write next.
+436000	441000	So, you know, like how malleable, it's like your distance from the center.
+441000	445000	So that's what I'm saying. This is a good way of you have basically adopted that orbit
+445000	447000	of thinking into this.
+447000	448000	I love that model though.
+448000	449000	Yeah.
+449000	450000	I love that model.
+450000	451000	Yeah.
+451000	456000	Cool. So that kind of that kind of like so basically we are aligned there.
+457000	460000	Would you say like or do we have any kind of decoherence there?
+460000	464000	Because I would love to like those are the points more important to me than
+464000	470000	like setting up the base correct is more important to me than the particular topic of this month
+470000	472000	or topic of this day, essentially.
+472000	473000	That's what I'm saying.
+473000	479000	Because unless we figure out a way to sustainably do this for a long course of time, right?
+480000	487000	Doing a magic trick for a day is not what is going to get us further.
+487000	489000	Anyways, that's why I was getting it.
+489000	494000	Cool. So with that said, we were talking about the future of software
+494000	499000	and you were talking about scoping this out so that it's valuable for people you are talking about.
+499000	508000	So with this new light, I can say that let's not think about it in terms of what would be the scope
+508000	509000	that would be valuable.
+509000	511000	Let's talk about the whole thing.
+511000	513000	And then in retrospect, we can choose that.
+513000	515000	Hey, this is the part that.
+515000	525000	So do you think in your organization the practices that you're following is effective by doing X, Y and Z?
+525000	529000	What if I can show you that's not the case and you could do this instead?
+529000	534000	What if like which kind of teams should use flow based programming?
+535000	538000	Or rather same thing about are you a hardware organization
+538000	542000	and you're following the software practices of build fast, break fast kind of approach?
+542000	547000	Do you know that in hardware that doesn't work so well as it does for software?
+547000	548000	And they're not the same thing.
+548000	551000	Hardware, you should plan more better in those kind of ways.
+551000	557000	Like the concepts that we kind of take readily, but not necessarily are true for.
+557000	561000	It doesn't apply everywhere or new light that can be shed on something.
+561000	570000	We can then pick those topics out and put them on a funnel for like can be presented better in a sense,
+570000	573000	not part of the only the real time discussion that we had.
+573000	581000	So with that said, there doesn't need to be in my mind a certain kind of boundary that we need to follow or maintain here.
+581000	590000	This can be extreme raw stream of thoughts, as long as it's not something that is a boundary bordering on illegal or something.
+590000	593000	I don't think there's any problem with that.
+593000	595000	Even that's a restriction.
+595000	600000	I would eventually want to get lifted, but not possible now.
+600000	604000	So I'm sticking with it.
+604000	611000	So I think I want to double down back on the build fast, break fast.
+611000	613000	Is that what you said?
+613000	616000	So that is like fast iteration approach, right?
+616000	618000	So it doesn't have to be perfect.
+618000	619000	Build something.
+619000	625000	Let's see how well does it work if something doesn't put another layer of bandaid on top of it.
+625000	626000	And now it does.
+626000	628000	And now it's better.
+628000	630000	Yeah, we can say that.
+630000	636000	So I want to start there because I feel like it's something that talks very close to my heart.
+636000	641000	As in the issue that I lost your video.
+641000	643000	No, it's fine.
+643000	646000	I'm just switching. Sorry about that.
+646000	647000	No worries.
+647000	660000	So the build fast, break fast or like ship quick and every other such phrases that software development has gathered.
+660000	661000	Yeah.
+661000	666000	And there is one fundamental issue with those approaches.
+667000	673000	And this is way more overlooked than I would like to have.
+673000	676000	So that's I guess just one area that I wanted to begin with.
+676000	684000	And just to pick on why build the base, like spend time building the base is important, even though it looks like you are building very slow.
+684000	686000	You're not shipping at all.
+687000	698000	The difference between the two is if you chart to build fast and break fast sort of iteration, you get from zero to ten very fast.
+698000	700000	You can do that. Right.
+700000	707000	But in the process, what slows down as your breakages happen?
+707000	717000	Because you're breaking your like what build fast break fast kind of translates to is where you don't worry about backwards compatibility of a project because you're like I am shipping it.
+717000	719000	I can ship all client instances.
+719000	726000	Everybody will be on the same version and things would go perfectly like as if you've solved the distribution problem.
+726000	728000	So this is one facet of it.
+728000	732000	But the other facet of it is as your patches come in.
+732000	738000	As more and more patches come in, your builds become slower and slower and slower.
+738000	741000	So you are breaking fast, but you're not building fast enough.
+741000	746000	And over time, the rate of your iteration slows down.
+746000	758000	And which means any new feature at some point you make statements like this, that this system was not designed to accommodate those issues in the first place.
+758000	760000	So you have hit a threshold condition.
+760000	767000	But most of the time, if we really dissect that issue, what you will find is it's not that the system was not built.
+767000	771000	It's that the system has had so many patchworks, so many band-aids.
+771000	779000	It is standing on such a thin edge that any one more, you know, like when the Jenga is like that full last break will collapse it.
+779000	782000	You know, it kind of gets to that stage.
+782000	788000	So build fast and break fast essentially slows down your iterative pace over time.
+788000	793000	So how do you then go back to building a foundation?
+793000	795000	What should that foundation do for you?
+795000	803000	If you're starting off a new project, if you're starting as a new software project, you're starting off on a new learning whatever.
+803000	807000	But let's stick to the software project area right now.
+807000	817000	If you focus on building out the systems first that help you iterate fast in the future, there is a difference between the two.
+817000	821000	In build fast and break fast, even though you're saying that we want to iterate fast and ship fast,
+821000	829000	you're often not taking care of other things that break because you say that this is collateral cost at acceptable to breaking.
+829000	835000	And in the other format, you are saying that, OK, I know systems will break.
+835000	838000	Things do software breaks, there are errors.
+838000	848000	But what I want is to have the ability to iterate very fast, ship out and update very fast, no matter how pervasive the issue may be.
+848000	850000	Or if I'm building something new, how can I ship on that?
+850000	858000	Which means as a software team, especially let's say you're building a new SaaS product, build out your platform team first,
+858000	864000	make your any core runtime, any core technical decisions, lock them in.
+864000	869000	Make sure that you have evaluated things that you want to work with.
+869000	876000	So, for example, any standard SaaS, you don't want to bicker about what database to use.
+876000	882000	You definitely don't want to bicker about how should the schema be structured if you're building a new service.
+883000	888000	You don't want to bicker about what should be the API standard or that, hey, I want APIs to be built this way,
+888000	892000	which means there are certain standardization, which is what forms the base.
+892000	902000	But that is the thing that you tend to first that your first shipment is to your consumer is the internal team,
+902000	906000	which they can use to then iterate fast on top of it.
+906000	916000	So, what that does is pretty much the blue line on this chart is it takes you off to a slow start.
+916000	924000	But then you get to this point of incremental returns where cumulative returns start pushing you broader.
+924000	934000	And with such a system, the key line can pretty much be open, scalable, community-driven processes,
+934000	940000	making giant improvements right after that threshold kicks off because you're not stuck in the same loop.
+940000	943000	You're not breaking as much anymore.
+943000	948000	Yeah, going gets easier as you get going, essentially.
+948000	951000	So, the reasons are labeled R and K.
+951000	952000	And I'll come back to that.
+952000	962000	There is a very good reason with all that you explained about how putting more time in figuring stuff out works well
+962000	967000	and why you think so and why I think so, but many people don't.
+967000	976000	It boils down to a very different theory that they don't seem coherent, but they're absolutely exactly that way,
+976000	984000	which is why in the hardware industry, if you go for that R selection strategy, you would fail miserably.
+984000	985000	You have to do K.
+985000	986000	You have to do K.
+986000	994000	And in the software industry, the way the gratification is modeled, if you are fast to market,
+994000	1002000	albeit with stupider products, and you got some people subscribed to that IDR model,
+1002000	1006000	now when your better version comes out, they already are subscribed to it.
+1006000	1009000	So you have more as in thing to play with.
+1009000	1014000	And you only can get more people out of that because your product can only get better in a sense.
+1014000	1021000	And for anybody new coming in, if they go with the K model, by the time they get to the crossover point,
+1021000	1030000	chances are that trend has already surpassed, that entire market has been utilized.
+1030000	1039000	Now, that is true and that was true, however, in a time where R and K followed a very different timeline.
+1039000	1045000	And the K selection actually needed a long time to actually be competitive.
+1045000	1052000	Now, with the new kind of tools, you can make K itself faster.
+1052000	1061000	You can plan faster, plan better, and actually cross the limit set points very aggressively than before,
+1061000	1070000	whereas R will always get stuck at some point and get like the going will get tough for it as it continues going forward
+1070000	1074000	because it didn't start with enough groundwork to sustain that.
+1074000	1076000	It becomes a jenga block.
+1076000	1086000	So now those two curves follow two different styles of evolution.
+1087000	1096000	One is a tortoise laying 500 eggs and basically leaving it be going over.
+1096000	1102000	Think of those 500 eggs as 500 different ideas built for breakfast.
+1102000	1106000	Half of them would not even make it to the sea for the first time ever.
+1106000	1111000	Some of them would, one of them might, but laying more number of eggs
+1111000	1120000	gives the opportunity for maximum variance or variable, variabilities to be explored, which one gets selected.
+1120000	1127000	So if you're trying to make a selection, like which kind of selection would work better, that works very well in evolution.
+1127000	1130000	Lay more eggs. Don't worry much about it.
+1130000	1135000	Move on to your life. Next year, come back and lay 500 more eggs.
+1135000	1139000	That's it. Life is easy. You don't have to do much.
+1139000	1149000	Whereas if you go up the food chain or like the, how do you say, like the success chain of the evolutionary species, what humans do,
+1149000	1154000	like we spend our 18 years, first 18 years being kid.
+1154000	1161000	Like not only that we have, we like something can things can go wrong.
+1161000	1164000	There are other entities will make sure things don't go wrong.
+1164000	1168000	They will give you that lower hanging part that you haven't built up yet.
+1168000	1173000	They'll give you that will make you get you to that catch up point where you can cross over.
+1173000	1179000	Now you are adult. Now go make break boundaries up to you.
+1179000	1189000	Right. So that happens only in species who have found out their niche or the selection has already been selected.
+1189000	1193000	Say, for example, sharks don't evolve as much as other species.
+1193000	1196000	They have been they have been formed before dinosaurs.
+1196000	1200000	They're still there. Right.
+1200000	1204000	The reason being they have found their niche.
+1204000	1211000	Even if you go for a homogenous species, like snakes, for example, two different species of snakes can behave to completely different.
+1211000	1217000	A king cobra actually is a viviparous, not viviparous.
+1217000	1222000	So it gives birth to baby snakes, which is awkward and weird.
+1222000	1230000	It takes care of those baby snakes like is not expected out of snake like their lowest form of reptiles in a sense.
+1230000	1235000	Right. Why is that the case? If you think about it, OK, what does it do in a food chain?
+1235000	1239000	It eats other snakes is basically breaking that boundary.
+1239000	1244000	That green set point is basically transcending over what it is said to be.
+1245000	1249000	It's like a ratatouille. You're said to be a mouse, but you have become a chef.
+1249000	1257000	It's almost like that way. If you need to break that kind of boundary, if you have to like set any kind of sublime,
+1257000	1263000	like become something that other people perceive as sublime, then you have to go the case selection mechanism.
+1263000	1273000	You cannot have excellence going by the art selection, but the art selection is what gives you the tools to work with for the case selection.
+1273000	1283000	So the entire whole point that I was trying to build is that not one can be thrown out for the sake of the other.
+1283000	1289000	However, one needs to find the balance is neither of those things alone is sufficient.
+1289000	1297000	If you get too comfortable in your skin in the case selection model, one certain asteroid will come and wipe your entire not only species,
+1297000	1309000	but entire ecology out because you are too comfortable being large and big and breathing too much oxygen and cannot burrow under the ground.
+1309000	1317000	So that's what ends up happening. So if you want to sustain and survive, you need both.
+1317000	1326000	However, you need to pick and choose the balance how much of innovation of art you want and how much planning of key you want.
+1326000	1338000	Usually that balance, usually whenever people say something is good, we have a tendency to do only that, like overdo those things.
+1338000	1347000	So completely like off the salt, like would never touch salt ever again, that kind of thing.
+1347000	1353000	We tend to overdo that. So those kind of practices is where the challenge is like.
+1353000	1358000	How do you think? First of all, do you see the point that I was trying to make?
+1358000	1366000	Is did I explain it enough or did I like not explaining the screen back?
+1366000	1369000	As in you just share it again.
+1369000	1374000	Oh, OK. I just I crossed it as in I didn't save it.
+1374000	1376000	Didn't save it. OK. Yeah.
+1376000	1381000	So anyhow, I was back as in I can.
+1382000	1385000	I was showing it back as in I I stopped showing.
+1385000	1388000	That's what you mentioned.
+1388000	1390000	And if you can share it again. Oh, sorry.
+1390000	1393000	No, I like I have to draw it again. Yeah.
+1393000	1400000	So the thing that I was trying to get to, and I think you did a very good segue to it is that the time it takes, right?
+1400000	1410000	Because one of the things to look at and again, whether the key or the art flow, it depends on what your destination is.
+1410000	1420000	Like if you are doing something that is really wrong, then because there are chances that the results of your computation of the information that you need won't be available for a few years.
+1420000	1422000	So there is a way to get whatever.
+1422000	1431000	So the key curve can take the advantage of varying time, a specific milestone or a specific inflection point to be precise exists.
+1432000	1443000	Now, if you want to actually maximize this area, I would have asked you to shade the RK intersection.
+1443000	1453000	Yes, because the best way to then combine both because you need the short bursts of acceleration.
+1453000	1462000	Again, if you look at agile processes and scrum, you always have this concept of spikes, right, which are your exploratory area.
+1462000	1477000	The very interesting pattern that emerges when you chart it this way is you kind of get to a tangential like a diagonal double helix that forms as a result of the constant intersections of the R and K lines.
+1477000	1480000	And which is your step function.
+1480000	1481000	Tick tock model.
+1481000	1483000	It's called tick tock tick tock model.
+1483000	1487000	And they've introduced it for their processor generation.
+1487000	1488000	One shrinks the die size.
+1488000	1491000	One increases the number of processor.
+1491000	1505000	And the point I'm trying to say is that the double helical structure exists in nature in exactly these kind of situations that where there is a contention between the energy usage and time.
+1505000	1507000	Or efficiency over time.
+1507000	1513000	Or there is this constant correlation because there are two things that are time orbiting around each other.
+1513000	1524000	So what this would look like if I am to map this to physics, if this would look like a binary star system pacing through the galaxy or through a universe, the route that they will chart.
+1524000	1532000	The important thing is that your R and K have bounded like they have attraction towards each other.
+1532000	1540000	If your R and K separate, if they diverge, then you at some point would choose a certain way.
+1540000	1541000	And that's fine.
+1541000	1545000	Like divergence is also good in some areas.
+1545000	1551000	Like let's say you have you have hit that area where you know that you found your niche and you want to carry on on the K trajectory.
+1551000	1555000	It's OK to then detach from the R trajectory.
+1555000	1563000	But what would soon happen is after a while, the same patterns would emerge because again, this is fundamentally a step function.
+1563000	1573000	You have to flat line and then you have to climb again, which is why I was saying that the best thing to then do is look at how do you combine innovation?
+1573000	1581000	So that if you shared that area between R and K, the reason I was saying that what that is, it's your safety margin.
+1582000	1587000	That R cannot exceed a certain boundary before K catching up.
+1587000	1596000	So if you then just continue on that front, it it also means that those are stable.
+1596000	1599000	When you wrote E here, what was your E?
+1599000	1603000	Entropy, but energy fits just fine.
+1603000	1606000	OK, I went to energy.
+1606000	1608000	I was like something doesn't feel right.
+1608000	1611000	So you see what you're saying that, yeah.
+1611000	1615000	I am saying the classic dualist philosophy.
+1615000	1617000	I got it.
+1617000	1619000	I see it that way, by the way.
+1619000	1621000	But this is not the first time.
+1621000	1629000	So you can go on this double helical process, but the double helical grows over time.
+1629000	1635000	What to watch out for is yet if E is entropy, this makes all the more sense.
+1635000	1641000	That this curve should kind of be a linear and mildly.
+1641000	1649000	If you chart the intersection points of R and K and plot that, it should be nearly linear.
+1649000	1650000	Yeah, it would be.
+1650000	1659000	In fact, the best equilibrium, you are doing it perfect when it is a perfect 45 degree angle on the E by T chart.
+1660000	1668000	This one that is a perfect charting the growth of entropy over time and having some points where you are merging back.
+1668000	1671000	So that's quite a lot of theory.
+1671000	1683000	But then how does this boil down to what we are talking of building the base that are these discussions are pretty much the R line.
+1683000	1687000	That it's the upward curve of the R line.
+1687000	1694000	And at some point, if we continue along the R line, we are going to not produce anything that is worthwhile and we are going to flatten out.
+1694000	1696000	There won't be newer ideas.
+1696000	1708000	The K line here is something that is taking whatever is there, creating that baseline, meeting up to meet like a publishing point.
+1708000	1716000	Now, when let's let's mark that as like E1T1 sort of, let's say the first inflection point.
+1716000	1723000	First, let me mark this inflection point, this point.
+1723000	1728000	Yeah. So this after this first inflection point, something interesting is happening.
+1728000	1737000	If you notice, the R is sort of taking a period of recovery where it is catching up.
+1737000	1742000	But in that point, the K line actually has a lot to catch up on.
+1742000	1747000	So that publishing the feedback and everything comes in some sort of stabilized delivery.
+1747000	1749000	Meanwhile, this needs to build up.
+1749000	1753000	So one interesting, I mean, this is, of course, hand drawn.
+1753000	1759000	But when you plot it, what's going to happen is your R would never dip below its current Y levels.
+1759000	1764000	Your R would flatten and then go up again.
+1764000	1772000	So these the P here is one of those key inflection release points.
+1772000	1782000	Whenever you are at this P, each time you can take a call on whether for further like which direction to go next.
+1782000	1787000	Because from there, you can choose key. I want to do another burst of development.
+1787000	1792000	But in any case, it ends up looking like a double helical pattern.
+1792000	1799000	Which is why I do not promote like personally to go for either one of those approach.
+1799000	1805000	And if you notice, we haven't been doing either one of those approach by itself.
+1805000	1809000	What we did is that we kept the idea generation factory.
+1809000	1815000	This R as it is untouched. Go ahead, do your thing.
+1815000	1818000	Right. At some point you will hit a ceiling or something like that.
+1818000	1821000	No more ideas coming out. I don't know when that will happen.
+1821000	1826000	If that does, but we are not tying it with success of the whole thing to that only.
+1826000	1830000	We're saying, you know, let's talk about how do we classify that categorize that?
+1830000	1835000	How do you set up the platform in a way that part of the discussion was the case selection.
+1835000	1837000	Right. So we did both at the same time.
+1837000	1848000	And that is the ideal approach to go on about it is because how at ease both those like the two parts of the double helical structure is with with itself.
+1848000	1860000	So the moment when we come to the inflection point where the distribution mechanism is having same amount of success as the idea generation one.
+1860000	1867000	So idea generation has told enough and the distribution mechanism has reason enough to come to the point.
+1867000	1877000	That's when we have to switch our mindset about, hey, do we need to cover more ground, more areas that we can cover?
+1877000	1883000	And this mechanism of distribution that works is just let more subscribers come in.
+1883000	1889000	Whatever people were talking about or listening to, let them talk about it, listen to that and think it will keep on going there.
+1889000	1891000	It will flatline much later, much after.
+1891000	1896000	By that time, let's think about whether there are more ideas to talk about.
+1896000	1900000	Right. So that way, it will keep on shifting perspective.
+1900000	1908000	We have to put a little more here, a little more effort there, a little more effort there at the cost of putting a little less effort here or there.
+1908000	1911000	And that way, like they will go back and forth.
+1911000	1917000	But this idea identifying those inflection points is where the actual.
+1917000	1927000	So if I had to talk about like how tech CEOs or basically CXOs should think about these kind of things, it would be.
+1927000	1931000	Not only them, for anybody for that matter, it makes the same sense.
+1931000	1941000	But how do your priorities, the two aspects of it, where do they meet and at which point you should decide that you need to shift gears in either one of those?
+1941000	1944000	Because this battle between.
+1944000	1948000	Have you watched WALL-E, the movie?
+1948000	1954000	There is a space thing where WALL-E and EVA goes in a spiral.
+1954000	1959000	That's exactly what it ends up looking if it is not drawn poorly on MS Paint.
+1959000	1962000	So that's that's what I was getting at.
+1962000	1965000	So that's what it will constantly change and shift.
+1965000	1970000	And that is a good good way. No case selection is perfect case selection for forever.
+1970000	1977000	The world, the reality, the universe would put blockers in your in front of you that you would need to rethink about it.
+1977000	1984000	You need to shift perspective and change up some of the parameters to make it fit better and know our selection is going to be better as well.
+1984000	1991000	But yes, by definition, it will flatten out if you don't start to reorganize that.
+1991000	1994000	I have so many examples for this. I don't know.
+1994000	1998000	Can you name the green plane?
+1998000	2003000	So that is how the progress looks like from zoomed out.
+2003000	2006000	Put a marker to it so that I can refer to it.
+2006000	2009000	So it's P, the progress. I thought P was the point.
+2009000	2013000	Oh, OK. So that I should have called the point P as like, OK, wait, infection.
+2013000	2017000	So it's it can be I. I don't I don't want to acknowledge the infection.
+2017000	2021000	I said just name the name the axis. If that's P, then that's fine.
+2021000	2027000	Now, the important thing to remember is why in our discussions,
+2027000	2030000	at least some of these places where these things work out,
+2030000	2038000	because if you map this to the functioning of a good product and development team in most software organizations,
+2038000	2042000	the R is your product management who are going out,
+2042000	2047000	exploring possibilities, coming back to you with arguments, the K catches up.
+2047000	2052000	Then there is the R going down below the K is the period where product management is
+2052000	2054000	gathering feedback for something that has been shipped.
+2054000	2062000	Meanwhile, there is a constant thing that is going on, like full pleasure development going on.
+2062000	2068000	What's going on? Because by then you are validating at one point that goes and then you again come back out.
+2068000	2075000	Right. So the green, what is important in this is if you want to independently
+2075000	2078000	control the rate of R and K, you might fail.
+2078000	2081000	It might look like it is intuitive that I can, of course, turn.
+2081000	2088000	But no, the important thing is the green line, the P plane that wherever you are going,
+2088000	2093000	the P plane should target there, which means if you are going somewhere,
+2093000	2102000	you don't have a lot of time, your P plane will be far more sloped upwards so that you reach at the end of the point.
+2102000	2106000	But what this mainly looks like. Yeah.
+2108000	2114000	So it's basically matter and anti-matter in a sense, like how much it goes above the progress line.
+2114000	2118000	It also you also have to have that much below the progress.
+2118000	2121000	Anyways, yeah, one of the things I want to.
+2121000	2126000	The reason I said this is important is I said about the double helical structure.
+2126000	2135000	So if you just draw the chart, the distance from the like the delta R with the delta from P at each point,
+2135000	2142000	and then you do delta K from P, you should never do R to K as a straight thing.
+2142000	2149000	You should always branch off from P. So your P is kind of ideal where I want to go to.
+2149000	2155000	So that is if you then look at two stars revolving around each other, running around the galaxy.
+2155000	2160000	If you can plot their movement, you will get the orbit of both the suns.
+2160000	2165000	Right. Yes. And that is the important factor that where is the thing going?
+2165000	2173000	Because the way you nudge this system to go in any other direction is by changing where that green would end up.
+2173000	2183000	Right. So basically, the green is the barycenter of those two like two body system is the barycenter where other two things are basically revolving around.
+2183000	2189000	So in this setup, over time, it would be considered as access, essentially.
+2189000	2195000	Yeah. Now, why this is more important is you need to look at this.
+2195000	2203000	It's of course over T. So it's a it's a state machine slash motion snapshot, whatever.
+2203000	2207000	The critical thing to know is this is a very simplified version.
+2207000	2213000	This is a very simplified version. This is a like simplified in the sense this is a reduced version.
+2213000	2220000	In real world, you would have at least three or four such accesses pulling along each other.
+2220000	2224000	But you would probably be able to call them as R1, R2 and K1, K2.
+2224000	2229000	You can broadly group them in these two opposing forces categories.
+2229000	2234000	The reason is it's like imagine all of Jupiter's moons orbiting around Jupiter.
+2234000	2239000	What does that look like that you have that many groups like things going on?
+2239000	2243000	Right. So one of the common things that comes up in most product,
+2243000	2251000	especially the sort of software product who are more tuned to community that they want to take in community feedback,
+2251000	2260000	is there is a friction between internally on should I prioritize community feedback or should I prioritize what my CEO wants?
+2260000	2267000	And that presents a very weird but very difficult to solve friction as well.
+2267000	2272000	And one way to address that is again be true to your T plane.
+2272000	2282000	If you have a clear enough idea of where that is, you can just map a community feedback on the distance like chart the delta R from P.
+2282000	2289000	See if it is within acceptable range, in which case treat is just as the same as any internal team member has suggested it.
+2289000	2297000	Right. That it is on that curve where I see delta R reducing over time till it intersects with K.
+2297000	2301000	So we speak maths.
+2301000	2308000	Yes. In essence, it's very it will take too many words to explain otherwise.
+2308000	2312000	But what I'm trying to say is just map the functions.
+2312000	2317000	So you don't want to start with R alone or K alone.
+2317000	2325000	Then the part that comes in is once you identify this, you realize the importance of iterations.
+2325000	2334000	Fast iterations on this plane would mean more frequent intersections between R and P, R and K.
+2334000	2340000	Slower iterations would mean longer durations, but slower iterations have a challenge key.
+2340000	2347000	You might have difficulty the longer R and K have diverged, the longer it might take to converge them back.
+2347000	2358000	So you want to place a limit limiter function on what is the maximum distance possible for R before the K function triggers an upward curve.
+2358000	2368000	Right. For the people listening to this and being a little bit.
+2368000	2371000	I don't know what was the right term.
+2371000	2374000	I would like to just break this down.
+2374000	2385000	I'll give an example, because sometimes I've seen what works out of the exoteric discussions is that an example immediately grabs the attention back.
+2385000	2390000	So I will give an example. Chip vendors, right?
+2390000	2393000	That's probably it's not a rocket science in that sense.
+2393000	2396000	It's actually more complicated than rocket science.
+2396000	2399000	It is super complicated stuff.
+2399000	2404000	Probably the one of the most complicated things we do as a species is producing chips.
+2405000	2414000	Now, there are always a lot more factors that gets into this and creates this to be not as simple as that.
+2414000	2417000	This graph, two different factors.
+2417000	2424000	But if you try hard enough, you can still always make a multi-body problem into a two-body problem.
+2424000	2439000	And this is a model that Intel used to follow and now still now follows is when their odd generation of chipsets like chips, 15th generation, 13th generation, 11th generation also,
+2439000	2447000	they follow a particular kind of R and different kind of K or basically the phase shift essentially.
+2447000	2452000	What is R here would become K here in that kind of way.
+2453000	2464000	So what they do, they have boiled it down to like, we need to do two things in order to give or provide people with more amount of computing power in the same or similar kind of package.
+2464000	2475000	We need to do two things. We need to lower the size of the silicon as in the transistors that we have and pack more into the same time.
+2475000	2482000	So how about we put more innovation and both those things, they are not two separate things that are happening separately.
+2482000	2492000	What is happening is that from the moment of their team is done with 11th generation, that team starts working towards the 13th generation.
+2492000	2502000	Their objective can just be how do we pack more chips into that same layout, same size, whatever the LGA size is.
+2502000	2508000	And whatever the moment 12th generation are done, they would move to 14th generation.
+2508000	2515000	How do I produce as in create the transitions themselves are smaller, right?
+2515000	2528000	In that sense, they create double 2x the phase then because if you see about this, this graph eventually comes down and meets somewhere over here.
+2528000	2534000	Then when it starts back again, this point and this point are practically the same point.
+2534000	2540000	So basically 2x that phase then perceived phase that becomes its original pace.
+2540000	2545000	So every two generation, they're doing the exact same thing all over again, starting new going.
+2545000	2551000	But for the first part of it, one team is in experimental experimentation mode.
+2551000	2554000	The other team is in production mode.
+2554000	2560000	The next phase, the other team is in the experimentation mode and this team is in production.
+2560000	2562000	And that works so well for them.
+2562000	2563000	They're sticking by it.
+2563000	2576000	And even though AMD threatened them with a very different kind of innovation where they're like, we don't actually want to even build the whole thing in one day.
+2576000	2581000	So to do that, it's much, much easier to build them in smaller pieces and put them back together.
+2581000	2583000	So I want to do that chiplet design.
+2583000	2586000	So at that point, what do you do?
+2586000	2591000	You can just split off like, hey, there's a tick tock model teams that we have.
+2591000	2601000	How about if the tick tock model teams as one, R or K, and the chiplet team as R and K, R or K, depending on which phase they are in.
+2601000	2605000	So you can make any time any multi-body problem into two-body problem.
+2605000	2609000	So one team is going to look into how the chiplets can be made.
+2609000	2616000	The other team is going to look like always how I can make the chiplets themselves more denser.
+2616000	2628000	So in that sense, what is in the ending up happening is that no matter how complicated the system is, it's not only this does not only apply to a very simple or theoretical only situations.
+2628000	2632000	You can make it apply anywhere, wherever you can perceive a duality.
+2632000	2638000	You can perceive a pull or push and pull tug of war between two different forces.
+2638000	2641000	Do I do this or do I do that?
+2641000	2644000	This should actually help you out with that.
+2644000	2646000	I lost your video feed.
+2646000	2654000	All right.
+2654000	2659000	Right. I don't know where else I was going with this.
+2659000	2665000	Should I be starting to think about a better analogy or example?
+2665000	2672000	I kind of think like the chiplet design or the chip vendor kind of example is not genuine.
+2672000	2676000	I think we can just probably follow because we were talking future software development.
+2676000	2681000	This is one place to come back to when we were saying that like the base when we went into this discussion.
+2681000	2685000	Is there any supplement that follows that?
+2685000	2692000	This I don't know, but it's something that is visible and like I'm not saying somebody explicitly follows.
+2692000	2694000	I'm not saying that.
+2694000	2705000	Yeah. So the only thing to remember is that while you said that you can break down a multi body problem into a two body problem in most cases,
+2705000	2721000	but there will be edge cases where you are stuck with a three body problem because you start dividing like decomposing and you end up with three fundamental elements because like the lowest number you can't divide three.
+2722000	2733000	So what goes on in that kind of a situation is you are presented with a slightly more chaotic world.
+2733000	2736000	The two body world is far more deterministic.
+2736000	2739000	The three body world is extremely chaotic.
+2739000	2748000	And science fiction, plugway, three body problem and all if you just like just that three body problem itself is one of the things to geek out on.
+2748000	2751000	It's such a beautiful mathematical problem and social problem.
+2751000	2753000	Anyway, you want to put it right.
+2753000	2757000	But what happens is and I think this will come up more.
+2757000	2766000	This will become more and more relevant as complexities of software development increase because there are more things riding on it.
+2766000	2770000	And I have experienced this in some form.
+2770000	2782000	Like I said, it becomes a three body problem because in a traditional software development organization, you cannot always compare things back down to two, especially when you are more community folks.
+2782000	2786000	And this is something I've seen happen with the more progressive software organizations.
+2787000	2803000	Because in a traditional software org, you have your like product design, development, management, whatever as one function, you have development as a function.
+2803000	2809000	So you sort of have two broader sections.
+2809000	2811000	But then the moment you bring in.
+2811000	2818000	So what these two teams do with user feedback is the user feedback is split into their separate buckets, right?
+2818000	2825000	That is how you are breaking down a complex system into a two body system that when user feedback is coming in, you are saying, is this a product feedback?
+2825000	2827000	Is this sort of engineering feedback?
+2827000	2829000	And it kind of you are channelizing.
+2829000	2836000	But what happens when you bring in a community as a first class citizen in this process?
+2836000	2851000	And say, for example, the software, the way more of the community focused, even for profit companies, the software, those who, you know, actually take community input seriously.
+2851000	2869000	And the reason you see the open source world and especially partially commercial commercial open source worlds be such a tricky minefield to access, also to build and maintain, because at some point you take decisions which are harmful for the community.
+2869000	2876000	At some point, the community asks something which is detrimental to the earnings or the sustainability of the project.
+2876000	2880000	So then it is still not that difficult.
+2880000	2885000	It is just one other access which might have chaotic influence on others.
+2885000	2888000	So at that point, you have two choices.
+2888000	2902000	Do you want to then merge the community like whenever you start with a three body problems, essentially validating them that if it is not three stars that are orbiting each other, in which case, well, good luck.
+2902000	2907000	But if you have some control of the system, you want to merge one towards the other.
+2907000	2910000	For example, are your internal stakeholders?
+2910000	2916000	In fact, in fact, you just said that screw it if it's stars.
+2916000	2917000	Good luck with that.
+2917000	2918000	That's exactly what is going to happen.
+2918000	2921000	I was just going to come back to giving you the same solution.
+2921000	2923000	That's exactly what is going to end up happening.
+2923000	2925000	What else do you think is going to end up happening?
+2925000	2931000	Yeah, so eventually, I mean, our nearest star neighbors.
+2931000	2936000	Yeah, like Centauri system, so Proxima Centauri, so Alpha Centauri.
+2936000	2938000	That's a three body problem.
+2938000	2939000	Yes.
+2939000	2941000	The smaller one and the larger one.
+2941000	2944000	So the three body problem series is based on that star system.
+2944000	2945000	Oh, I see.
+2945000	2946000	I see.
+2947000	2956000	So but the very interesting thing that happens is eventually systems coalesce given long enough time.
+2956000	2959000	But what if you don't want to give that long enough time?
+2959000	2972000	The immediate answer to especially those building software where you want to involve the community is do not keep a distinction between your internal stakeholders and external stakeholders.
+2972000	2975000	Everybody is a stakeholder for the thing that has been built.
+2975000	2984000	You have the best keywords that are probably on your payroll who are your internal stakeholders.
+2984000	2993000	So then you have moved that, you know, the graph of requirements instead of having a CEO to fight and a community to fight.
+2993000	2994000	You're like community.
+2994000	3000000	CEO is just a community representative or the community is just an extension of my internal team.
+3000000	3003000	Now, I want to really push that model.
+3003000	3011000	I have not had much success in coalescing those because individual egos kind of still, you know, border.
+3011000	3017000	But what would it look like to build an org where you, I mean, what would it look like?
+3017000	3028000	We have seen this orgs built, but reducing the chaos in that system, coalescing them better such that the community is a homogeneous entity.
+3028000	3029000	Right.
+3029000	3034000	So one challenge that I've seen, the part that bothered me the most,
+3034000	3044000	which is why I'm trying to put my best foot forward to not piece of people and try to reach people is that most people in position or power,
+3044000	3054000	the way our selection worked out for them is that were they very aggressively assertive, were they very conscientious?
+3054000	3062000	And so those are the things that things that propelled them forward and put in a position of power are not.
+3062000	3068000	Have this put enough thought meditating about a certain topic, validating whether that's correct, true or false?
+3068000	3070000	No, not that. Right.
+3070000	3081000	So what ends up happening is that the people who needs this kind of help the most are least likely to seek it
+3081000	3086000	or least likely to even be open to it if you even if you hand it over to them.
+3086000	3092000	So the way I'm starting to think about is that not how do we distribute,
+3092000	3102000	but rather finding out who are those people or how do we get those people to put to a place where they would be open to taking these ideas in the first place.
+3103000	3112000	Do you think this discussion that we are having, most, many or most people who are running or having a team that they need to run better,
+3112000	3123000	they have all the intentions to make it run better, but do they have the intent capacity and the availability or being a position?
+3123000	3124000	How do you commit a crime?
+3124000	3129000	You need to do three things. You need to be in a place. You need to have the intent and you have to need to have the capability.
+3129000	3134000	So I'm saying that can you find the trifecta of people in a mass scale?
+3134000	3142000	You don't. You find very rare, few samples and those samples are already kind of jaded out of the system.
+3142000	3144000	Take yourself for an example.
+3144000	3153000	The only reason you are so motivated to talk about these things is because how much it bothered you when you are or were in the system.
+3153000	3154000	Right.
+3154000	3156000	How do we find those people?
+3156000	3161000	How do we find how those people, instead of being jaded out of the system,
+3161000	3170000	how they can actually be part of the system and drive that change from the inside instead of like,
+3170000	3174000	I'm out of here instead of that.
+3174000	3182000	I think that is probably the best bet that we have got because you cannot make a horse out of an ass.
+3182000	3192000	At least I'm open to be proven wrong, but I have tried and I have failed miserably every time I tried to go that route.
+3192000	3196000	But it is better. It is more effortful.
+3196000	3199000	If sorry, it is more.
+3199000	3210000	What do you call that thing? Fulfilling. To find out the horses, even if lower in number and then train them to become the horses that you want them to be.
+3210000	3212000	You will get a lot of kicks. That is fine.
+3212000	3217000	But eventually it will get to that position and then you will count that as a success.
+3217000	3226000	That's much better than spending enormous amount of time pretending this donkey is a horse and can replace a horse.
+3226000	3230000	It's not what it was. That's how I think about this whole thing.
+3230000	3234000	Who should we talk to about this kind of stuff?
+3234000	3238000	That may not be the right answer to the question that you have asked.
+3238000	3242000	But if you can touch on the way, how would you want to go on about it?
+3242000	3245000	Then I probably can add some more thoughts about it.
+3245000	3254000	This was my immediate, very like deep seated or rooted kind of fast, fast answer, essentially, not the nuanced answer.
+3254000	3258000	I understand that.
+3258000	3262000	The way I want to go about it is.
+3262000	3267000	Not by starting to look for.
+3267000	3271000	But instead, take these things as frameworks.
+3271000	3275000	These can be packaged as frameworks.
+3275000	3281000	Anybody who's in a scenario, so let's say this applies.
+3281000	3287000	To a certain way of building structuring an org.
+3287000	3290000	Then what would those principles be?
+3290000	3301000	And I'm kind of drawing in from how the orbit framework went from being just a brilliant, like very beautiful abstract idea to an implementable framework.
+3301000	3312000	And the idea, the first thing that you do in any such implementation is you map to existing concepts, which means if I were to take any organization.
+3312000	3315000	Produce this chart based on their activities.
+3315000	3317000	What does my RNK planes look like?
+3317000	3318000	Do they even intersect?
+3318000	3320000	Do they even exist?
+3320000	3323000	Is one of the first things.
+3323000	3325000	So being able to.
+3325000	3330000	So I would actually look at this as a framework, publish this as a framework.
+3330000	3336000	And with like framework applied to specific scenarios.
+3336000	3342000	And just going detailed into some of those maybe that if you are and then speaking to personas, right?
+3342000	3354000	That how to apply this if you are a junior software developer, how to apply this if you're a senior developer, how to apply this if you are a new people manager, how to apply this if you are an architect.
+3354000	3363000	Because at each position, at each levels of power, there are different areas that somebody can influence in.
+3363000	3370000	But the importance of such a framework comes when it gives a handbook for the entire power structure.
+3370000	3378000	So that whoever is bringing this in into an organization, let's say they find something which they feel.
+3378000	3384000	Let's say me as a manager, as a new people manager, find something that can benefit from.
+3384000	3390000	But what happens is when I bring something in, it's also on me to help others learn, others implement.
+3390000	3398000	And that becomes one of the burnout points for somebody like me who wants to do good, who wants to build something from the inside.
+3398000	3416000	But if I got something which not just told me what it looks like for me, what are the things that I need to do, as much as what does it look like throughout the entire power structure, sort of the framework that helps them see at their views.
+3416000	3419000	That immediately becomes a lot more useful.
+3419000	3423000	And you then see different levels of adoption.
+3423000	3435000	And whatever levels of adoption an org goes through, sometimes the impact stays limited to one team in a larger org, like one team of four or five members or 10 members.
+3435000	3445000	Over time, over a few quarters or few iterations, what starts happening is other teams start seeing that this team is doing something different where they have become more stable.
+3445000	3448000	They are shipping software better, they are more predictable.
+3448000	3450000	So what is it that they are doing?
+3450000	3463000	If the answer at that point is not specific people, but a certain way of work that they have been able to adapt, then immediately there is that viral proof based distribution that happens.
+3463000	3476000	So what I'm then saying is the way I would like to bring this to the masses is by looking at the layers and seeing what would be that implementation, and maybe even looking at this from a few lenses.
+3476000	3487000	For example, let's say the future of software development is one, then building an organization that follows some of those principles being one.
+3487000	3490000	I kind of see this as a handbook with use cases.
+3490000	3493000	One specific example.
+3493000	3498000	Let me see if I can find I'll share with you what I mean.
+3498000	3500000	But this is this is the direction.
+3500000	3509000	Now, what I mean with this is that with the theoretical framework in place, the people to talk to are those who have tried applying it.
+3509000	3514000	Get that feedback and sort of build from there as well.
+3514000	3520000	What I'm not sure about is if that is the work that we want to do in mass.
+3520000	3526000	Or is this more of a blog post series.
+3526000	3536000	I've been trying to match the match the suggestion up with my experience of exact same situation, which has happened.
+3536000	3540000	And my expectation was what you said.
+3540000	3549000	People see that, hey, some other team are having more success or equal success with different practices or sense more success with sympathy.
+3549000	3552000	What is it that that is different about them?
+3552000	3554000	And why is it that way?
+3554000	3556000	And let's learn from it.
+3556000	3559000	Let's implement that.
+3559000	3564000	The reality is much more grimmer than what?
+3564000	3568000	What would that idealistic viewpoint would suggest?
+3568000	3575000	First of all, nobody would go through like want to look into that mirror or acknowledge that that somebody else is doing.
+3575000	3579000	So I'll give you a more tangible, actual and real.
+3579000	3588000	So a team practicing agile and another team is not one team is completely into procuring.
+3588000	3593000	Procuring high quality talents, letting them do whatever they want.
+3593000	3602000	And they have a good backlog management of like, hey, here are the things that are a priority for our organization, for the bigger goal of our organization.
+3602000	3605000	We need to get all of these things done.
+3605000	3610000	You're not bound to do one thing or the other, but whatever you pick and choose.
+3610000	3613000	Try to be successful at it, like implement that successfully.
+3613000	3616000	Don't leave it at half as way.
+3616000	3622000	You will have to produce enough result out of it that we know that you've spent your time with it.
+3622000	3625000	Even if you fail and you want to hand it over to somebody else, that's fine.
+3625000	3626000	So that's one approach.
+3626000	3630000	And the other one is like the normal baseline run of the mill agile.
+3630000	3637000	It's not even that the what is the what does the book say kind of is the normal practice of agile.
+3637000	3638000	So that's what is happening.
+3638000	3643000	Which team do you think is over the course of time producing better result?
+3643000	3645000	And I'm not going to give you the answer here.
+3645000	3648000	I don't want to sound biased to anybody who is listening.
+3648000	3652000	I don't want people to tune out there because it doesn't match up with their expectation.
+3652000	3670000	The thing is, after over two years of that happening, one team is doing like sustaining very well at low overhead of operation and having generating very good results overall.
+3670000	3677000	But the other team or teams are not really ready to learn from that at all.
+3677000	3692000	They don't want to acknowledge that has anything to do with their lack of momentum has anything to do with the practices they're following or rather the time they're ending up spending doing things that may or may not contribute to the overall progress of the organization.
+3692000	3696000	They simply would not acknowledge that in the first place.
+3696000	3700000	Improvement comes after you acknowledge that, hey, something can be improved.
+3700000	3717000	So in that sense, if you take it from there, I would argue you would be the first blocker that you face is convincing them that they need to do something differently because they are not doing it well.
+3717000	3718000	Solutions are easier.
+3718000	3723000	Accepting you need a solution is the hardest part.
+3723000	3731000	Whatever I've seen, and it's kind of heartbreaking like those are the parts that actually I get mad like I'm usually not.
+3731000	3743000	I take everything just most of the time, but those are things like real wastage of potential and people choosing to ignore facts, just because their worldview does not align with that.
+3743000	3747000	Those are the things that grind my gear very hard, essentially.
+3747000	3756000	I'll stop there. I know that I might rant a long while if I just if I'm allowed to get started with this, I'm going to stop there.
+3756000	3760000	And, yeah, that's it.
+3760000	3765000	I shared the two links there is actually the exit to community.
+3765000	3769000	One of those things pretty close to my heart.
+3769000	3781000	But the way these people have applied this, it was one of the example that I was trying to show is one of the ways I would like to, you know, work on it.
+3781000	3791000	The core idea behind exit to community is how can we build organizations such that they serve the end community that you are using.
+3791000	3804000	And then for startup founders or for people building new organizations instead of targeting IPO, which is like the two common forms of exit that you are either acquired or you go IPO.
+3804000	3813000	This is a third alternative to that, which is saying you plan for an exit to community and there are a bunch of tools, a bunch of things that you can use.
+3813000	3827000	They also have many such organizations, all of them, of course, smaller scale and exit to community focused organizations tend to be niche focused because it's kind of like identifying a niche user base,
+3827000	3835000	building for them in the hope that eventually all of them will take ownership of this entire organization.
+3835000	3847000	So which fits very well into how you and I think of initiators that for us, a maturity is when it has gotten community acceptance such that we can move on to the next.
+3847000	3849000	In fact, spin up multiple side by side.
+3849000	3854000	Its existence does not rely on the parents taking care of it on a daily basis.
+3854000	3857000	Exactly. Exactly. Like the kids have grown up.
+3857000	3867000	But the difference is this produces far more focused, far more impactful work because you are not trying to chase artificial money.
+3867000	3871000	You are always focused on sustainability.
+3871000	3876000	And that is how things would go. So I gave that as an example.
+3877000	3879000	I think this is a fantastic example. I love it.
+3879000	3889000	I went to the I went to the links and for the people watching the stream, they would have seen that because that's the one that will be shown there in my screen capture.
+3889000	3892000	Right. So they would have seen it already. I went to the base.
+3892000	3897000	I didn't share it. I was going through that about browser window.
+3898000	3903000	Understood. So that is the idea behind.
+3903000	3911000	I mean, in fact, exit to community exhibits this tendency, you know, that you are never moving too far from your green medium.
+3911000	3915000	And you are balancing innovation and sustainability.
+3915000	3918000	Right. Eventually to a delivery point.
+3918000	3927000	No matter how you explain it, the baseline of that is playing that infinite game versus finite game where people are exiting from with money.
+3927000	3930000	They're playing a finite game. They have to win somewhere.
+3930000	3934000	They have to put it on an objective scale of this much, that much, et cetera.
+3934000	3942000	But the moment you're exiting the community, you are ensuring survival of something that is bigger than the support that you can provide.
+3942000	3952000	Like, how long can you stay within the game and how long can you, along with a mind share of a whole other multiple layers of people,
+3952000	3958000	sticking to that would provide it or give it runway would be completely different.
+3958000	3965000	The sustainability would be completely different and make a lot of order of magnitude different or bigger, essentially.
+3965000	3970000	So basically you are playing an infinite game and significant a couple of orders of magnitude.
+3970000	3974000	You are enabling yourself to do more stuff.
+3974000	3982000	That is the moment somebody would understand that from that finite infinite game perspective, you don't have to sell more stuff to it.
+3982000	3986000	They immediately know how they want to play it out loud, play it out.
+3986000	3990000	But for most people, that's that part is not that obvious.
+3990000	3992000	That choice is not that obvious.
+3992000	3998000	How do you convince somebody to understand and recognize the difference between the finite and infinite game?
+3998000	4001000	Why chasing after simply just for money?
+4001000	4006000	It's not like in my mind, it's not too different than the paper clip maximizing, right?
+4006000	4015000	The theoretical, the thought experiment of paper clip maximizer, rogue AI that learned, OK, how to make more paper clips out of anything and everything,
+4015000	4021000	goes ahead and starts making paper clips out of anything and everything, depletes the resources, natural resources,
+4021000	4023000	just makes paper clips because that's what it's trained to do.
+4023000	4027000	That's what where it finds its meaning of purpose in life, essentially.
+4027000	4029000	Or whatever that that might be.
+4029000	4035000	So we by trying to maximize profit, we're being that profit maximizers in the exact same vein.
+4035000	4039000	So how do you convince somebody to think of it?
+4039000	4041000	Think of it differently.
+4041000	4050000	And the good thing is, the reason I pointed out is this entire like the second link that I shared, the PDF, that's the gem.
+4050000	4053000	That's something to like print and keep with you.
+4053000	4063000	That talks of how different levels of organizations can deal with it, with some case studies, with some ways of thinking.
+4063000	4069000	And, of course, unblocking some of those ways of thinking, leaving you with some more things to do.
+4069000	4078000	So this is one I was saying this format, like I feel like the output of all of this discussion, if this is if it is that a PDF,
+4078000	4084000	really, that people like a book and also to say that you can or a booklet that you can share, publish.
+4084000	4087000	I think that itself has value to build.
+4087000	4090000	But I wanted to eventually arrive at exit to community.
+4090000	4095000	I'm glad I kind of came through this, because again, talking of the future of software development,
+4095000	4104000	what we were trying to mention with the build fast, break fast thing, there are two considerations here.
+4104000	4106000	And I just touched on them.
+4106000	4107000	We can move on.
+4107000	4118000	The first is the current set of tooling that we have or that we're evolving to does enable you to build actually faster.
+4118000	4121000	So your art cycles can be smaller.
+4121000	4134000	Deployment capabilities have increased so much more over the last decade that the maintaining a state of the art deployed system
+4134000	4138000	is something that pretty much any small team can do today.
+4138000	4143000	And it's not even as crude as Ansible in 2012-13.
+4143000	4146000	Even Ansible feels so much better already.
+4146000	4155000	But the point I'm trying to say is that they have become better because they have continued on that certain line of democratization of technology.
+4155000	4160000	Rather, that's a cliche, but maybe it will give me a catchphrase.
+4160000	4170000	But the point is, it's more breaking down technology to make it more available to more and more people.
+4170000	4182000	And the current LLM driven AI boom that we are seeing actually introduces a very key element into that equation.
+4182000	4187000	That now you do not just build fast when you break fast.
+4187000	4191000	Constantly saying break fast and messing with my head.
+4191000	4199000	But when you actually break too often, let's say your breakages can be significantly more harmful.
+4199000	4202000	Yes, correct.
+4202000	4210000	And you cannot continue using these same tools, experimenting and testing in the same way.
+4210000	4212000	You need a far more contained.
+4212000	4216000	It's like if Sun was like, hey, we need to collide two particles.
+4216000	4219000	I just give me any random desert on Earth.
+4219000	4221000	Because we used to collide things.
+4221000	4228000	See if I used to test cars, I used to mash cars against fast moving cars and test how they broke.
+4228000	4230000	You can't do the same with two photons.
+4230000	4233000	You can't do the same with two atoms colliding.
+4233000	4245000	So what we need, though, is make sure that the breakages, make that breaking a part of your testable framework.
+4245000	4254000	Which means you don't optimize build often, break often or build often and disrupt often.
+4254000	4256000	Fast iterations.
+4257000	4265000	And if you follow that line, so you would want to minimize the gap between the two.
+4265000	4272000	You would want the R and K lines again to coalesce as often as possible.
+4272000	4279000	But know that what's going to happen with our current set of technology is the double helix.
+4280000	4288000	Especially if you have short iterations are going to look like bubbles strained after one another, a chain of bubbles.
+4288000	4293000	It's not you're not going to have the gentle curve anymore.
+4293000	4298000	And the only reason is you're probably looking at time in a different way.
+4298000	4301000	If you expand the time axis, you zoom in, you will again start seeing that curve.
+4301000	4304000	But now it is just slightly steeper.
+4304000	4315000	So what it means is short iterations, quick tests, immediate feedback is essential with the sort of systems that we are working.
+4315000	4326000	Because I mean, think of it as you are a crew member of the USS Discovery, which has just gained sentience.
+4326000	4328000	It has just come across emotion.
+4328000	4334000	So this started discovery season four, and then it decides to plunge towards the sun.
+4334000	4337000	You don't have a lot of time, right?
+4337000	4344000	Now, if your systems were more like, hey, take the system down one by one, examine, it's not going to work.
+4344000	4351000	Which means your fail saves need to take into account that the R thing can actually suddenly break out.
+4351000	4357000	You won't be able to bring it back in that breaking out might be your AI has gained sentience.
+4357000	4367000	If you define sentience as just having emotions, however we define, let's just say it's beyond your control and beyond your control.
+4367000	4370000	If you look at the two stars orbiting each other, right?
+4370000	4374000	In this case, one of them decides to shoot off in another direction.
+4374000	4376000	You would then have two choices.
+4376000	4378000	Let that go.
+4378000	4390000	Like that ship has sailed or try to converge enough, pull it, exert enough influence to then bring that back to a meeting line.
+4390000	4398000	And I think this is the point I was trying to get to that why this framework actually applies.
+4398000	4404000	It really shows the implications of software development.
+4404000	4408000	Yeah, so that was very interesting, actually.
+4408000	4415000	So I think I like, OK, how about we keep a particular time?
+4415000	4421000	Maybe next week, discuss about the perception of time versus control.
+4421000	4426000	How much time you need for which kind of controls, right?
+4426000	4430000	On the surface, it might seem like what is there to discuss about it.
+4430000	4434000	But trust me, there's a lot to dig in over there.
+4434000	4439000	And actually, it can be it can be seen in a multitude of ways.
+4439000	4447000	Only part that I'm going to mention right now is that the stoic versus the will to power philosophies that you said that there are only two options.
+4447000	4450000	One is.
+4450000	4453000	Guess I will die.
+4453000	4456000	Otherwise, like I know I might die.
+4456000	4458000	If I sit down, I'll still die.
+4458000	4465000	Then why not die swinging the sword and try to make align the world to my needs, essentially.
+4465000	4469000	So those both those approaches, either of those approaches can work.
+4469000	4476000	But depending on the best option that you've got is that never be rushed for time.
+4476000	4486000	The best controls that you have got is never the ones that do not rush you towards a particular set of time or time wise delivery, temporal deliveries, essentially.
+4486000	4494000	That's that's going to be part of the next that that that episode when you talk about control versus time.
+4494000	4504000	At any point, if you feel like you're rushed for time, it only means you haven't established your controls well enough for that.
+4504000	4515000	And your concerns are correct on at least the AI front is that that was true for nuclear when we found nuclear weapons and power as well in nuclear energy.
+4515000	4517000	We could harness nuclear energy.
+4517000	4520000	How would you going to how are you going to harness it?
+4520000	4528000	Controlled burn versus explosion that in itself was to the point.
+4528000	4533000	In retrospect, looks like much smaller problem that you need a couple of thousand to actually wipe out humanity.
+4533000	4538000	So it's not not as readily of a problem.
+4538000	4550000	So as we go forward as a species, we are going to cause bigger and bigger of those potential harms that we can cause to ourselves by not being mindful about that are versus scaling.
+4550000	4555000	How much planning versus how much exploration can we do?
+4555000	4558000	And there's that. I don't think there's an answer to this.
+4558000	4565000	It's just that the moment any one of us lose sight over one for the other.
+4565000	4567000	That's the moment something bad would happen.
+4567000	4581000	Essentially, it's not a question of if but when it becomes the only thing that we need to ensure is that the control and the exploration both basically go hand in hand, going back to the topic of that.
+4581000	4595000	So I'll stop there. And I think it's better to close the discussion as well, essentially within the limited amount of time because we need to get into the practice.
+4595000	4604000	So I think this, this was with the 10th, maybe we want to go a bit more into specifics in some of those areas and stuff.
+4604000	4612000	So I think I can end the stream.
+4612000	4614000	So in this case, we can just wrap up.
+4614000	4616000	Let's let's wrap it up here.
+4616000	4619000	This was pretty good discussion, by the way. Thanks, anybody who's watching.
+4619000	4624000	I know Sumit watches it every, every week. At least that's the only feedback that I have so far.
+4624000	4626000	Maybe there are other people folks are watching.
+4627000	4632000	If you are watching for somebody who is watching, let me or Kostov know that you're watching.
+4632000	4639000	What do you think of the stream and we'll try to make that part of the process of our growth of this as well.
+4639000	4644000	So with that said, thanks for sticking around and see you next week.
+4644000	4647000	Cheers.
+4647000	4650000	Cutting words from you now.
